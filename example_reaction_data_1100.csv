@@ -1,0 +1,1101 @@
+,r,p,len_r,len_p
+3213,Br Br . C C O C ( = O ) C 1 C C C C C 1 = O > A_CCOCC,C C O C ( = O ) C 1 C C C C ( Br ) C 1 = O,23,21
+597249,C C ( C ) ( C ) C C ( = O ) Cl . N C C C O > A_ClCCl,C C ( C ) ( C ) C C ( = O ) N C C C O,23,19
+84023,C O c 1 c c c c ( - c 2 n o c 3 c c s c 2 3 ) c 1 > A_Cl A_c1ccncc1,O c 1 c c c c ( - c 2 n o c 3 c c s c 2 3 ) c 1,28,24
+191372,C C ( = O ) Cl . C C 1 ( C ) C C S c 2 c c c c c 2 1 > A_O A_Cl A_c1ccccc1,C C C C C C c 1 c c c 2 c ( c 1 ) S C C C 2 ( C ) C,30,26
+67326,O = S ( Cl ) Cl . O C C C C C C c 1 c c c n c 1 > A_ClC(Cl)Cl,Cl C C C C C C c 1 c c c n c 1,25,15
+574688,O = C 1 C C C ( c 2 c c c c n 2 ) C 1 > A_[Na+] A_CO,O [C@H] 1 C C [C@@H] ( c 2 c c c c n 2 ) C 1,22,18
+57523,C = C ( C ) c 1 c c c ( Cl ) c c 1 > A_CCO A_[H][H],C C ( C ) c 1 c c c ( Cl ) c c 1,20,16
+180366,C / C = C / C ( = O ) O C . C C C [N+] ( = O ) [O-] > A_O A_Cl A_CC#N,C C C ( C ( C ) C C ( = O ) O C ) [N+] ( = O ) [O-],27,23
+197599,C c 1 c c c c ( C ( = O ) O ) c 1 N . N C = O > A_O,C c 1 c c c c 2 c ( = O ) [nH] c n c 1 2,25,19
+106466,O = [N+] ( [O-] ) c 1 c c c ( Cl ) c ( [N+] ( = O ) [O-] ) c 1 . [OH-] > A_O A_[Na+],O = [N+] ( [O-] ) c 1 c c c ( O ) c ( [N+] ( = O ) [O-] ) c 1,30,25
+220201,C C ( C ) = C C O . O = C ( Br ) C Br > A_ClCCl A_CCN(CC)CC,C C ( C ) = C C O C ( = O ) C Br,21,16
+574701,O = C 1 C C C ( c 2 c c c n c 2 ) C C 1 > A_[Na+] A_CO A_Cl A_O=C([O-])O,O [C@H] 1 C C [C@H] ( c 2 c c c n c 2 ) C C 1,25,19
+35644,C C O C = O . O = C 1 C C S c 2 c c c c c 2 1 > A_[Na+] A_CO A_c1ccccc1 A_C[O-] A_[Na],O = C 1 C ( = C O ) C S c 2 c c c c c 2 1,29,21
+162672,O = C ( [O-] ) / C = C \ C ( = O ) O . [NH4+] > A_[Na+] A_[OH-],N [C@@H] ( C C ( = O ) O ) C ( = O ) O,22,17
+433500,C C O C ( = O ) c 1 n [nH] c 2 c 1 C C C 2 C > A_[Na+] A_CO A_[OH-],C C 1 C C c 2 c ( C ( = O ) O ) n [nH] c 2 1,25,21
+483961,C C O C ( = O ) c 1 c c [nH] c 1 C . I c 1 c c c c c 1 > A_[K+] A_Cc1ccccc1 A_O=P([O-])([O-])[O-],C C O C ( = O ) c 1 c c n ( - c 2 c c c c c 2 ) c 1 C,30,27
+253059,N # C c 1 n c c c c 1 N . N O > A_[Na+] A_Cl A_CCO A_C[O-],N C ( = N O ) c 1 n c c c c 1 N,20,16
+87404,C C Br . C O C ( = O ) c 1 c c ( S C # N ) c c c 1 N > A_[K+] A_CO A_[OH-],C C S c 1 c c c ( N ) c ( C ( = O ) O ) c 1,30,22
+273345,C N ( C ) C = O . C c 1 n c c 2 s c c n 1 2 > A_O A_[Na+] A_ClCCl A_[OH-],C c 1 n c ( C = O ) c 2 s c c n 1 2,27,18
+887808,C N c 1 c c c ( Br ) c c 1 [N+] ( = O ) [O-] > A_[K+] A_CO A_O=C([O-])[O-] A_Cl A_CCOC(C)=O A_CCO,C N c 1 c c c ( Br ) c c 1 N,26,14
+268398,C = C ( C ) C C ( = N O C ) C ( C ) = O . [NH3+] O > A_O A_CO A_c1ccncc1 A_[Cl-],C = C ( C ) C C ( = N O C ) C ( C ) = N O,28,21
+230627,C C C ( N = [N+] = [N-] ) c 1 c c 2 c c ( F ) c c c 2 [nH] 1 > A_CCO A_[Pd],C C C N c 1 c c 2 c c ( F ) c c c 2 [nH] 1,29,20
+225526,C C C n 1 c ( = S ) [nH] c 2 c c s c 2 c 1 = O . C I > A_[Na+] A_[OH-],C C C n 1 c ( S C ) n c 2 c c s c 2 c 1 = O,28,22
+640657,O = c 1 c c ( Cl ) c 2 c c c c c 2 n 1 C C 1 O C C O 1 > A_O=C(O)C(F)(F)F,O = C C n 1 c ( = O ) c c ( Cl ) c 2 c c c c c 2 1,29,25
+623391,Br Br . C O c 1 c c c c c 1 N 1 C C N C C 1 > A_ClCCl,C O c 1 c c ( Br ) c c c 1 N 1 C C N C C 1,23,21
+586067,C C c 1 c c 2 c c c ( F ) c c 2 [nH] 1 > A_[Na+] A_CC(=O)O,C C C 1 C c 2 c c c ( F ) c c 2 N 1,21,18
+217641,Br C c 1 c c c c c 1 . C C ( = O ) N O > A_O A_[Na+] A_[H-],C C ( = O ) N O C c 1 c c c c c 1,23,17
+562702,C I . C O c 1 n c ( C O ) c c c 1 Br > A_C1CCOC1,C O C c 1 c c c ( Br ) c ( O C ) n 1,20,18
+66654,C C 1 ( C ) O C C ( C 2 C O 2 ) O 1 . N >,C C 1 ( C ) O C C ( C ( O ) C N ) O 1,21,19
+29972,C O C ( = O ) C ( C ) O c 1 c c c ( C = O ) c c 1 > A_[Na+] A_CO,C O C ( = O ) C ( C ) O c 1 c c c ( C O ) c c 1,28,24
+61505,C C ( = O ) c 1 c s c 2 c c c c c 1 2 . O . O = [Se] = O > A_c1ccncc1,O = C ( O ) C ( O ) c 1 c s c 2 c c c c c 1 2,29,23
+274899,N . O = S ( = O ) ( Cl ) c 1 c c o c 1 >,N S ( = O ) ( = O ) c 1 c c o c 1,20,17
+257962,C c 1 c c c c ( N ) c 1 N . O = C O > A_[OH-] A_[NH4+],C c 1 c c c c 2 n c [nH] c 1 2,21,14
+48109,C c 1 c c c c c 1 O . O = S ( = O ) ( Cl ) Cl >,C c 1 c c ( Cl ) c c c 1 O,23,13
+533666,C C O C ( = O ) C c 1 c c c ( [N+] ( = O ) [O-] ) c n 1 > A_CO A_[Pd],C C O C ( = O ) C c 1 c c c ( N ) c n 1,28,20
+273180,C 1 C O C C N 1 . O = C c 1 c c c ( F ) c ( Br ) c 1 > A_[Na+] A_CC(=O)O A_ClCCCl,F c 1 c c c ( C N 2 C C O C C 2 ) c c 1 Br,30,21
+492197,F c 1 c c c ( I ) c c 1 . O = C 1 C C C C C N 1 > A_O A_[K+] A_O=C([O-])[O-] A_CS(C)=O,O = C 1 C C C C C N 1 c 1 c c c ( F ) c c 1,29,22
+27393,C c 1 c ( N ) c c c c 1 Cl . O = [N+] ( [O-] ) c 1 c c c n c 1 Cl >,C c 1 c ( Cl ) c c c c 1 N c 1 n c c c c 1 [N+] ( = O ) [O-],30,27
+318857,O = C 1 C C C ( c 2 c c c ( O ) c c 2 O ) C C 1 > A_[Na+] A_Cl A_CCOC(C)=O A_CCO,O c 1 c c c ( [C@H] 2 C C [C@H] ( O ) C C 2 ) c ( O ) c 1,29,25
+814777,C C ( C ) ( C ) O C ( = O ) N 1 C C ( = O ) C 1 . C [Mg] Br > A_C1CCOC1,C C 1 ( O ) C N ( C ( = O ) O C ( C ) ( C ) C ) C 1,30,26
+798731,O = C 1 C C O 1 . O c 1 c c c c ( Cl ) c 1 Cl > A_O A_[Na+] A_Cl A_[OH-],O = C ( O ) C C O c 1 c c c c ( Cl ) c 1 Cl,27,21
+229369,O = S ( Cl ) Cl . O C ( C C C C Cl ) C c 1 c c c c c 1 >,Cl C C C C C ( Cl ) C c 1 c c c c c 1,27,18
+537445,C O C ( = O ) c 1 c c c ( C N = [N+] = [N-] ) n c 1 Cl > A_O A_C1CCOC1 A_c1ccc(P(c2ccccc2)c2ccccc2)cc1,C O C ( = O ) c 1 c c c ( C N ) n c 1 Cl,28,20
+331149,N C C C N . O = C 1 O C ( = O ) c 2 n c c n c 2 1 > A_CCO,N C C C N C ( = O ) c 1 n c c n c 1 C ( = O ) O,27,24
+51564,C c 1 s c c c 1 C N ( C ) C . O = C ( [O-] ) [O-] > A_[Na+] A_Cl A_[OH-] A_CC(=O)O,C c 1 s c ( C O ) c c 1 C N ( C ) C,27,18
+397425,Br Br . C C O C ( = O ) C 1 C C C ( = O ) C C 1 > A_O A_[Na+] A_O=C([O-])O A_CCOCC,C C O C ( = O ) C 1 C C C ( = O ) C ( Br ) C 1,28,23
+653380,Br Br . N c 1 n c 2 c c c ( F ) c c 2 s 1 > A_[Na+] A_O=C([O-])[O-] A_CC(=O)O A_CC(=O)[O-],N c 1 n c 2 c c c ( F ) c ( Br ) c 2 s 1,25,20
+59948,Br C C O c 1 c c c c c 1 . C 1 C C N C C 1 > A_[K+] A_O=C([O-])[O-] A_CCO,c 1 c c c ( O C C N 2 C C C C C 2 ) c c 1,25,21
+270399,C N . O = C 1 c 2 c c c c c 2 C N 2 C ( = O ) C C C 1 2 > A_ClCCl,C N = C 1 c 2 c c c c c 2 C N 2 C ( = O ) C C C 1 2,30,26
+204751,C O C ( = O ) c 1 c c c c 2 c 1 O C C 2 > A_C1CCOC1 A_[H-] A_[Li+],O C c 1 c c c c 2 c 1 O C C 2,24,15
+72605,C O c 1 c c c 2 c ( c 1 ) C C C 2 . O = S ( = O ) ( O ) Cl >,C O c 1 c c 2 c ( c c 1 S ( = O ) ( = O ) Cl ) C C C 2,30,27
+458113,C O c 1 c c c c c 1 . O = C ( Cl ) c 1 c c c c c 1 >,C O c 1 c c c ( C ( = O ) c 2 c c c c c 2 ) c c 1,26,25
+205737,O = C ( Cl ) C C C C C Br . c 1 c c c c c 1 > A_O A_ClCCl A_[Cl-],O = C ( C C C C C Br ) c 1 c c c c c 1,25,19
+445244,C N . C O c 1 c c c c c 1 C = O > A_[Na+] A_CO A_CC(=O)O,C N C c 1 c c c c c 1 O C,20,13
+754515,C c 1 c ( Cl ) n c n c 1 Cl . C c 1 c c c c c 1 > A_O=C([O-])[O-] A_[Cs+] A_CC(=O)[O-],C c 1 c ( Cl ) n c n c 1 C 1 C C 1,27,17
+387115,C O c 1 c c c ( C ( = O ) C 2 C C N C C 2 ) c c 1 > A_[Na+] A_Cl A_CC(=O)O A_O=C([O-])O,O = C ( c 1 c c c ( O ) c c 1 ) C 1 C C N C C 1,30,24
+283715,C C O C ( = O ) C Cl . O = [N+] ( [O-] ) c 1 c c c s 1 > A_C1CCOC1 A_[K+] A_CC(C)(C)[O-],C C O C ( = O ) C c 1 c c s c 1 [N+] ( = O ) [O-],28,22
+117444,Br C ( Br ) ( Br ) Br . O C C C C c 1 c c c c c 1 > A_ClCCl A_c1ccc(P(c2ccccc2)c2ccccc2)cc1,Br C C C C c 1 c c c c c 1,26,13
+407887,C C C C N . O = [N+] ( [O-] ) c 1 c ( F ) c c ( F ) c c 1 F > A_CN(C)C=O,C C C C N c 1 c c ( F ) c c ( F ) c 1 [N+] ( = O ) [O-],29,25
+18241,C C ( = O ) O C ( C ) = O . C c 1 c c c ( C O ) c n 1 > A_c1ccncc1,C C ( = O ) O c 1 c n c ( C ) c ( C ) c 1,29,21
+159148,C = C C Br . C C ( C ) ( C ) c 1 c c c c c 1 O > A_[K+] A_O=C([O-])[O-] A_CCOC(C)=O A_CC(C)=O,C = C C O c 1 c c c c c 1 C ( C ) ( C ) C,28,21
+249412,C N c 1 c c c c c 1 . O = C 1 C C c 2 c c c c c 2 1 > A_Cc1ccccc1 A_Cc1ccc(S(=O)(=O)O)cc1,C N ( C 1 = C C c 2 c c c c c 2 1 ) c 1 c c c c c 1,29,26
+880928,C O C O c 1 c c c c ( O ) c 1 C ( C ) C C O > A_C1CCOC1 A_c1ccc(P(c2ccccc2)c2ccccc2)cc1,C O C O c 1 c c c c 2 c 1 C ( C ) C C O 2,25,21
+672093,C O c 1 c c c ( O C ( C ) = O ) c c 1 Br > A_O A_[K+] A_CO A_[OH-],C O c 1 c c c ( O ) c c 1 Br,25,14
+237900,C O C ( = O ) c 1 c c c c ( [N+] ( = O ) [O-] ) c 1 Cl > A_CCOC(C)=O A_[H][H],C O C ( = O ) c 1 c c c c ( N ) c 1 Cl,27,19
+862917,C c 1 c c ( - c 2 c c c n c 2 ) n c c 1 N . O = N [O-] > A_[Na+] A_CC(=O)O,c 1 c n c c ( - c 2 c c 3 c n [nH] c 3 c n 2 ) c 1,29,24
+659508,C C ( = O ) O . C c 1 c c n c ( Cl ) c 1 > A_C1CCOC1 A_CCOC(C)=O A_[Li]CCCC,C C ( = O ) C c 1 c c n c ( Cl ) c 1,24,18
+49747,N C ( = O ) C ( N ) C c 1 c c c c c 1 . O > A_Cl,N [C@@H] ( C c 1 c c c c c 1 ) C ( = O ) O,23,19
+633949,C C C C O . C O c 1 c c c c ( F ) c 1 C # N . N N . O > A_O,C O c 1 c c c c 2 [nH] n c ( N ) c 1 2,29,18
+490206,O = [N+] ( [O-] ) c 1 c c c c c 1 C N c 1 c c c c c 1 F > A_O A_CCO A_[Cl-] A_[NH4+],N c 1 c c c c c 1 C N c 1 c c c c c 1 F,30,20
+477998,Cl C C N C C Cl . N c 1 c c ( Cl ) c c 2 c c c n c 1 2 > A_O A_Cl,Cl c 1 c c ( N 2 C C N C C 2 ) c 2 n c c c c 2 c 1,29,25
+498786,C C O P ( O C C ) O C C . F c 1 c c c ( Cl ) c c 1 C Br > A_C1CCOC1,C C O P ( = O ) ( C c 1 c c ( Cl ) c c c 1 F ) O C C,29,26
+79413,C N ( C ) C = O . O = C ( O ) c 1 c c c [nH] 1 > A_O A_CCOC(C)=O A_CCN(C(C)C)C(C)C,C O C ( = O ) c 1 c c c [nH] 1,26,14
+315974,C C O C ( = O ) / C = C / C ( C ) ( C ) C O > A_ClCCl,C C O C ( = O ) C = C C ( C ) ( C ) C = O,24,21
+85405,C c 1 c c c c c 1 N . N c 1 c c c c c 1 >,C c 1 c c c c ( C ( C ) C ) c 1 N,21,17
+186747,O = C ( Cl ) O c 1 c c c c c 1 . O c 1 c c c c c 1 >,O = C ( O c 1 c c c c c 1 ) O c 1 c c c c c 1,26,23
+126341,C C ( C ) I . O C c 1 c c c c n 1 > A_O A_[Na+] A_CO,C C ( C ) N 1 C C C C C 1 C O,21,15
+341394,Cl c 1 c c c c c 1 . O = C ( Cl ) c 1 c c c c c 1 >,O = C ( c 1 c c c c c 1 ) c 1 c c c c c 1 Cl,25,22
+879282,N c 1 n c c ( Br ) s 1 . c 1 c n [nH] c 1 > A_CN(C)C=O A_O=C([O-])[O-] A_[Cs+],N C 1 N = C C ( n 2 c c c n 2 ) S 1,23,18
+143226,C C ( = O ) Cl . Cl C C C C c 1 c c c c c 1 . Cl C C Cl > A_O A_Cl A_[Cl-],O = C ( C C C C C Cl ) c 1 c c c c c 1,30,19
+268,C O c 1 n n c ( N ) s 1 . O = C ( Cl ) Cl > A_CCOC(C)=O,C O c 1 n n c ( N = C = O ) s 1,22,16
+412437,C = C C ( C ) = O . N c 1 c c c c c 1 F > A_O A_Cl A_CCO A_[Cl-],C c 1 c c n c 2 c ( F ) c c c c 1 2,25,18
+69144,N # C N . c 1 c c c 2 c ( c 1 ) C N 1 N C C C 2 1 > A_Cl,N = C ( N ) N 1 C C C 2 c 3 c c c c c 3 C N 2 1,27,24
+813338,Br C c 1 n c c c n 1 . C c 1 c c ( O ) n c ( S ) n 1 > A_CCO A_CCN(CC)CC,C c 1 c c ( O ) n c ( S C c 2 n c c c n 2 ) n 1,29,24
+32861,C C C ( = O ) O . N c 1 c c ( Cl ) c c c 1 N C C C O > A_O A_Cl,C C c 1 n c 2 c c ( Cl ) c c c 2 n 1 C C C O,29,22
+193177,F c 1 c c ( - c 2 c c s c 2 ) c c ( F ) c 1 F >,F c 1 c c c ( - c 2 c c s c 2 ) c c 1 F,24,20
+312394,C C ( C ) ( C ) O N = O . O = C 1 C C C C C 1 > A_CC(=O)O A_C1CCCCC1,C C ( = O ) O C 1 C C C C C 1,26,15
+252053,C 1 C O 1 . C n 1 c n c ( - c 2 c c c c c 2 ) c 1 > A_O A_C1CCOC1 A_[Li]CCCC,C n 1 c c ( - c 2 c c c c c 2 ) n c 1 C C O,29,22
+398477,N c 1 c c c c ( F ) c 1 O . O = C ( Cl ) C Cl > A_[K+] A_O=C([O-])[O-],O = C 1 C O c 2 c ( F ) c c c c 2 N 1,25,19
+359999,C C ( C ) ( C ) N . N # C c 1 c c c ( N = C = S ) c c 1 > A_C1CCOC1,C C ( C ) ( C ) N C ( = S ) N c 1 c c c ( C # N ) c c 1,30,28
+365674,Br C 1 C C C C 1 . N c 1 c c c ( O ) c c 1 > A_O A_[Na+] A_CN(C)C=O A_[H-],N c 1 c c c ( O C 2 C C C C 2 ) c c 1,26,19
+231140,C 1 = C c 2 c c c c c 2 C 1 . [Li] C C C C > A_O A_C1CCOC1 A_CCCCCC,C C C 1 C = C c 2 c c c c c 2 1,24,16
+635012,C [C@H] 1 C N C [C@@H] ( C ) O 1 . O = S ( = O ) ( Cl ) Cl > A_O A_ClCCl A_CCN(CC)CC,C [C@H] 1 C N ( S ( = O ) ( = O ) Cl ) C [C@@H] ( C ) O 1,28,24
+577980,C C ( C ) ( C ) O C ( = O ) N C C C C O . I I > A_ClCCl A_c1ccc(P(c2ccccc2)c2ccccc2)cc1,C C ( C ) ( C ) O C ( = O ) N C C C C I,26,20
+454076,C O . O = C ( O ) c 1 c c c ( N 2 C C O C C 2 ) c c 1 > A_O=S(Cl)Cl,C O C ( = O ) c 1 c c c ( N 2 C C O C C 2 ) c c 1,29,25
+85264,C C O C ( = O ) C ( C # N ) ( C C ) c 1 c c c c c 1 . N > A_CCO,C C C ( C # N ) ( C ( N ) = O ) c 1 c c c c c 1,30,24
+477068,N C ( = O ) c 1 c c c ( Br ) c c 1 . O = C ( C Cl ) C Cl > A_CC(C)O,Cl C c 1 c o c ( - c 2 c c c ( Br ) c c 2 ) n 1,29,23
+720517,O = [N+] ( [O-] ) c 1 c c c ( F ) c c 1 N c 1 c c c c n 1 > A_CCOC(C)=O,N c 1 c c c ( F ) c c 1 N c 1 c c c c n 1,28,21
+431550,C # C c 1 c c c c c 1 . N c 1 c c c ( Br ) c c 1 I >,Br c 1 c c c 2 [nH] c ( - c 3 c c c c c 3 ) c c 2 c 1,26,25
+92147,Cl C ( Cl ) C O C C ( Cl ) Cl . N # C C C # N > A_[K+] A_O=C([O-])[O-] A_CC#N,N # C C 1 ( C # N ) C C O C C 1,25,16
+753829,N C ( = O ) c 1 c c n 2 c c n c 2 c 1 > A_ClCCl A_CCN(CC)CC,N # C c 1 c c n 2 c c n c 2 c 1,22,16
+113550,C C C ( C ) ( C ) O O . C O C 1 ( O C ) C C C C C 1 > A_CS(C)=O A_Cc1ccc(S(=O)(=O)O)cc1,C C C ( C ) ( C ) O O C 1 ( O C ) C C C C C 1,29,23
+245808,C C O C ( = O ) C 1 C C c 2 o c c c 2 C 1 = O . N N > A_O A_CCO,O c 1 n [nH] c 2 c 1 C C c 1 o c c c 1 - 2,29,20
+108021,C = C C ( = O ) O C . N C C 1 C O c 2 c c c c c 2 O 1 > A_CO,C O C ( = O ) C C N ( C C C ( = O ) O C ) C C 1 C O c 2 c c c c c 2 O 1,29,36
+891159,C C C ( = O ) C C ( = O ) O C . O C 1 C C N C C 1 >,C C C ( = O ) C C ( = O ) N 1 C C C ( O ) C C 1,26,24
+359125,C c 1 c c c c ( C ( = O ) O ) c 1 I > A_[Na+] A_ClCCl A_[H-] A_O=S(Cl)Cl A_[Li+],C c 1 c c c c ( C O ) c 1 I,24,14
+157312,C C ( = O ) C C ( = O ) O . O C C ( O ) C O > A_CCOC(C)=O,C C ( = O ) C C ( = O ) O C C ( C O ) O C ( = O ) C C ( C ) = O,24,32
+323559,C C ( C ) ( C ) O . C C 1 O C ( = O ) C = C 1 O > A_O=S(=O)(O)O,C C 1 O C ( = O ) C ( C ( C ) ( C ) C ) = C 1 O,26,24
+849021,C C ( C ( = O ) O ) c 1 c c c ( F ) c c 1 > A_C1CCOC1 A_Cl,C C ( C O ) c 1 c c c ( F ) c c 1,24,17
+215534,C C 1 = C C ( = O ) C C ( C ) ( C ) C 1 >,C c 1 c c ( C ) c c ( O ) c 1,21,15
+70097,C C ( C ) ( N ) C N . C N ( C ) S ( = O ) ( = O ) Cl > A_CCOCC,C N ( C ) S ( = O ) ( = O ) N C C ( C ) ( C ) N,28,24
+108013,N # C C C 1 C O c 2 c c c c c 2 C 1 > A_O A_C1CCOC1 A_[Na+] A_[OH-] A_[H-] A_[Cl-] A_CCOCC A_[Li+],N C C C 1 C O c 2 c c c c c 2 C 1,27,17
+427765,C N C ( C ) = O . N N C ( = O ) c 1 c c n c c 1 > A_ClCCl,C c 1 n n c ( - c 2 c c n c c 2 ) n 1 C,26,20
+706967,C O c 1 n n c ( Cl ) c c 1 I . N c 1 c c n c n 1 > A_[Na+] A_[Pd],C O c 1 n n c ( Cl ) c c 1 N c 1 c c n c n 1,27,22
+534670,C c 1 c c ( C ( F ) ( F ) F ) n c c 1 [N+] ( = O ) [O-] > A_CCO,C c 1 c c ( C ( F ) ( F ) F ) n c c 1 N,27,20
+67079,C 1 C C N C 1 . Cl C c 1 c c c c n 1 > A_Cl A_CCO,c 1 c c c ( C N 2 C C C C 2 ) n c 1,21,18
+576432,C c 1 n c c ( C N = [N+] = [N-] ) c n 1 > A_CCOC(C)=O A_[Pd],C c 1 n c c ( C N ) c n 1,20,13
+794487,N N . O = C c 1 c c c ( Br ) c c 1 F > A_COCCOC,Br c 1 c c c 2 c n [nH] c 2 c 1,20,14
+763678,C C 1 ( C ) [C@@H] 2 C [C@H] 1 C C C 2 = O . C O N > A_Cl A_CCO A_c1ccncc1,C O N = C 1 C C [C@H] 2 C [C@@H] 1 C 2 ( C ) C,25,19
+597086,C O C C C O c 1 c c ( C = O ) c c c 1 O C > A_[Na+] A_CN(C)C=O,C O C C C O c 1 c c ( C = O ) c c c 1 O,24,20
+316524,C O C ( = O ) c 1 c c c 2 n c c n c 2 c 1 . N > A_CO,N C ( = O ) c 1 c c c 2 n c c n c 2 c 1,25,20
+527920,O = c 1 c c o c 2 c c c ( [N+] ( = O ) [O-] ) c c 1 2 > A_CO A_CCOC(C)=O A_[Pd],N c 1 c c c 2 o c c c ( = O ) c 2 c 1,28,19
+80088,C C C C C c 1 c c c ( Br ) c c 1 . [Li] C C C C > A_CCCCCC A_c1ccccc1,[Li] c 1 c c c ( C C C C C ) c c 1,25,16
+157670,C # C C O C 1 C C C C O 1 . O = C 1 C C O C C 1 > A_C1CCOC1,O C 1 ( C # C C O C 2 C C C C O 2 ) C C O C C 1,26,24
+528087,C = C C Br . O C c 1 c ( F ) c c c c 1 I > A_C1CCOC1 A_[Na+] A_[H-],C = C C O C c 1 c ( F ) c c c c 1 I,24,18
+131430,C C ( = O ) Cl . C O C ( = O ) C C N > A_ClCCl A_[K+] A_O=C([O-])[O-] A_Cl A_CCOCC,C O C ( = O ) C C N C ( C ) = O,24,16
+80622,C C C = O . Cl C C C C C 1 C = C C C 1 > A_O A_C1CCOC1,C C C ( O ) C C C C C 1 C = C C C 1,22,18
+442196,N # C C ( C # N ) c 1 c c c c n 1 . N N > A_O A_CCO,N c 1 n [nH] c ( N ) c 1 - c 1 c c c c n 1,23,20
+351579,C C O C C . C O c 1 c c c ( Br ) c n 1 >,C O c 1 c c c ( C C O ) c n 1,20,15
+133241,Br C c 1 c c c c c 1 . O = C 1 C C C C N 1 > A_O A_C1CCOC1 A_[Cl-] A_[NH4+] A_[Li]CCCC,O = C 1 N C C C C 1 C c 1 c c c c c 1,27,19
+554219,O [C@H] ( C Cl ) c 1 c c c ( F ) c c 1 > A_[Na+] A_[OH-] A_CCOCC,F c 1 c c c ( [C@H] 2 C O 2 ) c c 1,21,16
+527738,C C ( C ) c 1 c o c 2 c c c c c 1 2 . C N ( C ) C = O > A_C1CCOC1 A_[Li]CCCC,C C ( C ) c 1 c ( C = O ) o c 2 c c c c c 1 2,30,23
+865697,Br [Mg] C C C c 1 c c c c c 1 . O = C c 1 s c c c 1 Br >,O C ( C C C c 1 c c c c c 1 ) c 1 s c c c 1 Br,26,23
+264681,Br c 1 c c c 2 c c [nH] c 2 c 1 . C C Br > A_[Na+] A_CN(C)C=O A_[H-],C C n 1 c c c 2 c c c ( Br ) c c 2 1,22,18
+139547,C S ( = O ) ( = O ) Cl . N C C C O > A_ClCCl A_CCN(CC)CC,C S ( = O ) ( = O ) N C C C O S ( C ) ( = O ) = O,20,25
+133977,C C ( C ) ( C ) C 1 C C C ( = O ) C C 1 > A_[Na+] A_O=S(=O)(O)O A_Cc1ccccc1C,C C ( C ) ( C ) C 1 C C C ( O ) C C 1,24,19
+814846,C C O C ( = O ) c 1 c ( Cl ) c c n c 1 Cl > A_C1CCOC1 A_[H-],O C c 1 c ( Cl ) c c n c 1 Cl,23,14
+762817,C 1 C C O C 1 . C = C [C@H] 1 C [C@@H] 1 c 1 c c c ( Br ) c c 1 > A_C1CCOC1,O C C [C@H] 1 C [C@@H] 1 c 1 c c c ( Br ) c c 1,29,19
+200243,C O C 1 = C c 2 c c c c c 2 N c 2 c c c c c 2 1 > A_Cl,O = C 1 C c 2 c c c c c 2 N c 2 c c c c c 2 1,26,23
+707944,C # C c 1 c c ( C # N ) c c ( Br ) c 1 N > A_CN1CCCC1=O A_O=C(O)CC(O)(CC(=O)O)C(=O)O,N # C c 1 c c ( Br ) c 2 [nH] c c c 2 c 1,23,19
+885339,C 1 C O C C O 1 . Cl . Cl c 1 c c c c 2 n c c n 1 2 > A_O A_[Na+] A_O=C([O-])[O-] A_CCOC(C)=O,C O c 1 c c c ( Cl ) c c 1 - c 1 c c c c 2 n c c n 1 2,30,27
+9602,C C C C C C N c 1 n c ( S C ) [nH] c 2 n c c c 1 - 2 >,C C C C C C N c 1 n c [nH] c 2 n c c c 1 - 2,26,21
+237052,C O c 1 c c c ( C Cl ) c c 1 . O C C N C C O >,C O c 1 c c c ( C N ( C C O ) C C O ) c c 1,23,22
+21075,C C C C O . C c 1 c c ( Br ) c c c 1 C ( = O ) C Br > A_O A_c1ccccc1 A_Cc1ccc(S(=O)(=O)O)cc1,C c 1 c c ( Br ) c c c 1 C 1 ( C Br ) O C C O 1,29,23
+818497,C O c 1 c c 2 c ( c c 1 O C ) C ( = O ) C C C 2 > A_[Na+] A_CO,C O c 1 c c 2 c ( c c 1 O C ) C ( O ) C C C 2,27,23
+358626,C O c 1 c c c 2 c c c ( = O ) o c 2 c 1 > A_[Pd],C O c 1 c c c 2 c ( c 1 ) O C ( = O ) C C 2,22,22
+754738,C I . N # C c 1 c c c c ( N c 2 c n c n c 2 ) c 1 > A_C1CCOC1 A_[Na+] A_CCOC(C)=O A_[H-],C N ( c 1 c n c n c 1 ) c 1 c c c c ( C # N ) c 1,30,25
+143555,C O C ( = O ) C C C C C C Br . N C C c 1 c c c c c 1 > A_CCN(CC)CC A_Cc1ccccc1,C O C ( = O ) C C C C C C N C C c 1 c c c c c 1,29,24
+751542,N C ( = S ) N N C ( = O ) c 1 c c n c ( Cl ) c 1 > A_N,N c 1 n n c ( - c 2 c c n c ( Cl ) c 2 ) s 1,26,22
+171283,C 1 = C C C C C C 1 . C C ( = O ) O > A_CC(=O)[O-],C C ( = O ) O C 1 C = C C C 1,20,15
+88328,C C ( C ) O B ( O C ( C ) C ) O C ( C ) C . [Li] C C C C >,C C C C B ( O C ( C ) C ) O C ( C ) C,28,19
+714400,C C ( C ) ( C ) / C ( N ) = C / C # N . [S-2] > A_O A_[Na+] A_CCOC(C)=O A_[Cl-] A_c1ccccc1 A_CCCC[N+](CCCC)(CCCC)CCCC,C C ( C ) ( C ) / C ( N ) = C / C ( N ) = S,28,22
+216401,C O C ( = O ) C C C ( = O ) c 1 c c c c c 1 > A_O A_C1CCOC1 A_[K+] A_[OH-] A_[H-] A_[Li+],O C C C C ( O ) c 1 c c c c c 1,29,16
+641298,C c 1 n c c [nH] 1 . C n 1 n c c ( Cl ) c ( Cl ) c 1 = O > A_C1COCCO1,C c 1 n c c n 1 - c 1 c n n ( C ) c ( = O ) c 1 Cl,28,25
+167663,O = C = O . O c 1 c c c ( - c 2 c c c c c 2 ) c c 1 > A_C1CCOC1 A_[Li]CCCC,O = C ( O ) c 1 c c ( - c 2 c c c c c 2 ) c c c 1 O,29,26
+472112,N C C c 1 c c c ( [N+] ( = O ) [O-] ) c c 1 . O = C O C Cl > A_ClCCl A_CO,C O C ( = O ) N C C c 1 c c c ( [N+] ( = O ) [O-] ) c c 1,29,26
+552772,C O N ( C ) C ( = O ) c 1 c c c ( Br ) c ( C ) c 1 > A_C1CCOC1,C c 1 c c ( C ( = O ) C C C C ( C ) C ) c c c 1 Br,27,25
+399815,C C ( C ) [N-] C ( C ) C . C C O C ( = O ) C 1 C C C 1 > A_C1CCOC1 A_CS(C)=O A_[Li+],C C C C 1 ( C ( = O ) O C C ) C C C 1,30,19
+525874,Br C C 1 C O 1 . N # C C c 1 c c c ( Cl ) c c 1 > A_C1CCOC1,N # C C 1 ( c 2 c c c ( Cl ) c c 2 ) C C ( O ) C 1,25,25
+686970,F c 1 c n [nH] c 1 . O = [N+] ( [O-] ) c 1 c c c ( F ) c c 1 > A_[K+] A_O=C([O-])[O-] A_CC#N,O = [N+] ( [O-] ) c 1 c c c ( - n 2 c c ( F ) c n 2 ) c c 1,30,27
+414544,C C ( C ) S . N # C c 1 c c c c ( Cl ) n 1 > A_C1CCOC1 A_[Na+] A_[H-],C C ( C ) S c 1 c c c c ( C # N ) n 1,25,19
+240460,C C O C ( = O ) C Br . C c 1 c c c c ( N ) c 1 > A_O A_[Na+] A_CCO A_CC(=O)[O-],C C O C ( = O ) C N c 1 c c c c ( C ) c 1,28,21
+19305,C C ( C ) = C ( C ) C . O = C ( Cl ) C ( Cl ) Cl >,C C 1 ( C ) C ( = O ) C ( Cl ) C 1 ( C ) C,24,21
+23080,N # C C = C c 1 c c c ( N ) c c 1 . [OH-] > A_O A_[Na+],N C ( = O ) C = C c 1 c c c ( N ) c c 1,22,20
+356969,Br c 1 c c c n c 1 . Cl [Mg] C 1 C C C C 1 > A_C1CCOC1,c 1 c n c c ( C 2 C C C C 2 ) c 1,21,17
+235928,C c 1 c c ( [N+] ( = O ) [O-] ) c c c 1 F > A_CCO A_[H][H],C c 1 c c ( N ) c c c 1 F,21,13
+163098,C C O C ( = O ) c 1 c n c ( N ) s 1 > A_C1CCOC1 A_CN(C)C=O,C C O C ( = O ) c 1 c n c s 1,21,15
+42102,C O C Cl . O = C ( O ) C 1 C C C C C 1 > A_C1CCOC1 A_[Li]CCCC A_CCCCCC A_[Li+],C O C C 1 ( C ( = O ) O ) C C C C C 1,24,19
+360958,C C I . O = C c 1 c c c c ( O ) c 1 O > A_O A_[K+] A_CN(C)C=O A_O=C([O-])[O-],C C O c 1 c ( O ) c c c c 1 C = O,24,17
+736341,C C C C C C C C C C C C c 1 c c c ( C C O ) c c 1 > A_O A_Cc1ccccc1 A_Cc1ccc(S(=O)(=O)O)cc1,C = C c 1 c c c ( C C C C C C C C C C C C ) c c 1,29,25
+499758,C c 1 c c c ( C O ) n c 1 C # N . O = S ( Cl ) Cl > A_ClCCl,C c 1 c c c ( C Cl ) n c 1 C # N,26,16
+568851,Br Br . C C ( = O ) c 1 c c s c 1 > A_[Na+] A_O=C([O-])[O-] A_[Cl-] A_CCOCC,O = C ( C Br ) c 1 c c s c 1,21,14
+149258,C C C ( O ) c 1 c c ( - c 2 c c c c c 2 ) n o 1 > A_O A_CC(=O)O,C C C ( = O ) c 1 c c ( - c 2 c c c c c 2 ) n o 1,27,25
+841107,C I . O = [N+] ( [O-] ) c 1 c c c 2 [nH] n c c 2 c 1 > A_C1CCOC1 A_[Na+] A_[H-],C n 1 n c c 2 c c ( [N+] ( = O ) [O-] ) c c c 2 1,26,22
+740228,C C ( = O ) O c 1 c c c ( C # N ) c c 1 C > A_O A_[K+] A_CO A_O=C([O-])[O-],C c 1 c c ( C # N ) c c c 1 O,26,15
+535938,Br c 1 c c c n c 1 . C # C c 1 c c c c c 1 > A_CCN(CC)CC,C ( # C c 1 c c c n c 1 ) c 1 c c c c c 1,23,21
+378635,C C O C ( = O ) c 1 c c c 2 c c ( F ) c c c 2 c 1 > A_O A_[Na+] A_CCO A_[OH-],O = C ( O ) c 1 c c c 2 c c ( F ) c c c 2 c 1,30,23
+397998,C C O C ( = O ) N 1 C C C C ( = O ) C C 1 . O C C O > A_Cc1ccccc1 A_Cc1ccc(S(=O)(=O)O)cc1,C C O C ( = O ) N 1 C C C C 2 ( C C 1 ) O C C O 2,29,25
+743709,O = [N+] ( [O-] ) c 1 c c 2 c ( c c 1 F ) S C C 2 > A_C1CCOC1 A_CCO A_[Cl-] A_[NH4+],N c 1 c c 2 c ( c c 1 F ) S C C 2,27,17
+547699,C C O C ( = O ) C C C 1 ( C ) O C C O 1 > A_O A_[Na+] A_CO A_[OH-],C C 1 ( C C C ( = O ) O ) O C C O 1,25,18
+29219,O = N N 1 C c 2 c c s c 2 C ( O ) C 1 C ( = O ) O > A_[Na+] A_Cl A_[OH-],c 1 c c 2 s c c c 2 c n 1,29,13
+720272,O = C ( Cl ) C 1 C C O C C 1 . O [C@H] 1 C C N C 1 > A_ClCCl A_Cl A_CCOC(C)=O A_CCN(CC)CC,O = C ( C 1 C C O C C 1 ) N 1 C C [C@H] ( O ) C 1,28,23
+54902,C O N . O = C ( O ) C ( = O ) C n 1 n n n c 1 S > A_O A_[Na+] A_Cl A_O=C([O-])O,C O N = C ( C n 1 n n n c 1 S ) C ( = O ) O,29,22
+798860,C C N c 1 n c ( S C ) n c c 1 C ( = O ) O C C > A_[Na+] A_CCO A_[OH-],C C N c 1 n c ( S C ) n c c 1 C ( = O ) O,27,21
+589777,C # C C O . C c 1 c c c c ( I ) c 1 > A_O A_C1CCOC1 A_CCN(C(C)C)C(C)C A_[Pd] A_ClC(Cl)Cl A_c1ccc(P(c2ccccc2)c2ccccc2)cc1,C c 1 c c c c ( C # C C O ) c 1,25,16
+281815,C C ( C ) N = C = O . N C C ( = O ) O > A_O A_[Na+] A_Cl A_[OH-],C C ( C ) N 1 C ( = O ) C N C 1 = O,24,18
+72502,O = C ( C C C Cl ) c 1 c c c ( F ) c c 1 . O C C O > A_O A_c1ccccc1 A_Cc1ccc(S(=O)(=O)O)cc1,F c 1 c c c ( C 2 ( C C C Cl ) O C C O 2 ) c c 1,29,24
+285139,Br C ( Br ) ( Br ) Br . O = C c 1 c c c o 1 > A_ClCCl A_CCN(CC)CC A_CCOCC A_c1ccc(P(c2ccccc2)c2ccccc2)cc1,Br C ( Br ) = C c 1 c c c o 1,25,14
+96083,C C 1 C O 1 . C C 1 C O C ( = O ) O 1 >,C C 1 C O C 2 ( O C C ( C ) O 2 ) O 1,20,19
+710448,N . O = S ( = O ) ( Cl ) c 1 c c c n c 1 > A_C1CCOC1 A_C1COCCO1,N S ( = O ) ( = O ) c 1 c c c n c 1,23,18
+42606,C C C C ( C ) ( C = O ) C C C # N . [OH-] > A_O A_[Na+] A_[K+] A_Cl A_CCOCC,C C C C 1 ( C ) C C C ( = O ) O C 1,25,18
+64763,C C # N . C C ( C ) C [C@H] ( N ) C ( = O ) O C ( C ) ( C ) C >,C C ( C ) C [C@H] ( N C ( = O ) C C C 1 C C C ( = O ) N 1 ) C ( = O ) O C ( C ) ( C ) C,30,42
+857491,Br C C Br . O c 1 c c c ( Br ) n c 1 > A_O A_CN(C)C=O A_CCOC(C)=O,Br C C O c 1 c c c ( Br ) n c 1,21,15
+764896,O = C 1 C C C C C 1 . O = C c 1 c c c c c 1 > A_O A_[Na+] A_CCO A_[OH-],O = C 1 C ( = C c 2 c c c c c 2 ) C C C C 1 = C c 1 c c c c c 1,27,32
+694014,C C O C ( = O ) C = C C C ( C ) C . C [N+] ( = O ) [O-] > A_ClCCl A_CS(C)=O A_C1CCC2=NCCCN2CC1,C C O C ( = O ) C C ( C C ( C ) C ) C [N+] ( = O ) [O-],29,25
+307245,C C ( C ) ( C # N ) S c 1 c c c c c 1 > A_C1CCOC1,C C ( C ) ( C N ) S c 1 c c c c c 1,21,18
+95808,C C ( C ) ( C ) [O-] . O = C ( O ) C Br > A_O A_[K+] A_Cc1ccccc1,C C ( C ) ( C ) O C C ( = O ) O,22,16
+22180,C N C ( = O ) F . Cl S S c 1 c c c ( Cl ) c c 1 >,C N ( S S c 1 c c c ( Cl ) c c 1 ) C ( = O ) F,24,23
+777740,C C c 1 c c ( Br ) c c c 1 N . [I-] > A_O A_[Na+] A_[K+] A_O=S(=O)(O)O,C C c 1 c c ( Br ) c c c 1 I,21,14
+258335,C C O C ( = O ) c 1 c c 2 c ( Cl ) c ( Cl ) c c c 2 [nH] 1 >,C O C ( = O ) C 1 C c 2 c ( c c c ( Cl ) c 2 Cl ) N 1,28,26
+197631,Cl C C Br . O = C 1 N c 2 c c c ( F ) c c 2 C 1 = O > A_[Na+] A_CN(C)C=O A_[H-],O = C 1 C ( = O ) N ( C C Cl ) c 2 c c c ( F ) c c 2 1,29,27
+78100,C N ( C ) C . C O C ( = O ) C [C@@H] ( O ) C Cl >,C [N+] ( C ) ( C ) C [C@H] ( O ) C C ( = O ) [O-],22,20
+748494,N # C C 1 C C C 1 . O = C 1 C C O C 1 > A_C1CCOC1 A_[Li+],N # C C 1 ( C 2 ( O ) C C O C 2 ) C C C 1,22,21
+366877,C S ( C ) = O . N c 1 c c c ( C ( F ) ( F ) F ) c c 1 > A_ClCCl,C S ( C ) = N c 1 c c c ( C ( F ) ( F ) F ) c c 1,29,25
+68103,O = C ( O ) c 1 c [nH] c 2 c n [nH] c 2 c 1 = O >,O = c 1 c c [nH] c 2 c n [nH] c 1 2,22,15
+690172,C # C c 1 c c c c ( N ) c 1 . C S ( = O ) ( = O ) Cl > A_c1ccncc1,C # C c 1 c c c c ( N S ( C ) ( = O ) = O ) c 1,28,24
+134137,C = C ( C ) c 1 c c c ( O ) c c 1 . O c 1 c c c c c 1 > A_CC(C)=O,C C ( C ) ( c 1 c c c ( O ) c c 1 ) c 1 c c c ( O ) c c 1,29,29
+705107,Cl c 1 c c ( N 2 C C N C C 2 ) c ( Cl ) n n 1 > A_[Na+] A_CO A_[Pd] A_CC(=O)[O-],c 1 c c ( N 2 C C N C C 2 ) c n n 1,27,18
+353580,C c 1 c c ( = O ) [nH] c 2 c c c c c 1 2 . [Li] C C C C > A_C1CCOC1,C C c 1 c c ( = O ) [nH] c 2 c c c c c 1 2,27,20
+553498,O = C C 1 ( Br ) C = C C = C ( F ) C 1 > A_[Na+] A_CO A_CCOC(C)=O,O C C 1 ( Br ) C = C C = C ( F ) C 1,23,18
+853979,Br Br . F c 1 c c c ( Br ) c ( F ) c 1 > A_[Na+] A_ClCCl,F c 1 c c ( F ) c ( Br ) c c 1 Br,21,16
+309772,O = [N+] ( [O-] ) C = C c 1 c c c 2 c c [nH] c 2 c 1 > A_O A_C1CCOC1 A_[Na+] A_[OH-] A_[H-] A_[Li+],N C C c 1 c c c 2 c c [nH] c 2 c 1,29,16
+359996,C O . C n 1 c c ( C = C C ( = O ) O ) c n 1 > A_[Na+] A_[OH-] A_O=S(=O)(O)O,C O C ( = O ) C = C c 1 c n n ( C ) c 1,26,20
+311658,C N C = O . C c 1 c c ( C ) c c ( I ) c 1 > A_[K+] A_CCOC(C)=O A_Cc1ccccc1 A_O=P([O-])([O-])[O-],C c 1 c c ( C ) c c ( N ( C ) C = O ) c 1,26,21
+835695,C c 1 c c 2 c ( F ) c ( F ) c c c 2 [nH] 1 . O > A_[Na+] A_CC(=O)O,C C 1 C c 2 c ( O ) c c c c 2 N 1,25,17
+169396,O = [N+] ( [O-] ) c 1 c c ( O ) c ( F ) c c 1 F > A_CCOC(C)=O A_[Pd] A_[H][H],N c 1 c c ( O ) c ( F ) c c 1 F,25,16
+96434,C C 1 ( C ) O C C ( C O ) ( [N+] ( = O ) [O-] ) C O 1 > A_[Na+] A_[OH-] A_CC(=O)O,C C 1 ( C ) O C C ( [N+] ( = O ) [O-] ) C O 1,28,20
+609716,C O N ( C ) C ( = O ) c 1 c c c ( Br ) c c 1 Cl . C [Mg] Br > A_C1CCOC1 A_CCOCC,C C ( = O ) c 1 c c c ( Br ) c c 1 Cl,30,18
+138376,C c 1 c o c ( C ) c 1 . O = C ( O ) C C C c 1 c c c s 1 > A_CC(Cl)Cl,C c 1 c c ( C ) c ( C ( = O ) C C C c 2 c c c s 2 ) o 1,30,28
+156239,C c 1 c c c ( C Br ) c c 1 . N c 1 n c c c c 1 O > A_O A_[Na+] A_ClCCl A_[OH-] A_[Cl-],C c 1 c c c ( C O c 2 c c c n c 2 N ) c c 1,30,22
+258547,C O c 1 c c c ( C O ) c c 1 O C 1 C C C C 1 . Cl > A_[Na+] A_Cc1ccccc1 A_O=C([O-])O A_COC(C)(C)C,C O c 1 c c c ( C Cl ) c c 1 O C 1 C C C C 1,29,22
+95851,C C 1 C C C C ( C # N ) C 1 . C C O C ( = O ) O C C > A_C1CCOC1 A_Cl A_[Li+],C C O C ( = O ) C 1 ( C # N ) C C C C ( C ) C 1,30,24
+883770,C C O C ( = O ) C ( = O ) N C C ( C ) O > A_ClCCl,C C O C ( = O ) C ( = O ) N C C ( C ) = O,22,21
+669796,C C C C [Sn] ( C C C C ) ( C C C C ) c 1 c c c s 1 . [F-] > A_ClCCl A_Cc1ccccc1 A_[Cs+],C C C C [Sn] ( F ) ( C C C C ) C C C C,30,18
+110577,C O c 1 c c c c c 1 C c 1 c c c c ( Cl ) c 1 O > A_O A_ClCCl,O c 1 c c c c c 1 C c 1 c c c c ( Cl ) c 1 O,26,22
+430520,C C ( = O ) [O-] . O = C C 1 C C 1 . [NH4+] > A_CCO,N C ( C C ( = O ) O ) C 1 C C 1,20,16
+74160,C = C ( C ) C # N . C c 1 c c c c ( N N ) n 1 > A_CCO A_[Na],C c 1 c c c c ( N 2 C C ( C ) C ( N ) = N 2 ) n 1,26,25
+313571,C 1 C N C C N 1 . C C O C ( = O ) c 1 c c c ( F ) c c 1 > A_CS(C)=O,C C O C ( = O ) c 1 c c c ( N 2 C C N C C 2 ) c c 1,30,26
+591893,C N ( C ) C = O . F C ( F ) ( F ) c 1 c c c c c 1 Cl > A_O A_C1CCOC1 A_[Li]CCCC,O = C c 1 c c c c ( C ( F ) ( F ) F ) c 1 Cl,30,22
+86983,S c 1 n c ( - c 2 c c c c c 2 Cl ) n s 1 . [NH4+] > A_O A_[Na+] A_[OH-],N S c 1 n c ( - c 2 c c c c c 2 Cl ) n s 1,26,21
+87641,Br c 1 c c c 2 c c c c c 2 c 1 . C C ( = O ) Cl > A_[Cl-],C C ( = O ) c 1 c c c 2 c c ( Br ) c c c 2 c 1,25,23
+124553,C = C C C C C . C O C ( = O ) C = O > A_O A_ClCCl A_CCN(CC)CC,C C C C = C C C ( O ) C ( = O ) O C,22,18
+409920,C = C ( C ) / C = C / C ( = O ) O C C . C = C C = O >,C C O C ( = O ) [C@@H] 1 C = C ( C ) C C [C@@H] 1 C = O,27,23
+838072,Cl C C N C C Cl . N c 1 c c ( F ) c c ( F ) c 1 > A_[K+] A_O=C([O-])[O-] A_Cl A_CCCCO,F c 1 c c ( F ) c c ( N 2 C C N C C 2 ) c 1,28,22
+58098,C O c 1 c c c ( S ) c ( N ) c 1 . S = C = S > A_[Na+] A_CCO A_[OH-],C O c 1 c c c 2 s c ( S ) n c 2 c 1,26,18
+425938,O = C c 1 c c ( I ) c c c 1 O C c 1 c c c c c 1 > A_[Na+] A_ClCCl A_[K+] A_[H-],O C c 1 c c ( I ) c c c 1 O C c 1 c c c c c 1,29,23
+839839,C n 1 n c ( C # N ) c c 1 [N+] ( = O ) [O-] . N O > A_[K+] A_O=C([O-])[O-] A_Cl A_CCO,C n 1 n c ( C ( N ) = N O ) c c 1 [N+] ( = O ) [O-],27,23
+884729,C c 1 c c ( Cl ) c c ( Cl ) c 1 . O = C = O > A_C1CCOC1 A_[Li]CCCC,C c 1 c c ( Cl ) c ( C ( = O ) O ) c ( Cl ) c 1,24,23
+29453,C O c 1 c c c ( O ) c ( [N+] ( = O ) [O-] ) c 1 > A_O A_[Na+] A_[OH-] A_[NH4+],C O c 1 c c c ( O ) c ( N ) c 1,26,16
+591710,C C O c 1 c c c ( [N+] ( = O ) [O-] ) c c 1 C ( = O ) N O > A_CO A_CCO A_[Pd],C C O c 1 c c c ( N ) c c 1 C ( = O ) N O,30,21
+1065,O = C ( Cl ) c 1 c c c ( - c 2 c c c ( Cl ) c c 2 ) c c 1 >,O = C ( c 1 c c c ( Cl ) c c 1 ) c 1 c c c ( - c 2 c c c ( Cl ) c c 2 ) c c 1,29,38
+191631,C O c 1 c c c ( Br ) c ( O ) c 1 C ( = O ) O >,C O c 1 c c c ( Br ) c ( O ) c 1,23,16
+716310,Br . C C ( = O ) c 1 c c ( Cl ) c c c 1 Cl > A_[Na+] A_O=C([O-])[O-] A_CC(=O)O,O = C ( C Br ) c 1 c c ( Cl ) c c c 1 Cl,24,19
+182367,C = C C ( C ) O . O = C 1 C C c 2 c ( Cl ) c c c c 2 1 > A_O A_Cc1ccc(S(=O)(=O)O)cc1,C C = C C C 1 C c 2 c ( Cl ) c c c c 2 C 1 = O,30,23
+311410,C S ( = O ) ( = O ) Cl . O C c 1 c c n c ( Cl ) c 1 > A_O A_CCOC(C)=O A_CCN(CC)CC,C S ( = O ) ( = O ) O C c 1 c c n c ( Cl ) c 1,29,23
+214325,C C ( C ) ( C ) C C Cl . C C O C C . [OH-] > A_[Na+] A_II,C C ( C ) ( C ) C C C ( = O ) O,22,16
+320032,C C # C C O . C c 1 c ( Cl ) n c n c 1 Cl > A_C1CCOC1 A_[Na+] A_[H-] A_[Cl-] A_[NH4+],C C # C C O c 1 n c n c ( Cl ) c 1 C,26,18
+788174,C = C [Mg] Cl . c 1 c c c ( C O C [C@H] 2 C O 2 ) c c 1 > A_[Cl-] A_[NH4+] A_CCOCC,C = C C [C@@H] ( O ) C O C c 1 c c c c c 1,28,19
+303780,C O c 1 c c c ( - c 2 c c c ( C # N ) s 2 ) c c 1 > A_O A_ClCCl,N # C c 1 c c c ( - c 2 c c c ( O ) c c 2 ) s 1,28,24
+263864,C O C ( = O ) C C ( C ) = O . O C C C c 1 c c c c c 1 > A_Cc1ccccc1,C C ( = O ) C C ( = O ) O C C C c 1 c c c c c 1,29,24
+691859,O = [N+] ( [O-] ) c 1 c n c ( Cl ) c ( C ( F ) ( F ) F ) c 1 > A_CCOC(C)=O A_[Br-],N c 1 c n c ( Cl ) c ( C ( F ) ( F ) F ) c 1,30,22
+167480,C C C ( = O ) C ( Cl ) C ( = O ) O C . N >,C C C ( N ) = C ( Cl ) C ( = O ) O C,21,18
+558135,Cl C Cl . O c 1 c c n c 2 c c ( C ( F ) ( F ) F ) c c c 1 2 >,F C ( F ) ( F ) c 1 c c c 2 c ( Cl ) c c n c 2 c 1,30,25
+367478,C O C ( = O ) c 1 s c c c 1 N . N # C C Cl > A_Cl A_C1COCCO1,O = c 1 [nH] c ( C Cl ) n c 2 c c s c 1 2,24,19
+491766,C C c 1 c c ( C O ) c c ( C ) c 1 C C C ( = O ) O > A_CC(=O)O,C C c 1 c c ( C = O ) c c ( C ) c 1 C C C ( = O ) O,27,26
+551480,C C 1 = N C C c 2 c c c ( Br ) c c 2 1 > A_[Na+],C C 1 N C C c 2 c c c ( Br ) c c 2 1,21,18
+448897,C S ( = O ) ( = O ) Cl . O C C O C c 1 c c c c c 1 > A_C1CCOC1 A_CCN(CC)CC,C S ( = O ) ( = O ) O C C O C c 1 c c c c c 1,28,23
+841607,C S ( = O ) ( = O ) Cl . O = C 1 N C C C C 1 O > A_ClCCl A_CCN(CC)CC,C S ( = O ) ( = O ) O C 1 C C C N C 1 = O,26,21
+125918,C C ( = O ) O C ( C ) = O . C c 1 c c ( C ) c c ( O ) c 1 >,C C ( = O ) O c 1 c c ( C ) c c ( C ) c 1,30,21
+90899,C = O . O C C N C C O . O c 1 c c c ( Br ) c c 1 Br >,O C C N ( C C O ) C c 1 c c ( Br ) c c ( Br ) c 1 O,26,25
+445226,C C ( = O ) Cl . O = C ( O ) c 1 c c 2 c c c c c 2 [nH] 1 > A_CCOCC,O = C ( Cl ) c 1 c c 2 c c c c c 2 [nH] 1,29,19
+47204,C = C C # N . N # C C ( c 1 c c c n c 1 ) N 1 C C O C C 1 >,N # C C C C ( C # N ) ( c 1 c c c n c 1 ) N 1 C C O C C 1,30,29
+670734,O = C ( O ) C C c 1 c c c c c 1 Br > A_C1CCOC1 A_N#N,O C C C c 1 c c c c c 1 Br,20,13
+820761,C C ( C ) ( C ) O C ( N ) = O . C N ( C ) C = O > A_C1CCOC1 A_[Na+] A_[H-],C N C ( = O ) O C ( C ) ( C ) C,28,16
+115485,O C C Cl . O c 1 c c c ( - n 2 c c n c 2 ) c c 1 > A_[K+] A_O=C([O-])[O-],O C C O c 1 c c c ( - n 2 c c n c 2 ) c c 1,27,22
+223968,C C C C O C ( C ) = O . O = C 1 C N 2 C C C 1 C C 2 > A_O A_C1CCOC1 A_[Li]CCCC,C C C C O C ( = O ) C C 1 ( O ) C N 2 C C C 1 C C 2,30,26
+705272,C C ( C ) O c 1 c c c ( C # N ) c c 1 I . N O > A_Cl A_CCO A_CCN(C(C)C)C(C)C,C C ( C ) O c 1 c c c ( C ( = N ) N O ) c c 1 I,27,24
+222662,C C = C C = C C = O . C [C@H] ( N ) c 1 c c c c c 1 > A_[Na+] A_CCO,C / C = C / C = C / C N [C@@H] ( C ) c 1 c c c c c 1,27,24
+78816,O = C N C c 1 n c ( C 2 C C 2 ) n o 1 > A_O A_[Na+] A_ClCCl A_O=C([O-])[O-] A_CCN(CC)CC,[C-] # [N+] C c 1 n c ( C 2 C C 2 ) n o 1,25,18
+813630,C C ( C ) ( O ) C Cl . C C [Si] ( Cl ) ( C C ) C C > A_O A_ClCCl A_CN1CCOCC1,C C [Si] ( C C ) ( C C ) O C ( C ) ( C ) C Cl,27,21
+34055,C [N+] ( = O ) [O-] . C c 1 c c ( C = O ) o n 1 > A_[Na+] A_CCO A_CCOCC A_[Na],C c 1 c c ( C ( = O ) C = N O ) o n 1,26,19
+276805,C c 1 c c ( Br ) c c c 1 F . O = C 1 C C C ( = O ) N 1 Br > A_ClC(Cl)(Cl)Cl,F c 1 c c c ( Br ) c c 1 C Br,30,14
+274224,N C C C O . O = C ( O ) c 1 c c 2 c c c c c 2 s 1 >,O = C ( N C C C O ) c 1 c c 2 c c c c c 2 s 1,26,23
+553607,O = C ( O ) c 1 c c ( F ) c c c 1 [N+] ( = O ) [O-] > A_C1CCOC1,O = [N+] ( [O-] ) c 1 c c c ( F ) c c 1 C O,25,19
+194302,N c 1 c ( Cl ) c c c c 1 C ( = O ) O . O = C ( Br ) C Br > A_CN(C)C=O A_C1COCCO1,O = C ( C Br ) N c 1 c ( Cl ) c c c c 1 C ( = O ) O,30,25
+172776,C C C c 1 c c c ( O ) c c 1 . O C C C C C C Br > A_C1CCOC1 A_c1ccc(P(c2ccccc2)c2ccccc2)cc1,C C C c 1 c c c ( O C C C C C C Br ) c c 1,26,21
+492719,C C ( Cl ) C C C Br . C c 1 c [nH] c ( = O ) [nH] c 1 = O > A_O A_[K+] A_CN(C)C=O A_O=C([O-])[O-],C c 1 c n ( C C C C ( C ) Cl ) c ( = O ) [nH] c 1 = O,30,25
+876051,C O . N # C c 1 c c ( F ) c ( N ) c c 1 F > A_C1CCOC1,C O c 1 c c ( N ) c ( F ) c c 1 C # N,23,19
+690427,N c 1 c c c ( Cl ) c ( C O ) c 1 . O = C ( [O-] ) [O-] > A_O A_[Na+] A_C1COCCO1,C C ( C ) ( C ) O C ( = O ) N c 1 c c c ( Cl ) c ( C O ) c 1,28,30
+141399,C = C ( Cl ) C C ( O ) c 1 c c c c c 1 > A_[Na+] A_CN(C)C=O A_Cl A_[OH-],C # C C C ( O ) c 1 c c c c c 1,24,16
+91140,C C 1 ( C ) C c 2 c c c ( Br ) c c 2 C ( O ) C 1 > A_O A_c1ccccc1 A_Cc1ccc(S(=O)(=O)O)cc1,C C 1 ( C ) C = C c 2 c c ( Br ) c c c 2 C 1,28,22
+114500,C = C C C P ( = O ) ( O ) C C C N > A_O A_[Pd] A_[H][H],C C C C P ( = O ) ( O ) C C C N,21,16
+362598,C O C ( = O ) c 1 c c c ( C O ) c c 1 . N N > A_O A_CCO,N N C ( = O ) c 1 c c c ( C O ) c c 1,25,19
+764889,C C ( C ) = O . O = C c 1 c c c 2 c c c c c 2 c 1 > A_O A_[Na+] A_CCO A_[OH-],O = C ( C = C c 1 c c c 2 c c c c c 2 c 1 ) C = C c 1 c c c 2 c c c c c 2 c 1,30,39
+900762,C O C ( = O ) c 1 c c c ( C ( C ) C ) c c 1 Cl > A_C1CCOC1 A_[Na+] A_Cl A_[OH-],C C ( C ) c 1 c c c ( C ( = O ) O ) c ( Cl ) c 1,28,24
+766203,C = C ( I ) C O . C C ( C ) ( C ) [Si] ( C ) ( C ) Cl > A_ClCCl,C = C ( I ) C O [Si] ( C ) ( C ) C ( C ) ( C ) C,27,23
+384610,N c 1 c c c c c 1 . O C C C C C C Cl > A_CCCCO,O C C C C C C N ( C C C C C C O ) c 1 c c c c c 1,20,25
+620080,C = C C ( = O ) O C C C ( = O ) O . C = C c 1 c c c c c 1 >,C = C C ( = O ) O C C C C,30,13
+855482,C O C ( = O ) C C ( Br ) C = O . N C ( N ) = O > A_CN(C)C=O,C O C ( = O ) C c 1 c n c ( N ) o 1,25,18
+665099,C C O C ( = O ) [C@H] 1 C [C@@H] ( O ) C [C@H] 1 C C > A_[Na+] A_[OH-],C C C 1 C C ( O ) C C 1 C ( = O ) O,23,18
+100116,C = C C O C ( = O ) Cl . C N 1 C C N C C 1 > A_O A_[Na+] A_ClCCl A_[OH-],C = C C O C ( = O ) N 1 C C N ( C ) C C 1,26,21
+795738,C C N C C . C O c 1 c c c ( C ( = O ) O ) c ( C ) c 1 > A_O A_O=S(Cl)Cl,C C N ( C C ) C ( = O ) c 1 c c c ( O C ) c c 1 C,30,25
+193825,O C 1 C C C C C 1 N 1 C C C C 1 > A_ClCCl A_CCN(CC)CC A_CS(C)=O,O = C 1 C C C C C 1 N 1 C C C C 1,20,17
+381885,C O c 1 c c ( C # N ) c c c 1 C ( = O ) O > A_C1CCOC1 A_ClCCl A_[H-] A_O=S(Cl)Cl A_[Li+],C O c 1 c c ( C # N ) c c c 1 C = O,27,18
+332525,O = [N+] ( [O-] ) c 1 c c c ( N 2 C C C C C 2 ) c n 1 > A_C1CCOC1,N c 1 c c c ( N 2 C C C C C 2 ) c n 1,26,19
+368258,C O c 1 c c c c c 1 - c 1 c c c c c 1 . [Br-] > A_O A_ClCCl A_[Br-],C O c 1 c c c ( Br ) c c 1 - c 1 c c c c c 1,25,22
+567990,C C ( C ) O . C C O . C N 1 C C C C 1 = O . N N >,O c 1 n n c ( O ) c 2 c c c c c 1 2,25,18
+733392,C C O c 1 n c ( N ) c ( [N+] ( = O ) [O-] ) c c 1 Br > A_C1CCOC1,C C O c 1 n c ( N ) c ( N ) c c 1 Br,25,18
+9502,C [O-] . N # C c 1 c c ( C ( F ) ( F ) F ) c c c 1 Br > A_[Na+],C O c 1 c c c ( C ( F ) ( F ) F ) c c 1 C # N,27,23
+279470,C N C ( = O ) c 1 c c 2 c c c c c 2 n 1 C > A_C1CCOC1 A_[H-] A_[Li+],C N C c 1 c c 2 c c c c c 2 n 1 C,25,17
+67945,C C ( = O ) C O c 1 c c c ( Cl ) c ( [N+] ( = O ) [O-] ) c 1 > A_C1COCCO1,C C ( = O ) C O c 1 c c c ( Cl ) c ( N ) c 1,29,22
+101090,C C C 1 = C ( O C ) C ( = O ) C C 1 > A_Cl,C C C 1 = C ( O ) C ( = O ) C C 1,20,17
+763376,C C C C C C C C C C C C N ( C C C # N ) C C C # N > A_C1COCCO1 A_[H][H],C C C C C C C C C C C C N ( C C C N ) C C C N,28,23
+67427,F C C Cl . O = C c 1 c c c ( O ) c c 1 > A_O A_[K+] A_CN(C)C=O A_O=C([O-])[O-],O = C c 1 c c c ( O C C F ) c c 1,24,17
+679646,C C O C ( = O ) C C ( C ) N . C O C ( = O ) Cl > A_O A_C1CCOC1 A_Cl A_[OH-] A_CCN(CC)CC A_[Li+],C O C ( = O ) N C ( C ) C C ( = O ) O,30,19
+76475,C c 1 c c c ( C ( C C ( = O ) O ) C ( = O ) O ) s 1 > A_O A_Cc1ccccc1C,C c 1 c c 2 c ( s 1 ) C ( C ( = O ) O ) C C 2 = O,29,25
+577821,N # C C C 1 C O c 2 c c c c c 2 O 1 > A_C1CCOC1 A_Cl,N C C C 1 C O c 2 c c c c c 2 O 1,21,17
+516024,C O c 1 c c c c ( C = O ) c 1 . Cl C ( Cl ) Cl > A_[K+] A_CN(C)C=O A_CO A_[OH-],C O c 1 c c c c ( C ( O ) C ( Cl ) ( Cl ) Cl ) c 1,27,24
+296475,C C 1 ( C ) C = C C ( = O ) C 1 . N C c 1 c c c c c 1 > A_CCO,C C 1 ( C ) C C C ( N C c 2 c c c c c 2 ) C 1,29,23
+861398,O = C 1 C C c 2 c c ( F ) c c c 2 1 . [N-] = [N+] = [N-] > A_[Na+] A_ClCCl A_CS(=O)(=O)O,O = C 1 N C C c 2 c c ( F ) c c c 2 1,28,19
+585400,C c 1 c c ( C ) c c ( C ( N ) = O ) c 1 > A_[Na+] A_CN(C)C=O A_[OH-] A_O=S(Cl)Cl A_c1ccccc1,C c 1 c c ( C ) c c ( C # N ) c 1,26,17
+562715,C C I . C c 1 o c c c ( = O ) c 1 O > A_O A_[Na+] A_CO A_[OH-],C C O c 1 c ( C ) o c c c 1 = O,23,16
+217663,C C ( C ) ( C ) O C ( = O ) O C ( C ) ( C ) C . N C C C N >,C C ( C ) ( C ) O C ( = O ) N C C C N,30,19
+599199,C O . O = C ( O ) c 1 c c c ( O ) c c 1 C ( F ) ( F ) F > A_O=S(=O)(O)O,C O C ( = O ) c 1 c c c ( O ) c c 1 C ( F ) ( F ) F,30,26
+182837,C O C ( = O ) c 1 c c c ( O C C C C Cl ) c c 1 > A_[Na+] A_[K+] A_CCO A_[OH-],O = C ( O ) c 1 c c c ( O C C C C Cl ) c c 1,28,22
+411229,N C C c 1 c c c ( O ) c c 1 . O = C c 1 c c c c c 1 > A_CCO,O c 1 c c c ( C C N C c 2 c c c c c 2 ) c c 1,28,23
+50096,C = C ( C ) c 1 c c c c c 1 S ( = O ) ( = O ) Cl . N > A_[Cl-] A_[NH4+] A_CCOCC,C = C ( C ) c 1 c c c c c 1 S ( N ) ( = O ) = O,30,24
+901309,C C 1 = C C C ( C O ) ( C ( C ) C ( C ) C ) C C 1 > A_Cc1ccccc1,C C ( C ) C ( C ) C 1 2 C C C ( C ) ( C C 1 ) O C 2,27,26
+47736,C O . N [C@@H] ( C c 1 c c c ( F ) c c 1 ) C ( = O ) O > A_O=S(Cl)Cl,C O C ( = O ) [C@@H] ( N ) C c 1 c c c ( F ) c c 1,27,23
+862081,C O c 1 c c 2 n c c c c 2 c c 1 [N+] ( = O ) [O-] > A_[Na+] A_Cl A_[OH-] A_c1ccncc1,O = [N+] ( [O-] ) c 1 c c 2 c c c n c 2 c c 1 O,27,21
+139,C = C P ( = O ) ( C = C ) c 1 c c c c c 1 . C N > A_[Cl-] A_[NH4+],C N 1 C C P ( = O ) ( c 2 c c c c c 2 ) C C 1,27,23
+545288,C O c 1 c c c ( [N+] ( = O ) [O-] ) n c 1 Br > A_O A_[Na+] A_CCO A_O=C([O-])O,C O c 1 c c c ( N ) n c 1 Br,24,14
+268050,C = C O C ( C ) = O . C C ( O ) c 1 n c c c ( = O ) [nH] 1 > A_C1COCCO1,C C ( = O ) O [C@H] ( C ) c 1 n c c c ( = O ) [nH] 1,30,23
+166077,C C O C ( = O ) C C ( = O ) O C C . Cl C C Cl > A_O A_[K+] A_CN(C)C=O A_O=C([O-])[O-] A_O=C=O,C C O C ( = O ) C 1 ( C ( = O ) O C C ) C C 1,28,23
+828274,C C O C ( = O ) Cl . O = C ( O ) c 1 c c c c c 1 O > A_Cc1ccccc1,C C O C ( = O ) O c 1 c c c c c 1 C ( = O ) O,27,23
+729677,C C ( = O ) c 1 c c c ( Cl ) c ( Cl ) c 1 . N O > A_O A_CCO A_c1ccncc1,C C ( = N O ) c 1 c c c ( Cl ) c ( Cl ) c 1,27,21
+131915,C N [C@H] ( C C ( = O ) [O-] ) C ( = O ) [O-] > A_O=S(=O)([O-])[O-] A_[Mg+2],C N [C@H] ( C C ( = O ) O ) C ( = O ) O,21,18
+248496,N # C c 1 c c c c ( C N ) c 1 . O = S ( = O ) ( O ) O > A_O A_CC(=O)O,N # C c 1 c c c c ( C = O ) c 1,30,16
+211962,C # C C N 1 C C C C 1 . C C ( C ) = O > A_C1CCOC1 A_[Li]CCCC,C C ( C ) ( O ) C # C C N 1 C C C C 1,22,19
+112384,Br C = C Br . C 1 = C C 2 C 3 C = C C ( C 3 ) C 2 C 1 >,Br C 1 C 2 C = C C ( C 2 ) C 1 Br,27,16
+729485,C C ( = O ) O c 1 c c c ( C O ) c c 1 . [I-] > A_CC#N A_[Cs+] A_CCOCC,C C ( = O ) O c 1 c c c ( C I ) c c 1,25,19
+130040,C N ( C ) C = O . c 1 c c c ( S c 2 c c c s 2 ) c c 1 > A_C1CCOC1 A_[Li]CCCC,O = C c 1 c c c ( S c 2 c c c c c 2 ) s 1,30,21
+48238,O = C ( O ) C Cl . O c 1 c c ( Cl ) c ( Cl ) c c 1 Cl >,O = C ( O ) C O c 1 c c ( Cl ) c ( Cl ) c c 1 Cl,26,23
+590133,C 1 C O C C N 1 . C = O . c 1 c c [nH] c 1 > A_[Na+] A_[OH-] A_CC(=O)O,c 1 c [nH] c ( C N 2 C C O C C 2 ) c 1,24,18
+570515,C n 1 c ( = O ) o c ( = O ) c 2 s c c c 2 1 . N > A_C1CCOC1,C N c 1 c c s c 1 C ( N ) = O,26,15
+572474,F c 1 c c ( Cl ) c c c 1 Br . O = C c 1 c c c ( Cl ) c c 1 F >,O C ( c 1 c c c ( Cl ) c c 1 F ) c 1 c c c ( Cl ) c c 1 F,30,28
+32637,C = C C C C C C C C . O c 1 c c c c c 1 >,C C C C C C C C C c 1 c c c ( O ) c c 1,21,20
+355227,N # C Br . N c 1 c c ( F ) c ( F ) c c 1 N > A_O A_[Na+] A_O=C([O-])O,N c 1 n c 2 c c ( F ) c ( F ) c c 2 [nH] 1,25,20
+314210,O = [N+] ( [O-] ) c 1 c c c 2 c ( Br ) c n c c 2 c 1 > A_O A_C1CCOC1 A_[Na+] A_CCO A_[Cl-] A_[NH4+],N c 1 c c c 2 c ( Br ) c n c c 2 c 1,30,18
+17914,C C ( = O ) O N = C C = N O . C N = C = O >,C N C ( = O ) O N = C C = N O C ( C ) = O,22,21
+726294,C C O C ( = O ) C C # N . I c 1 c c c c c 1 > A_[K+] A_CC#N A_O=P([O-])([O-])[O-],N # C C C ( = O ) O C C c 1 c c c c c 1,26,20
+289027,C C C N c 1 n c ( N ) n [nH] 1 . C c 1 c c c c c 1 > A_O A_CC(=O)O,C C C N c 1 n c ( N = C c 2 c c c c c 2 ) n [nH] 1,27,24
+493856,C C 1 C C C N C 1 . C C C # C C O c 1 n c n c ( Cl ) c 1 F >,C C C # C C O c 1 n c n c ( N 2 C C C C ( C ) C 2 ) c 1 F,30,29
+2637,Cl c 1 n c c n c 1 Cl . [O-] c 1 c c c c c 1 > A_[Na+],Cl c 1 n c c n c 1 O c 1 c c c c c 1,22,18
+34813,C S C ( = S ) N C C C C C C ( = O ) O . [N-] = [N+] = [N-] > A_[Na+] A_[OH-],O = C ( O ) C C C C C n 1 n n n c 1 S,28,19
+126313,C C = C ( C ( = O ) O C C ) C ( = O ) O C C . O O > A_O A_[Na+] A_CCO,C C O C ( = O ) C 1 ( C ( = O ) O C C ) O C 1 C,29,24
+41882,C O C ( = O ) c 1 c c [nH] c 1 . C c 1 c c c c c 1 S Cl > A_ClCCl A_CCOCC A_ClC(Cl)Cl,C O C ( = O ) c 1 c [nH] c ( S c 2 c c c c c 2 C ) c 1,30,26
+329664,O = [N+] ( [O-] ) O . [O-] [n+] 1 c c c c ( Cl ) c 1 > A_O=S(=O)(O)O,O = [N+] ( [O-] ) c 1 c c [n+] ( [O-] ) c c 1 Cl,22,18
+41310,C O c 1 c c c c ( C 2 3 C C C C 2 = C N ( C ) C C 3 ) c 1 >,C O c 1 c c c c ( [C@@] 2 3 C C C [C@@H] 2 C N ( C ) C C 3 ) c 1,30,28
+89235,C C ( = O ) O C ( C ) = O . C c 1 c c c c ( C ) c 1 C O >,C C ( = O ) O C c 1 c ( C ) c c c c 1 C,29,20
+515257,C 1 C O C C O 1 . Cl [SiH] ( Cl ) C C [Si] ( Cl ) ( Cl ) Cl >,C = C [Si] ( Cl ) ( Cl ) C C [Si] ( Cl ) ( Cl ) Cl,25,20
+74231,N # C c 1 c c c ( O ) c ( O ) c 1 O . N O > A_O A_[Na+] A_[OH-] A_O=S(=O)(O)O,N C ( = N O ) c 1 c c c ( O ) c ( O ) c 1 O,26,22
+172718,C c 1 c c ( - c 2 n n n ( C ) n 2 ) c c ( C ) c 1 O >,C n 1 n n c ( - c 2 c c c ( O ) c c 2 ) n 1,27,22
+25308,C C ( = O ) O . C C = C c 1 c c c c ( O ) c 1 F > A_O A_[K+] A_II,O = C c 1 c c c c ( F ) c 1 O,28,15
+654060,C # C c 1 c c c n c 1 . O N = C ( Cl ) c 1 c n c c n 1 > A_N,c 1 c n c c ( - c 2 c c ( - c 3 c n c c n 3 ) n o 2 ) c 1,29,29
+205748,O = C ( Cl ) C C C C C Br . O c 1 c c c c c 1 > A_[Cl-],O = C ( C C C C C Br ) c 1 c c c ( O ) c c 1,24,22
+746942,O = C 1 N c 2 c c ( Br ) c n c 2 C 1 2 C C O C C 2 > A_[Na+] A_Cc1ccccc1 A_[H-],Br c 1 c n c 2 c ( c 1 ) N C C 2 1 C C O C C 1,29,23
+446685,C C N ( C C ) C C . O = C ( Cl ) c 1 c c ( Cl ) c n c 1 Cl > A_CC#N,C N C ( = O ) c 1 c c ( Cl ) c n c 1 Cl,30,19
+167732,C O c 1 c c c c ( O C ) c 1 . O = C 1 C C C ( = O ) O 1 > A_[Cl-],C O c 1 c c c ( C ( = O ) C C C ( = O ) O ) c ( O C ) c 1,30,29
+256775,C c 1 c c ( C O ) c c ( O C C N c 2 c c n c c 2 ) c 1 > A_C1COCCO1 A_CCOCC,C c 1 c c ( C = O ) c c ( O C C N c 2 c c n c c 2 ) c 1,30,28
+15623,C = C C C N C C = O . C O c 1 n n c ( N = C = O ) s 1 > A_c1ccccc1,C = C C C N ( C C = O ) C ( = O ) N c 1 n n c ( O C ) s 1,29,29
+449656,C O c 1 c c c ( F ) n c 1 - c 1 c c c n c 1 . C [S-] > A_[Na+] A_CN(C)C=O,C S c 1 c c c ( O ) c ( - c 2 c c c n c 2 ) n 1,28,24
+764282,C C ( N ) C c 1 c c c ( I ) c c 1 . C O C ( = O ) Cl > A_ClCCl A_c1ccncc1,C O C ( = O ) N C ( C ) C c 1 c c c ( I ) c c 1,29,24
+589730,C # C C O . Cl c 1 c c c ( Cl ) c ( I ) c 1 > A_O A_C1CCOC1 A_[Na+] A_CCN(C(C)C)C(C)C A_[Pd] A_[Cl-] A_ClC(Cl)Cl A_c1ccc(P(c2ccccc2)c2ccccc2)cc1,O C C # C c 1 c c ( Cl ) c c c 1 Cl,30,17
+863607,O = S 1 ( = O ) C = C c 2 c c c c c 2 N 1 > A_CO A_[Pd],O = S 1 ( = O ) C C c 2 c c c c c 2 N 1,24,20
+604243,O = C c 1 c ( C 2 C C 2 ) n c 2 c c c ( Cl ) n n 1 2 > A_[Na+] A_CO,O C c 1 c ( C 2 C C 2 ) n c 2 c c c ( Cl ) n n 1 2,29,25
+237606,C c 1 [nH] c c c ( = O ) c 1 O C c 1 c c c c c 1 > A_Cl A_CCO A_[Pd],C c 1 [nH] c c c ( = O ) c 1 O,27,14
+864252,C c 1 c c c c ( C ( = O ) O ) n 1 . O = C ( [O-] ) [O-] > A_[Na+] A_CO A_O=S(=O)(O)O,C O C ( = O ) c 1 c c c c ( C ) n 1,29,18
+856424,C c 1 c c c n c 1 Cl . N C ( N ) = O > A_O A_ClCCl,C c 1 c c c [n+] ( [O-] ) c 1 Cl,21,13
+198651,C C ( C ) ( C ) C ( C ) ( C ) O . O O > A_O A_ClCCl A_O=S(=O)(O)O,C C ( C ) ( C ) C ( C ) ( C ) O O,23,17
+204857,C C C C C C C C C c 1 c c c ( O ) c c 1 . C [O-] > A_O A_CO A_Cc1ccccc1 A_CC(=O)O A_C[O-] A_[Mg+2],C C C C C C C C C c 1 c c c ( O ) c ( C = O ) c 1,30,25
+615736,O [C@@H] 1 c 2 c c ( Br ) c c c 2 O C [C@H] 1 Br . [NH4+] . [OH-] > A_C1CCOC1 A_CCO,N [C@H] 1 c 2 c c ( Br ) c c c 2 O C [C@@H] 1 O,26,19
+343333,O C c 1 c c 2 n ( n 1 ) C c 1 c c c c c 1 O C 2 > A_[Na+] A_Cc1ccccc1 A_CC#N A_[H-],O = C C 1 = C C 2 = C O c 3 c c c c c 3 C N 2 N 1,29,25
+262547,C 1 C C N C C 1 . O = C ( Cl ) c 1 c c c c ( C Cl ) c 1 > A_O A_CCN(CC)CC,O = C ( c 1 c c c c ( C Cl ) c 1 ) N 1 C C C C C 1,30,25
+411934,C C ( = O ) [O-] . C C O . F c 1 c c c ( Br ) n c 1 > A_[Na+] A_ClCCl,C C O C ( = O ) c 1 c c c ( F ) c n 1,27,19
+16349,C C O C ( = O ) C n 1 c c n c 1 S ( C ) ( = O ) = O > A_O=S(=O)(O)O,C S ( = O ) ( = O ) c 1 n c c n 1 C C ( = O ) O,28,24
+522430,Br c 1 c [nH] c n 1 . O = [N+] ( [O-] ) c 1 c c c c ( F ) c 1 > A_[Na+] A_CN(C)C=O A_[H-],O = [N+] ( [O-] ) c 1 c c c c ( - n 2 c n c ( Br ) c 2 ) c 1,30,27
+547694,C O c 1 c c c ( C N ) c c 1 . Cl c 1 n c c c 2 [nH] c n c 1 2 >,C O c 1 c c c ( C N c 2 n c c c 3 [nH] c n c 2 3 ) c c 1,30,27
+846131,C C O C ( = O ) C C c 1 n c c c c 1 O > A_C1CCOC1 A_[H-] A_[Li+],O C C C c 1 n c c c c 1 O,23,13
+649877,C S c 1 c c c ( C ( O ) c 2 c c c ( F ) n c 2 ) c c 1 > A_ClCCl A_O=C(O)C(F)(F)F,C S c 1 c c c ( C c 2 c c c ( F ) n c 2 ) c c 1,30,24
+706264,C C O . O = C ( O ) c 1 c c ( Br ) n c c 1 Br > A_O=S(=O)(O)O,C C O C ( = O ) c 1 c c ( Br ) n c c 1 Br,24,20
+491810,C c 1 c c ( C = O ) c c ( C ) c 1 Br . O C C C O > A_Cc1ccccc1 A_Cc1ccc(S(=O)(=O)O)cc1,C c 1 c c ( C 2 O C C C O 2 ) c c ( C ) c 1 Br,27,23
+651791,O = C ( C O ) c 1 c c c c ( Br ) n 1 > A_[Na+] A_CCO,O C C ( O ) c 1 c c c c ( Br ) n 1,21,17
+222974,C C ( C ) ( C ) c 1 c c [n+] ( [O-] ) c c 1 . C [O+] ( C ) C > A_O A_ClCCl A_[NH4+],C C ( C ) ( C ) c 1 c c n c ( C O ) c 1,30,20
+201210,C O C ( = O ) C Cl . O c 1 c c c 2 c c [nH] c 2 c 1 > A_[K+] A_O=C([O-])[O-] A_CC(C)=O,C O C ( = O ) C O c 1 c c c 2 c c [nH] c 2 c 1,28,22
+16408,C O . C [O-] . Cl C C C Cl . O C C S . [SH-] > A_[Na+],O C C S C C C S C C O,20,11
+528849,C C # N . O = C ( [O-] ) [O-] . O c 1 c c c ( Br ) c c 1 F > A_[Cs+],C [C@@H] 1 C C C N 1 C C C O c 1 c c c ( Br ) c c 1 F,28,24
+5639,C C ( Cl ) c 1 c c c ( Cl ) c c 1 . [O-] [n+] 1 c c c c c 1 S > A_[Na],C C ( S c 1 c c c c [n+] 1 [O-] ) c 1 c c c ( Cl ) c c 1,29,25
+713634,C c 1 n c c ( [N+] ( = O ) [O-] ) c c 1 Br > A_O A_CCO A_[Cl-] A_[NH4+],C c 1 n c c ( N ) c c 1 Br,23,13
+119793,C C ( C ) ( C ) [Si] ( C ) ( C ) C # C C O . C C [Mg] Cl > A_[Br-] A_[Li+],C = C = C ( C C ) [Si] ( C ) ( C ) C ( C ) ( C ) C,28,24
+274146,O = C 1 O C C O 1 . O c 1 c c c c 2 o c n c 1 2 > A_O A_[K+] A_CN(C)C=O A_CO A_O=C([O-])[O-],O C C O c 1 c c c c 2 o c n c 1 2,30,17
+783931,Cl c 1 n c ( Cl ) n c ( Cl ) n 1 . N C C c 1 c c n c c 1 >,Cl c 1 n c ( Cl ) n c ( N C C c 2 c c n c c 2 ) n 1,28,25
+354831,C C N = C = O . N c 1 n c 2 c c c ( Cl ) c c 2 s 1 > A_CN(C)C=O A_CCN(CC)CC,C C N C ( = O ) N c 1 n c 2 c c c ( Cl ) c c 2 s 1,28,25
+313218,Cl C Cl . N C C ( N ) C c 1 c c n c 2 c c c c c 1 2 > A_N,C 1 = N C ( C c 2 c c n c 3 c c c c c 2 3 ) C N 1,27,25
+157676,C 1 C C O C 1 . C C C C [Sn] ( Cl ) ( C C C C ) C C C C > A_[Li]CCCC A_CCCCCC,C C C C [Sn] ( C C C C ) ( C C C C ) c 1 c c o c 1,29,24
+486346,N # C c 1 c c c n c 1 O c 1 c c c n c 1 >,N C c 1 c c c n c 1 O c 1 c c c n c 1,21,19
+598714,C C [Mg] Br . N # C c 1 c c c ( C # N ) c c 1 > A_C1CCOC1 A_ClCCl A_CCOCC,N # C c 1 c c c ( C 2 ( N ) C C 2 ) c c 1,25,21
+602359,C c 1 [nH] c ( = O ) c 2 c c c c c 2 c 1 Br . Cl C ( Cl ) Cl > A_O=C([O-])[O-] A_CCN(CC)CC,C O c 1 n c c ( Br ) c 2 c c c c c 1 2,30,19
+873278,C C ( C ) ( C ( = O ) O ) n 1 c c c n 1 . C C O > A_O=S(=O)(O)O,C C O C ( = O ) C ( C ) ( C ) n 1 c c c n 1,26,22
+288851,C C O C ( = O ) C C C S c 1 c c c c c 1 C = O > A_[Na+] A_Cl A_CCO,C C O C ( = O ) C 1 = C c 2 c c c c c 2 S C C 1,27,24
+72921,C N C . N # C c 1 c c ( Cl ) c c c 1 [N+] ( = O ) [O-] > A_O A_CN(C)C=O,C N ( C ) c 1 c c c ( [N+] ( = O ) [O-] ) c ( C # N ) c 1,27,26
+121331,C S ( = O ) ( = O ) Cl . N c 1 c c c ( C ( = O ) O ) c c 1 >,C S ( = O ) ( = O ) N c 1 c c c ( C ( = O ) O ) c c 1,30,27
+432858,N . O = S ( = O ) ( Cl ) c 1 c ( Cl ) s c ( Cl ) c 1 Br >,N S ( = O ) ( = O ) c 1 c ( Cl ) s c ( Cl ) c 1 Br,27,24
+256661,C O C 1 = C ( O C ) C ( = O ) C ( C ) = C C 1 = O > A_O A_[Na+] A_CCOCC,C O c 1 c ( O ) c c ( C ) c ( O ) c 1 O C,29,21
+215944,C S C . N c 1 c ( Cl ) c c ( Cl ) c c 1 Cl > A_ClCCl,C S ( C ) = N c 1 c ( Cl ) c c ( Cl ) c c 1 Cl,22,22
+643917,C C ( C ) = O . C O C = C c 1 c c c ( Br ) c c 1 F > A_O A_C1CCOC1 A_[Li]CCCC,C O C = C c 1 c c c ( C ( C ) ( C ) O ) c c 1 F,29,24
+586409,C O C O C ( C ) c 1 c n c ( F ) c c 1 I > A_[Na+] A_CO A_O=C([O-])[O-] A_Cl,C C ( O ) c 1 c n c ( F ) c c 1 I,25,17
+599254,C O C ( = O ) C ( C ) ( C C C Br ) C ( = O ) O C > A_[Na+] A_[OH-],C C ( C C C Br ) C ( = O ) O,27,14
+352336,C O c 1 c c c 2 c c ( C # N ) c n c 2 c 1 > A_[Cl-] A_c1ccccc1,N # C c 1 c n c 2 c c ( O ) c c c 2 c 1,24,20
+523676,O = C ( O ) c 1 c c 2 c ( Br ) c c c c 2 s 1 > A_CO,Br c 1 c c c c 2 s c c c 1 2,24,14
+726848,C N ( C ) C ( = S ) Cl . N # C c 1 c c c ( O ) c c 1 > A_O A_[Na+] A_[H-],C N ( C ) C ( = S ) O c 1 c c c ( C # N ) c c 1,30,24
+810900,Br C 1 C C C 1 . Br c 1 n [nH] c 2 c c c n c 1 2 > A_O A_CN(C)C=O A_O=C([O-])[O-] A_[Cs+],Br c 1 n n ( C 2 C C C 2 ) c 2 c c c n c 1 2,27,22
+318444,C C ( = O ) N c 1 c c c c 2 c n c c c 1 2 > A_[Na+] A_[OH-],C C ( = O ) N C 1 C C C c 2 c n c c c 2 1,24,21
+189759,N O . O = C c 1 c c ( O ) c ( O ) c ( [N+] ( = O ) [O-] ) c 1 > A_O,N # C c 1 c c ( O ) c ( O ) c ( [N+] ( = O ) [O-] ) c 1,30,25
+678895,O = C ( O ) C C C C C ( = O ) O . O C c 1 c c c c c 1 > A_[K+] A_[OH-],O = C ( C C C C C ( = O ) O C c 1 c c c c c 1 ) O C c 1 c c c c c 1,30,34
+204802,C C ( N ) = O . O c 1 c c c ( O ) c c 1 > A_O,C C ( = O ) N c 1 c c c ( O ) c c 1,22,18
+505005,Cl I . N c 1 c c c 2 c ( c 1 ) C O C 2 > A_[Na+] A_ClCCl A_CO A_O=C([O-])O,N c 1 c c 2 c ( c c 1 I ) C O C 2,24,17
+239914,O c 1 c c c ( C C C ( F ) ( F ) F ) c c 1 > A_[H][H] A_CC(C)O,O C 1 C C C ( C C C ( F ) ( F ) F ) C C 1,24,21
+259071,C C O C ( C ) = O . O = C c 1 c c c ( Br ) c c 1 > A_C1CCOC1 A_[Cl-] A_[NH4+] A_[Li+] A_C1CCCCC1,C C O C ( = O ) C C ( O ) c 1 c c c ( Br ) c c 1,30,24
+462066,C O C ( = O ) c 1 c c c c ( C O ) c 1 > A_[Na+] A_CO A_[OH-],O = C ( O ) c 1 c c c c ( C O ) c 1,23,18
+137759,C C ( = O ) c 1 c c c ( O ) c c 1 C . [OH-] > A_[Na+] A_Cl A_c1ccncc1 A_CCOCC A_II,C c 1 c c ( O ) c c c 1 C ( = O ) O,26,18
+506614,C O C C C Cl . O = C 1 C C c 2 c c c ( C O ) c c 2 N 1 >,C O C C C N 1 C ( = O ) C C c 2 c c c ( C O ) c c 2 1,28,27
+830737,C C O C ( = O ) c 1 c n ( O ) n n 1 > A_O A_CCO,O = C ( O ) c 1 c n ( O ) n n 1,21,16
+19537,C O . O = C [C@H] ( O ) [C@H] ( O ) [C@H] ( O ) C O > A_Cl,C O [C@@H] 1 O [C@H] ( C O ) [C@@H] ( O ) [C@H] 1 O,22,17
+82561,C C O / C = C / C ( = O ) N c 1 c c c ( Br ) c c 1 C > A_O=S(=O)(O)O,C c 1 c c ( Br ) c c 2 c c c ( = O ) [nH] c 1 2,28,22
+600397,O = C c 1 c c c ( I ) c c 1 . O C C S S C C O > A_CN(C)C=O,O = C c 1 c c c ( S C C O ) c c 1,25,17
+476643,C c 1 c c ( C = N O ) c c c 1 Br . Cl > A_C1CCOC1 A_[Na+],C c 1 c c ( C ( Cl ) = N O ) c c c 1 Br,21,19
+291496,O = C 1 C c 2 [nH] c 3 c c ( F ) c c c 3 c 2 C C N 1 > A_C1CCOC1 A_ClCCl,F c 1 c c c 2 c 3 c ( [nH] c 2 c 1 ) C C N C C 3,28,23
+727976,C N c 1 c c c c c 1 . C [Si] ( C ) ( C ) Cl > A_CCOCC A_[Li]CCCC,C N ( c 1 c c c c c 1 ) [Si] ( C ) ( C ) C,23,20
+490462,C C N 1 C ( = O ) C C [C@H] 1 C ( = O ) O C ( C ) ( C ) C > A_ClCCl A_O=C(O)C(F)(F)F,C C N 1 C ( = O ) C C [C@H] 1 C ( = O ) O,30,19
+633969,N # C c 1 c ( F ) c c c c 1 F . N N > A_O A_CCO A_CC(C)=O,N c 1 n [nH] c 2 c c c c ( F ) c 1 2,22,17
+325950,C c 1 c c ( C ) c c ( I ) c 1 . S c 1 c c c c c 1 > A_[K+] A_O=C([O-])[O-] A_CC(C)O,C c 1 c c ( C ) c c ( S c 2 c c c c c 2 ) c 1,29,23
+612723,C = C ( C ) C ( = O ) N ( C ) O C . C C ( C ) ( C ) O . O >,C O N ( C ) C ( = O ) [C@] ( C ) ( O ) C O,30,20
+598333,C O C ( = O ) c 1 c c c ( Br ) c n 1 . N # C [Cu] C # N > A_O A_CN1CCCC1=O,C O C ( = O ) c 1 c c c ( C # N ) c n 1,29,20
+271838,O = C ( [O-] ) [O-] . O = [N+] ( [O-] ) c 1 c c c c c 1 Br > A_CCOC(C)=O A_Cc1ccccc1 A_[Cs+],O = [N+] ( [O-] ) c 1 c c c c c 1 O c 1 c c c c c 1 [N+] ( = O ) [O-],27,29
+74783,C C C S . C O C ( = O ) C C C Cl > A_O A_[Na+] A_C[O-],C C C S C C C C ( = O ) O C,20,14
+427752,C O C ( = O ) c 1 c c c c ( S C ) c 1 > A_C1CCOC1 A_[Na+] A_CO A_[OH-],C S c 1 c c c c ( C ( = O ) O ) c 1,24,18
+172769,C C O . N c 1 c c ( [N+] ( = O ) [O-] ) c c c 1 O >,O = [N+] ( [O-] ) c 1 c c c c ( - c 2 n c 3 c c ( [N+] ( = O ) [O-] ) c c c 3 o 2 ) c 1,23,38
+698189,C C c 1 c c 2 c c ( Cl ) n c c 2 [nH] 1 . N > A_O A_CCO,C C c 1 c c 2 c c ( N ) n c c 2 [nH] 1,23,18
+851664,C C O C ( = O ) C C ( O ) C ( F ) ( F ) F . [NH4+] > A_CO,N C ( = O ) C C ( O ) C ( F ) ( F ) F,25,19
+303346,Cl I . N c 1 c c c c ( [N+] ( = O ) [O-] ) c 1 Cl > A_[Na+] A_CC(=O)O,N c 1 c c c ( I ) c ( [N+] ( = O ) [O-] ) c 1 Cl,24,21
+692628,C C O C ( = O ) c 1 n c ( Cl ) c ( C C ) [nH] 1 > A_ClCCl A_CO A_[OH-] A_[Li+],C C c 1 [nH] c ( C ( = O ) O ) n c 1 Cl,27,18
+385147,C 1 = C c 2 c c c c c 2 C 1 . N C ( N ) = O > A_O A_[Na+] A_O=C([O-])O A_O=S(=O)([O-])[O-],c 1 c c c 2 c ( c 1 ) C C 1 O C 2 1,27,18
+99807,C C O C ( = O ) C ( N ) C ( = O ) O C C . O = C ( O ) C I >,C C O C ( = O ) C ( N C ( = O ) C I ) C ( = O ) O C C,30,27
+14090,C O P ( O C ) O C . O = C C ( Cl ) ( Cl ) C = C ( Cl ) Cl > A_c1ccccc1,C O P ( = O ) ( O C ) O C = C ( Cl ) C = C ( Cl ) Cl,29,25
+344967,C O C O Cl . O = [N+] ( [O-] ) c 1 c c c ( O ) c ( Cl ) c 1 > A_O A_CN(C)C=O A_CCN(CC)CC,C O C O c 1 c c c ( [N+] ( = O ) [O-] ) c c 1 Cl,30,21
+677961,C I . O = C 1 N c 2 n c c ( Br ) c c 2 C O 1 > A_[Na+] A_CN(C)C=O A_CCOC(C)=O A_[H-],C N 1 C ( = O ) O C c 2 c c ( Br ) c n c 2 1,27,22
+524383,C C 1 ( O ) C C O C C 1 . O = C ( Cl ) C Cl > A_O A_ClCCl A_CCO A_CCN(CC)CC A_CN(C)c1ccncc1,C C 1 ( O C ( = O ) C Cl ) C C O C C 1,27,19
+894305,C # C C C C ( = O ) O . [N-] = [N+] = N C c 1 c c c c c 1 >,O = C ( O ) C C c 1 c [nH] n n 1,27,15
+154653,C O c 1 c c c ( O c 2 c c c c c 2 ) c c 1 C = N O > A_O=S(Cl)Cl A_c1ccccc1,C O c 1 c c c ( O c 2 c c c c c 2 ) c c 1 C # N,28,24
+534830,N # C [S-] . O = C ( C Cl ) c 1 c c c ( Cl ) c c 1 > A_[K+],N # C S C C ( = O ) c 1 c c c ( Cl ) c c 1,25,21
+189455,C C 1 ( C ) O C 2 C O C ( C Br ) O C C 2 O 1 > A_O A_C1CCOC1,C = C 1 O C C 2 O C ( C ) ( C ) O C 2 C O 1,25,22
+406418,C C ( = O ) N C c 1 c c c ( F ) c c 1 > A_C1CCOC1 A_Cl,C C N C c 1 c c c ( F ) c c 1,22,15
+57123,C O . N C C C N 1 C C N ( C C O ) C C 1 . S = C = S > A_[K+] A_[OH-],C S C ( = S ) N C C C N 1 C C N ( C C O ) C C 1,29,24
+155904,C C O C ( = O ) / C = C \ C ( = O ) O C C . N O >,C C O C ( = O ) C [C@H] ( N O ) C ( = O ) O C C,25,22
+260833,O = S ( Cl ) Cl . O C C N C 1 C C C C C 1 >,Cl C C N C 1 C C C C C 1,21,12
+353238,C 1 C C O C 1 . C c 1 c c n c ( C ) c 1 > A_[Li]CCCC,C c 1 c c n c ( C O ) c 1,22,13
+323373,C C ( = O ) Cl . C c 1 c c 2 c c c ( O ) c c 2 s 1 > A_C1CCOC1 A_CCOC(C)=O A_CCN(CC)CC,C C ( = O ) O c 1 c c c 2 c c ( C ) s c 2 c 1,29,23
+557732,C N S ( = O ) ( = O ) c 1 c c c ( C N = [N+] = [N-] ) c c 1 > A_CO A_[OH-],C N S ( = O ) ( = O ) c 1 c c c ( C N ) c c 1,30,23
+589008,F c 1 c c c ( Br ) c c 1 . O = C 1 C C 2 C C C 1 C 2 > A_C1CCOC1 A_II,O C 1 ( c 2 c c c ( F ) c c 2 ) C C 2 C C C 1 C 2,29,25
+132235,C c 1 c ( C C N ) [nH] c 2 c c c c c 1 2 > A_[Na+] A_[OH-] A_CC(=O)O,C C 1 c 2 c c c c c 2 N C 1 C C N,23,17
+370404,C O c 1 c c c ( C = O ) c c 1 O C . N C 1 C C N C 1 > A_[Na+] A_CO A_O=C([O-])[O-],C O c 1 c c c ( C = C C 2 C C N N 2 ) c c 1 O C,30,24
+249714,C N 1 C C N C C 1 . c 1 c c c 2 c ( c 1 ) C C 1 O C 2 1 >,C N 1 C C N ( C 2 c 3 c c c c c 3 C C 2 O ) C C 1,29,25
+762263,N [C@@H] ( C C C ( = O ) [O-] ) c 1 c c c c c 1 > A_O A_C1CCOC1 A_[Na+] A_[OH-] A_[H-] A_[Li+],N [C@@H] ( C C C O ) c 1 c c c c c 1,27,16
+452328,Cl c 1 c c c ( - c 2 c c n c ( Cl ) c 2 Br ) c c 1 . N N > A_O A_c1ccncc1,N N c 1 n c c c ( - c 2 c c c ( Cl ) c c 2 ) c 1 Br,30,25
+654918,C C ( C ) N N = C c 1 c ( F ) c c ( F ) c c 1 F > A_[K+] A_O=C([O-])[O-],C C ( C ) n 1 n c c 2 c ( F ) c c ( F ) c c 2 1,27,24
+556711,C C ( = O ) C C C ( C ) C . C C O C = O > A_C1CCOC1 A_[K+] A_CCOC(C)=O A_CC(C)(C)[O-],C C ( = O ) C ( = C O ) C C ( C ) C,25,18
+563558,N # C [S-] . O = C ( C Br ) c 1 c c c c c 1 > A_[Na+] A_CCO,N # C S C C ( = O ) c 1 c c c c c 1,23,18
+84240,C C ( C ) S C ( F ) ( F ) c 1 n n c ( N ) s 1 . Cl > A_O A_[Na+] A_CC(=O)O,C C ( C ) S C ( F ) ( F ) c 1 n n c ( Cl ) s 1,29,23
+401499,C O C ( = O ) C ( Br ) c 1 c c c c c 1 . N C C N > A_[Na+] A_CO A_C[O-],O = C 1 N C C N C 1 c 1 c c c c c 1,28,18
+68687,C = C c 1 c c c c c 1 . O = C c 1 c c c ( Br ) c c 1 > A_[Pd],O = C c 1 c c c ( C = C c 2 c c c c c 2 ) c c 1,28,24
+438155,C N ( C ) C C ( O ) c 1 c c c c c 1 > A_CO,C N ( C ) C [C@H] ( O ) c 1 c c c c c 1,20,18
+703576,Br Br . O = C ( O ) c 1 c c c ( O C ( F ) ( F ) F ) c c 1 > A_O,O = C ( O ) c 1 c c c ( O C ( F ) ( F ) F ) c ( Br ) c 1,30,28
+172391,C C ( = O ) c 1 c c c ( O ) c c 1 . C [O-] > A_[Na+] A_CO A_[Pd],O C C c 1 c c c ( O ) c c 1,24,14
+502362,C c 1 o c ( = O ) o c 1 C . O = C 1 C C C ( = O ) N 1 Br > A_c1ccccc1,C c 1 o c ( = O ) o c 1 C Br,30,14
+258897,C = O . C O c 1 c c c ( C ( = O ) O ) c c 1 O C > A_Cl,C O c 1 c c 2 c ( c c 1 O C ) C ( = O ) O C 2,26,23
+839992,C O C ( = O ) c 1 n c ( Br ) c n c 1 N . N N > A_O A_CCO,N N C ( = O ) c 1 n c ( Br ) c n c 1 N,25,19
+265216,C O B ( O C ) O C . F c 1 c c c c c 1 F > A_C1CCOC1 A_Cl A_Cc1ccccc1 A_[Li]CCCC A_CCCCCC,O B ( O ) c 1 c c c c ( F ) c 1 F,26,17
+585718,C O . O = C ( O ) c 1 c c c c ( [N+] ( = O ) [O-] ) c 1 I > A_O=S(=O)(O)O,C O C ( = O ) c 1 c c c c ( [N+] ( = O ) [O-] ) c 1 I,28,24
+262483,C = C ( Br ) C Br . C C C C C [Mg] Br . C C O C C > A_Cl,C = C ( Br ) C C C C C C,24,12
+269811,C C ( C ) = C C Br . C c 1 c c ( Cl ) n c ( Cl ) n 1 > A_O A_C1CCOC1 A_CCOC(C)=O A_[Li+],C C ( C ) = C C C c 1 c c ( Cl ) n c ( Cl ) n 1,30,23
+832998,C 1 C C N C 1 . O = [N+] ( [O-] ) c 1 c c c ( Br ) c n 1 > A_O,O = [N+] ( [O-] ) c 1 c c c ( N 2 C C C C 2 ) c n 1,27,23
+873796,C N O C . O = C ( O ) c 1 c c c ( O ) c n 1 > A_Cl,C O N ( C ) C ( = O ) c 1 c c c ( O ) c n 1,24,22
+722495,N N . O = C c 1 c ( F ) c c ( F ) c c 1 F > A_O A_[K+] A_O=C([O-])[O-] A_Cl A_COCCOC,F c 1 c c ( F ) c 2 c n [nH] c 2 c 1,27,17
+851480,C c 1 c c 2 c ( c ( [N+] ( = O ) [O-] ) c 1 ) O [C@H] ( C ) C 2 > A_C1CCOC1 A_[Pd],C c 1 c c ( N ) c 2 c ( c 1 ) C [C@@H] ( C ) O 2,30,22
+332093,Br c 1 c c c c 2 c 1 c c 1 n 2 C C N C 1 > A_C1CCOC1 A_[Na+] A_[OH-] A_O=C(O)C(F)(F)F,Br c 1 c c c c 2 c 1 C C 1 C N C C N 2 1,25,20
+329437,C O c 1 c c c 2 c c ( - c 3 c c c c c 3 ) c c c 2 c 1 > A_Cl,O c 1 c c c 2 c c ( - c 3 c c c c c 3 ) c c c 2 c 1,29,26
+570170,C C O C ( = O ) C ( = O ) C Br . C c 1 c c c c ( N ) n 1 > A_C1CCOC1,C C O C ( = O ) c 1 c n 2 c ( C ) c c c c 2 n 1,30,24
+514085,C C ( C ) [SiH] ( Cl ) C ( C ) C . C C O C C C Br > A_C1CCOC1 A_[Cl-] A_[NH4+] A_II,C C O C C C [SiH] ( C ( C ) C ) C ( C ) C,27,19
+814206,C O c 1 c c ( I ) c c c 1 Br . N c 1 c c [nH] n 1 > A_CN(C)C=O A_O=C([O-])[O-] A_[Cs+],C O c 1 c c ( - n 2 c c c ( N ) n 2 ) c c c 1 Br,27,24
+110837,C C O C ( = O ) N C C ( C ( C ) = O ) C ( = O ) O C C > A_ClCCl,C C O C ( = O ) N C [C@H] ( C ( = O ) O C C ) [C@@H] ( C ) O,29,26
+58005,Br C C c 1 c c c c c 1 . C C O P ( Cl ) O C C > A_CCOCC,C C O P ( C C c 1 c c c c c 1 ) O C C,24,19
+8378,C C ( C ( = O ) O ) c 1 c c c 2 c c ( C O ) c c c 2 c 1 > A_ClC(Cl)Cl,C C ( C ( = O ) O ) c 1 c c c 2 c c ( C = O ) c c c 2 c 1,30,29
+77431,C O c 1 c c c c ( C C ( = O ) N C C ( O C ) O C ) c 1 > A_Cl A_CC(=O)O,C O c 1 c c c 2 c ( c 1 ) C C ( = O ) N C = C 2,30,24
+392599,C C O C ( = O ) c 1 c o c c 1 - c 1 c c c c c 1 > A_ClCCl A_Cc1ccccc1 A_[H-],O C c 1 c o c c 1 - c 1 c c c c c 1,28,18
+153659,Cl I . N c 1 c c c ( [N+] ( = O ) [O-] ) c c 1 > A_CCOC(C)=O A_CC#N,N c 1 c c c ( [N+] ( = O ) [O-] ) c c 1 I,23,18
+20810,C O . O = C ( Cl ) c 1 c s c c 1 S ( = O ) ( = O ) Cl > A_Cl A_ClC(Cl)Cl,C O C ( = O ) c 1 c s c c 1 S ( = O ) ( = O ) Cl,29,24
+515572,C C ( = O ) C C C ( C ) = O . C c 1 c c ( N ) c c c 1 Br > A_CC(=O)O,C c 1 c c ( - n 2 c ( C ) c c c 2 C ) c c c 1 Br,30,24
+797495,C c 1 n c ( Cl ) c ( C ) c ( Cl ) n 1 . [NH4+] > A_CCO A_[OH-],C c 1 n c ( N ) c ( C ) c ( Cl ) n 1,23,18
+656565,N # C c 1 c c c ( O ) c ( [N+] ( = O ) [O-] ) c 1 > A_CCOC(C)=O A_CCO A_[Pd],N # C c 1 c c c ( O ) c ( N ) c 1,26,17
+309751,O = C 1 C C C c 2 c c c c c 2 N 1 > A_C1CCOC1 A_[H-] A_[Li+],c 1 c c c 2 c ( c 1 ) C C C C N 2,21,17
+110103,O = C ( Cl ) c 1 c c c 2 c c ( C ( = O ) Cl ) c c c 2 c 1 > A_CCN(CC)CC,O = C ( Cl ) c 1 c c c 2 c c c c c 2 c 1,30,20
+525231,C O C C O c 1 c c c c ( C Cl ) c 1 O C C O C . [C-] # N > A_[K+] A_CN(C)C=O A_CCOC(C)=O,C O C C O c 1 c c c c ( C C # N ) c 1 O C C O C,30,24
+292670,C = C ( F ) Cl . C C O C ( = O ) C = [N+] = [N-] > A_C1CCCCC1,C C O C ( = O ) C 1 C C 1 ( F ) Cl,23,17
+168202,C c 1 c c c ( F ) c c 1 C ( = O ) O . O = S ( Cl ) Cl >,C c 1 c c c ( F ) c c 1 C ( = O ) Cl,27,18
+223010,C C c 1 c c ( C ( C ) O ) n c c 1 O C . O = S ( Cl ) Cl > A_ClCCl,C C c 1 c c ( C ( C ) Cl ) n c c 1 O C,29,19
+628452,Br P ( Br ) Br . O C c 1 c c 2 c c c c c 2 o 1 > A_Cc1ccccc1 A_c1ccncc1,Br C c 1 c c 2 c c c c c 2 o 1,25,15
+305461,Br c 1 c c c ( Br ) n c 1 . C # C C N C = O >,O = C N C C # C c 1 c c c ( C # C C N C = O ) n c 1,22,26
+73008,C 1 C C N C C 1 . C O c 1 c c c c 2 c 1 O C C C 2 O > A_ClCCl A_CCN(CC)CC,C O c 1 c c c c 2 c 1 O C C C 2 N 1 C C C C C 1,29,24
+380894,C C ( C ) O C = C ( Br ) C = O . N C 1 = N C C S 1 >,O = C c 1 c n c 2 n 1 C C S 2,26,15
+142150,C = O . C O C ( = O ) C ( F ) C ( = O ) O C > A_[K+] A_O=C([O-])O,C O C ( = O ) C ( F ) ( C O ) C ( = O ) O C,25,22
+372618,I c 1 c n [nH] c 1 . O = C ( Cl ) O c 1 c c c c c 1 > A_O A_ClCCl A_CCN(CC)CC,O = C ( O c 1 c c c c c 1 ) n 1 c c ( I ) c n 1,28,24
+648590,C O [Si] ( C C C I ) ( O C ) O C . c 1 c [nH] c n 1 > A_C1CCOC1 A_[Na+] A_ClCCl A_[H-],C O [Si] ( C C C c 1 n c c [nH] 1 ) ( O C ) O C,28,21
+66044,C c 1 c [nH] c 2 c c c ( Cl ) c c 1 2 . c 1 c [nH] c n 1 >,C c 1 c ( - n 2 c c n c 2 ) [nH] c 2 c c c ( Cl ) c c 1 2,26,27
+482514,C C C C O C c 1 c c c ( C O ) c c 1 . Cl C ( Cl ) ( Cl ) Cl > A_c1ccc(P(c2ccccc2)c2ccccc2)cc1,C C C C O C c 1 c c c ( C Cl ) c c 1,30,18
+633059,C C ( C ) ( C ) O C ( = O ) N 1 C C C [C@@H] 1 C O . C I > A_C1CCOC1 A_[Na+] A_[H-],C O C [C@H] 1 C C C N 1 C ( = O ) O C ( C ) ( C ) C,30,24
+466575,N C ( = O ) [C@@H] 1 C C [C@H] ( Br ) [C@H] ( O ) C 1 . [N-] = [N+] = [N-] > A_[Na+] A_CN(C)C=O,[N-] = [N+] = N [C@@H] 1 C C [C@@H] ( C ( N ) = O ) C [C@H] 1 O,29,22
+699502,C C ( = O ) [O-] . C c 1 c c ( N ) n ( C ) n 1 > A_[K+] A_CCOC(C)=O A_CC(=O)OC(C)=O,C C ( = O ) N c 1 c c ( C ) n n 1 C,26,18
+265045,Br c 1 c c c c 2 c c c c c 1 2 . C 1 C N C C N 1 > A_ClCCl A_[K+] A_CC(C)(C)[O-] A_CC(=O)[O-] A_Cc1ccccc1C,c 1 c c c 2 c ( N 3 C C N C C 3 ) c c c c 2 c 1,30,24
+766625,C = C C Br . C C O C ( = O ) C C ( = O ) O C C > A_[Na+] A_CCO,C = C C C ( C ( = O ) O C C ) C ( = O ) O C C,26,23
+25588,C C ( O ) C Cl . O c 1 c c c ( Cl ) c c 1 > A_C1CCOC1 A_[Na+] A_[K+] A_CC(=O)O A_[H-],C C ( O ) C O c 1 c c c ( Cl ) c c 1,26,18
+660029,C O C ( = O ) c 1 c c c [nH] 1 . C O C ( Cl ) Cl > A_ClCCl A_[Cl-],C O C ( = O ) c 1 c c ( C = O ) c [nH] 1,25,19
+385382,O C 1 C C O c 2 c c c c c 2 1 . S c 1 n c [nH] n 1 > A_ClCCl A_[K+] A_CN(C)C=O A_O=C([O-])[O-] A_c1ccncc1,c 1 c c c 2 c ( c 1 ) O C C C 2 S c 1 n c [nH] n 1,30,24
+866122,O = C ( O ) C c 1 c c c ( O ) c ( F ) c 1 > A_C1CCOC1 A_CO,O C C c 1 c c c ( O ) c ( F ) c 1,24,17
+225677,Cl [Mg] c 1 c c c c c 1 . Cl c 1 c c c ( Br ) c c 1 > A_C1CCOC1,Cl c 1 c c c ( - c 2 c c c c c 2 ) c c 1,25,20
+889253,C = C [B-] ( F ) ( F ) F . F c 1 c n c n c 1 Br > A_O A_[K+] A_O=C([O-])[O-] A_[Cs+] A_c1ccc(P(c2ccccc2)c2ccccc2)cc1 A_COC(C)(C)C,C = C c 1 n c n c c 1 F,29,12
+658259,C C O C 1 C C C 2 ( C C 1 ) O C C O 2 > A_O A_CC(C)=O,C C O C 1 C C C ( = O ) C C 1,22,15
+111251,O = [N+] ( [O-] ) C C 1 2 C C C N 1 C C C 2 > A_[Na+] A_CCO A_[OH-] A_Cc1ccccc1 A_N,N C C 1 2 C C C N 1 C C C 2,25,14
+51454,N c 1 c c c ( N ) c c 1 . O = C 1 N C C O 1 > A_[Na+] A_Cl A_[OH-],N C C N c 1 c c c ( N ) c c 1,26,15
+757842,C C ( C ) = O . N c 1 c n n ( - c 2 c c c n c 2 ) c 1 > A_[Na+] A_O=C(O)C(F)(F)F,C C ( C ) N c 1 c n n ( - c 2 c c c n c 2 ) c 1,30,24
+23625,C C c 1 [nH] c ( - c 2 c c c c c 2 ) n c 1 C O >,C C c 1 [nH] c ( - c 2 c c c c c 2 ) n c 1 C = O,23,23
+709758,Cl c 1 c c ( C 2 C C S C C 2 ) n c 2 c c n n 1 2 . N > A_CO,N c 1 c c ( C 2 C C S C C 2 ) n c 2 c c n n 1 2,28,24
+408175,O = C 1 C O C C N 1 c 1 c c c ( [N+] ( = O ) [O-] ) c c 1 > A_CCOC(C)=O A_CCO,N c 1 c c c ( N 2 C C O C C 2 = O ) c c 1,29,21
+125525,C C C C ( C ) C = O . C C O C ( = O ) C C C C Br > A_O A_[Na+] A_CC#N A_[H-] A_c1ccc(P(c2ccccc2)c2ccccc2)cc1,C C C C ( C ) C = C C C C C ( = O ) O C C,30,21
+39368,C O . N # C c 1 c c c ( N C 2 C C = C C C 2 ) c c 1 > A_Cc1ccccc1 A_[H-],O = C c 1 c c c ( N C 2 C C = C C C 2 ) c c 1,29,23
+128653,O C C 1 O C 1 c 1 c c c ( Cl ) s 1 > A_ClCCl A_CCN(CC)CC A_CS(C)=O,O = C C 1 O C 1 c 1 c c c ( Cl ) s 1,21,18
+259733,Cl c 1 n c 2 c c c c c 2 n c 1 Cl . O c 1 c c c c c 1 > A_C1CCOC1 A_[Na+] A_[H-],Cl c 1 n c 2 c c c c c 2 n c 1 O c 1 c c c c c 1,30,24
+71575,O . [N-] = [N+] = N C c 1 c c c c c 1 . [OH-] > A_[Na+] A_CCO A_[Na],C C c 1 c ( C ( = O ) O ) n n n 1 C c 1 c c c c c 1,22,26
+686845,C c 1 c c ( Cl ) n c 2 c ( C ) c c c c 1 2 . N N >,C c 1 c c ( N N ) n c 2 c ( C ) c c c c 1 2,25,22
+439502,C N ( C ) C C O . C O c 1 c c 2 c ( Cl ) n c n c 2 c c 1 O >,C O c 1 c c 2 c ( Cl ) n c n c 2 c c 1 O C C N ( C ) C,30,27
+191776,C O C ( = O ) Cl . N C C 1 C N c 2 c c c c c 2 C 1 >,C O C ( = O ) N C C 1 C N c 2 c c c c c 2 C 1,26,23
+300938,C C n 1 n n c 2 c c c ( C ( = O ) O C ) c c 2 1 > A_C1CCOC1 A_CO A_[Cl-] A_[NH4+] A_[Li+],C C n 1 n n c 2 c c c ( C O ) c c 2 1,30,19
+240429,C # C C N C ( = O ) N c 1 c c c c c 1 > A_[Na+] A_Cc1ccccc1 A_C[O-],C c 1 c [nH] c ( = O ) n 1 - c 1 c c c c c 1,23,21
+528213,N O . O = C c 1 c o c 2 c c ( C ( = O ) O ) [nH] c 1 2 > A_CN(C)C=O A_Cl,N # C c 1 c o c 2 c c ( C ( = O ) O ) [nH] c 1 2,29,23
+265222,C c 1 c c ( Br ) c c c 1 N . O = N [O-] > A_O A_[Na+] A_O=S(=O)(O)O A_O=S(=O)([O-])[O-],C c 1 c c ( Br ) c c c 1 O,23,13
+293396,C O c 1 c c ( C = O ) c c ( O C ) c 1 O C > A_O=S(=O)(O)O,C O c 1 c c ( C = O ) c c ( O C ) c 1 O,23,20
+135521,C C C C ( = O ) Cl . C c 1 c c n c ( N ) c 1 [N+] ( = O ) [O-] > A_CCOC(C)=O,C C C C ( = O ) N c 1 n c c c ( C ) c 1 [N+] ( = O ) [O-],30,26
+877452,C O C 1 C C C ( O C ) O 1 . N c 1 c ( Br ) c c c c 1 Br > A_CC(=O)O A_CC(Cl)Cl,Br c 1 c c c c ( Br ) c 1 - n 1 c c c c 1,30,20
+719183,F c 1 c c c ( Cl ) c ( C N = C = S ) c 1 . N N > A_O A_C1COCCO1,N N C ( = S ) N C c 1 c c ( F ) c c c 1 Cl,26,21
+843534,C C O C ( = O ) c 1 c n c 2 c c c ( F ) c n 1 2 > A_O A_C1CCOC1 A_CCO A_[OH-] A_[Li+],O = C ( O ) c 1 c n c 2 c c c ( F ) c n 1 2,30,22
+60405,C C O C ( = O ) N 1 C C c 2 n n c ( N N ) c c 2 C 1 > A_CC(C)=O,C C O C ( = O ) N 1 C c 2 c c n n c 2 C ( N N = C ( C ) C ) C 1,28,32
+810207,C C ( N ) C N C C ( C ) N . S = C = S >,C C 1 C N 2 C C ( C ) N C 2 = N 1,20,17
+590179,C N C C ( = O ) c 1 c c c c c 1 . N # C [S-] > A_O A_[K+] A_Cl A_CC(=O)O,C n 1 c c ( - c 2 c c c c c 2 ) [nH] c 1 = S,26,21
+95761,C O C ( = O ) N C C F . O = C ( [O-] ) [O-] > A_[Na+] A_CO,C O C ( = O ) N C ( C F ) O C,22,15
+632667,N N . N c 1 c c c ( N ) c c 1 . S = C = S > A_[Na+] A_[OH-],N N C ( = S ) N c 1 c c c ( N ) c c 1,24,19
+50156,C O c 1 c c c ( C ( = O ) N C C C C ( = O ) O ) c c 1 >,C O c 1 c c c ( C ( = O ) N 2 C C C C 2 = O ) c c 1,28,26
+622498,C C O C ( = O ) c 1 c c c c 2 n c ( N ) s c 1 2 > A_CC(=O)O A_ClC(Cl)Cl,C C O C ( = O ) c 1 c c c c 2 n c ( N ) s c 1 2,27,24
+12679,C = C c 1 c c c c c 1 . O c 1 c c c ( O ) c c 1 > A_Cl,c 1 c c c ( C 2 C O 2 ) c c 1,26,15
+813184,C = O . Cl c 1 [nH] n c 2 c c c c c 1 2 > A_O,O C n 1 n c 2 c c c c c 2 c 1 Cl,20,16
+44522,C C O O P ( = O ) ( O O C C ) C ( = O ) O C . N N > A_O A_CCO,C C O O P ( = O ) ( O O C C ) C ( = O ) N N,28,22
+167957,Br [Mg] C c 1 c c c c c 1 . C C ( Cl ) [SiH] ( C ) C C Cl > A_CCOCC,C C ( Cl ) [SiH] ( C ) C C C c 1 c c c c c 1,26,20
+250536,C O C C ( = O ) N [C@H] ( C ) C C c 1 c c c c c 1 > A_Cl,C [C@@H] ( N ) C C c 1 c c c c c 1,25,15
+860368,C = C ( C O C c 1 c c c c c 1 ) c 1 c n c ( N ) c n 1 > A_CO A_[Pd],C C ( C O C c 1 c c c c c 1 ) c 1 c n c ( N ) c n 1,30,26
+894244,O = C ( O ) C C c 1 c n ( C c 2 c c c c c 2 ) n n 1 > A_CCO,O = C ( O ) C C c 1 c [nH] n n 1,28,15
+112129,C 1 C O C 1 . F c 1 c c c ( Br ) c c 1 > A_C1CCOC1 A_[Cl-] A_[NH4+] A_II,O C C C c 1 c c c ( F ) c c 1,24,15
+895603,C C = C 1 C C C C ( C ) ( C ) C 1 = O > A_[Pd],C C C 1 = C C C C ( C ) ( C ) C 1 = O,21,19
+651303,C c 1 n c ( O ) c c c 1 Br . O C 1 C C O C 1 >,C c 1 n c ( O C 2 C C O C 2 ) c c c 1 Br,23,20
+632506,C N ( C ) C = O . F c 1 c c c ( Cl ) c c 1 Br > A_C1CCOC1 A_[Li+],O = C c 1 c ( Cl ) c c c ( F ) c 1 Br,25,18
+78904,C ( # C C O C 1 C C C C O 1 ) C O c 1 c c c c c 1 > A_CCO,O C C # C C O c 1 c c c c c 1,27,15
+594403,C C ( C ) C = O . O = [N+] ( [O-] ) c 1 c c c c c 1 I > A_C1CCOC1,C C ( C ) C ( O ) c 1 c c c c c 1 [N+] ( = O ) [O-],26,23
+421894,C C S c 1 c s c ( N C ( = O ) O C ( C ) ( C ) C ) n 1 > A_ClCCl A_O=C(O)C(F)(F)F,C C S c 1 c s c ( N ) n 1,30,13
+197493,C O C ( = O ) c 1 c c c 2 c ( Cl ) c c n c 2 c 1 > A_[Na+] A_CO,O C c 1 c c c 2 c ( Cl ) c c n c 2 c 1,27,19
+554129,C C [Mg+] . C O c 1 c c ( C ) c c c 1 C = O > A_[Cl-] A_[NH4+] A_CCOCC A_[Br-],C C C ( O ) c 1 c c c ( C ) c c 1 O C,25,19
+866721,C C O C ( = O ) Cl . O = C 1 C C C ( = O ) N 1 > A_CN(C)C=O A_CO A_CCN(CC)CC A_ClC(Cl)Cl,C C O C ( = O ) N 1 C ( = O ) C C C 1 = O,28,21
+387512,O . O = C 1 O C c 2 c c ( Br ) c c c 2 1 > A_O A_C1CCOC1 A_CO A_[OH-] A_[Li+],O = C ( O ) c 1 c c ( Br ) c c c 1 C O,26,19
+114200,C C C C C ( = O ) c 1 c c n c c 1 . N N C = O > A_C1CCOC1 A_ClCCl A_CCO A_Cc1ccc(S(=O)(=O)O)cc1,C C C C C ( = N N C = O ) c 1 c c n c c 1,28,21
+36665,N # C S c 1 c c c ( N ) c 2 c c c c ( C # N ) c 1 2 > A_O,N # C S c 1 c c c c 2 c c c c ( C # N ) c 1 2,28,23
+840063,C C O C ( = O ) C C # N . O = C 1 C C C C 1 > A_O A_CC(=O)O,C C O C ( = O ) C ( C # N ) = C 1 C C C 1,25,21
+690547,C O C ( = O ) c 1 c c ( Br ) c c 2 c 1 c n n 2 C > A_O A_C1CCOC1 A_Cl A_[OH-] A_[Li+],C n 1 n c c 2 c ( C ( = O ) O ) c c ( Br ) c c 2 1,30,25
+177628,C C ( = O ) c 1 o c n c 1 C . [Li] c 1 c c c o 1 > A_CCOCC,C c 1 n c o c 1 C ( C ) ( O ) c 1 c c c o 1,25,22
+111822,C N 1 C C C C 1 = O . O C C C c 1 c c c ( Br ) c c 1 > A_Cl,N # C c 1 c c c ( C C C O ) c c 1,28,17
+824255,C c 1 c c ( O ) c c ( = O ) o 1 . N c 1 c c c c c 1 Cl >,C c 1 c c ( O ) c c ( = O ) n 1 - c 1 c c c c c 1 Cl,28,26
+378059,N O . O = C 1 C C 2 C C C ( C 1 ) N 2 C c 1 c c c c c 1 > A_CCO,O N = C 1 C C 2 C C C ( C 1 ) N 2 C c 1 c c c c c 1,30,26
+221256,O C c 1 c c c c ( - c 2 c c c o 2 ) n 1 > A_O A_ClC(Cl)Cl,O = C c 1 c c c c ( - c 2 c c c o 2 ) n 1,23,21
+633285,O = C ( O ) c 1 c c c ( O C C O ) c c 1 > A_C1CCOC1 A_CCO A_[H][H],O = C ( O ) C 1 C C C ( O C C O ) C C 1,24,20
+859658,O = C N c 1 c c c 2 c ( c 1 ) C O C 2 > A_O A_C1CCOC1 A_CCOC(C)=O A_[H-] A_[Li+],C N c 1 c c c 2 c ( c 1 ) C O C 2,25,17
+336064,C 1 C O C C N 1 . O = C ( O ) c 1 c c ( Cl ) n c c 1 Cl > A_CC(=O)N(C)C,O = C ( O ) c 1 c c ( N 2 C C O C C 2 ) n c c 1 Cl,29,25
+53817,C n 1 c c s c 1 = N . S = C = N c 1 c c c c c 1 > A_[Na+] A_CCO A_Cc1ccccc1 A_C[O-],C n 1 c c s c 1 = N C ( = S ) N c 1 c c c c c 1,29,24
+556524,C = O . C O C ( = O ) C c 1 c c c ( Cl ) c c 1 > A_[Na+] A_Cl A_CS(C)=O A_C[O-],C O C ( = O ) C ( C O ) c 1 c c c ( Cl ) c c 1,28,23
+851151,C C ( = O ) c 1 c c ( Cl ) c ( F ) c ( I ) c 1 O . C C I >,C C O c 1 c ( C ( C ) = O ) c c ( Cl ) c ( F ) c 1 I,29,26
+8455,C = O . O = N c 1 c c c c c 1 . c 1 c c c c c 1 >,O = C = N c 1 c c c c c 1,25,13
+256057,C O . O = C ( O ) C c 1 c c c ( F ) c ( F ) c 1 > A_O=S(=O)(O)O,C O C ( = O ) C c 1 c c c ( F ) c ( F ) c 1,26,22
+593667,N c 1 n c c s 1 . O C c 1 c c c ( Cl ) n c 1 > A_C1CCOC1 A_[Na+] A_O=C([O-])[O-] A_[Pd],O C c 1 c c c ( N c 2 n c c s 2 ) n c 1,27,20
+414348,C O c 1 c c c 2 c ( c 1 C ) C C C 2 = O > A_ClCCl,C c 1 c ( O ) c c c 2 c 1 C C C 2 = O,22,19
+395273,C C ( O ) C Br . O = [N+] ( [O-] ) c 1 c ( Br ) n [nH] c 1 Br > A_[Na+] A_CN(C)C=O A_[H-],C C ( O ) C n 1 n c ( Br ) c ( [N+] ( = O ) [O-] ) c 1 Br,29,25
+51545,C C ( = O ) C O c 1 c ( [N+] ( = O ) [O-] ) c c c ( Cl ) c 1 F > A_CCO,C C 1 C O c 2 c ( c c c ( Cl ) c 2 F ) N 1,30,21
+164618,C N ( C ) C C O . C O C ( = O ) c 1 c c c ( O ) c c 1 > A_[Na],C N ( C ) C C O C ( = O ) c 1 c c c ( O ) c c 1,29,24
+846921,C C ( = O ) O . C O c 1 c c c ( F ) c ( C # N ) c 1 > A_CCOC(C)=O,O = C ( O ) c 1 c c ( O ) c c c 1 F,28,18
+152472,C C ( = O ) [O-] . N N c 1 c c c ( Cl ) c c 1 > A_O A_[Na+] A_Cl A_CCO,C C = N N c 1 c c c ( Cl ) c c 1,26,16
+846157,C 1 C C 2 C O C C 2 C N 1 . Cl C C C Br > A_[K+] A_O=C([O-])[O-] A_CC(C)=O,Cl C C C N 1 C C C 2 C O C C 2 C 1,23,17
+740195,C C ( C ) = O . C S c 1 n c c ( C = O ) c ( N ) n 1 > A_[K+] A_[OH-],C S c 1 n c c 2 c c c ( C ) n c 2 n 1,29,19
+28283,N # C [S-] . N c 1 c c c c c 1 [N+] ( = O ) [O-] > A_[Na+] A_ClCCl A_CO A_[Cl-] A_[NH4+] A_[Br-],N # C S c 1 c c c ( N ) c ( [N+] ( = O ) [O-] ) c 1,27,23
+866401,C C O C ( = O ) C C ( = O ) C Cl . N c 1 c c c c n 1 > A_C1CCOC1,C C O C ( = O ) C c 1 c n 2 c c c c c 2 n 1,28,22
+585203,N # C C C N c 1 c c c c ( Cl ) c 1 > A_C1CCOC1 A_CO,N C C C N c 1 c c c c ( Cl ) c 1,20,16
+129578,C C C C C C C C C C ( = O ) Cl . O = c 1 c c ( O ) c c [nH] 1 >,C C C C C C C C C C ( = O ) O c 1 c c [nH] c ( = O ) c 1,30,27
+244114,C N ( C ) N . O = C 1 C C c 2 c c ( Cl ) c c c 2 1 > A_Cc1ccccc1 A_Cc1ccc(S(=O)(=O)O)cc1,C N ( C ) N = C 1 C C c 2 c c ( Cl ) c c c 2 1,28,23
+375002,C O c 1 c c c c c 1 C ( = O ) [O-] . N C 1 C C 1 > A_Cc1ccccc1,O = C ( N C 1 C C 1 ) c 1 c c c c c 1 O,25,20
+688884,Br [Mg] C 1 C C 1 . O = C C 1 C C C 2 ( C C 1 ) O C C O 2 >,O C ( C 1 C C 1 ) C 1 C C C 2 ( C C 1 ) O C C O 2,28,25
+153896,O = C 1 O C C O 1 . O = C c 1 c c c ( O ) c c 1 > A_[Br-],O = C c 1 c c c ( O C C O ) c c 1,26,17
+298685,C C [C@@H] ( C ) C [C@H] ( C N ) C C ( = O ) O C ( C ) ( C ) C > A_Cl,C C [C@@H] ( C ) C [C@H] ( C N ) C C ( = O ) O,29,19
+17391,C S ( = O ) ( = O ) c 1 c n c ( N ) s 1 . O = C ( Cl ) Cl > A_CCOC(C)=O,C S ( = O ) ( = O ) c 1 c n c ( N = C = O ) s 1,30,24
+852971,C B ( O ) O . C O c 1 c c c ( Br ) c ( Cl ) c 1 > A_O A_ClCCl A_[K+] A_C1COCCO1 A_O=P([O-])([O-])[O-] A_CCCCCCC,C O c 1 c c c ( C ) c ( Cl ) c 1,30,16
+836500,C O C ( = O ) C ( C ) ( C ) C O . I c 1 c n [nH] c 1 > A_C1CCOC1 A_c1ccc(P(c2ccccc2)c2ccccc2)cc1,C O C ( = O ) C ( C ) ( C ) C n 1 c c ( I ) c n 1,28,25
+275322,O = C C = C ( Cl ) C ( F ) ( F ) F > A_C1CCOC1 A_[Na+],O C C = C ( Cl ) C ( F ) ( F ) F,20,16
+169498,C c 1 c c c c n 1 . O = C c 1 c c c c ( Cl ) c 1 > A_C1CCOC1 A_[Cl-] A_[NH4+] A_[Li]CCCC A_CCCCCC,O C ( C c 1 c c c c n 1 ) c 1 c c c c ( Cl ) c 1,30,24
+789257,C C O C ( = O ) C Br . C c 1 c c c ( O ) c c 1 > A_[K+] A_O=C([O-])[O-] A_CC#N,C C O C ( = O ) C O c 1 c c c ( C ) c c 1,27,21
+777728,C # C C ( C ) ( O ) C C . C C C ( C ) = O > A_C1CCOC1 A_[Li]CCCC,C C C ( C ) ( O ) C # C C ( C ) ( O ) C C,24,21
+517136,C C ( C ) C [C@H] ( C # N ) C C ( = O ) [O-] > A_O A_[K+],C C ( C ) C [C@H] ( C N ) C C ( = O ) O,22,18
+726743,C C ( C ) C C ( = O ) Cl . C c 1 c c c c c 1 > A_O A_[Cl-],C c 1 c c c ( C ( = O ) C C ( C ) C ) c c 1,25,22
+628058,Br C c 1 c c c c ( Br ) n 1 . C O C ( = O ) C O > A_[Na+] A_CN(C)C=O A_[H-],C O C ( = O ) C O C c 1 c c c c ( Br ) n 1,27,21
+720425,O = [N+] ( [O-] ) c 1 c ( F ) c c c c 1 N c 1 c c c c c 1 > A_CCOC(C)=O A_[Pd],N c 1 c ( F ) c c c c 1 N c 1 c c c c c 1,29,21
+701112,C C [Mg] Br . O = C c 1 c c c c ( Cl ) n 1 > A_C1CCOC1 A_CCOCC,C C C ( O ) c 1 c c c c ( Cl ) n 1,22,17
+251313,O C C = C c 1 c c c 2 c c c c c 2 c 1 Br > A_O A_[Na+] A_CN(C)C=O A_CC(=O)[O-],O C C C c 1 c c c 2 c c c c c 2 c 1 Br,25,19
+739601,C C I . O = [N+] ( [O-] ) c 1 c c ( O ) c c c 1 F > A_[Na+] A_CN(C)C=O A_CCOC(C)=O A_[H-],C C O c 1 c c c ( F ) c ( [N+] ( = O ) [O-] ) c 1,27,22
+16709,C C C C C C N = C = O . N C 1 C C C c 2 s c c c 2 1 >,C C C C C C N C ( = O ) N C 1 C C C c 2 s c c c 2 1,27,26
+648821,C C O C ( = O ) c 1 c c ( C C ) s c 1 N > A_CCO A_[Cl-] A_[NH4+],C C O C ( = O ) c 1 c s c ( C C ) c 1,24,19
+217045,C C C C C ( C ) = O . C C O C ( = O ) [O-] > A_O A_[Na+] A_CCO A_CC(=O)O A_O=C([O-])O A_[H-] A_CCOCC,C C C C C ( = O ) C C ( = O ) O C C,28,18
+868182,C C c 1 c c c ( N ) c c 1 . O = [N+] ( [O-] ) O > A_O=S(=O)(O)O,C C c 1 c c c ( N ) c c 1 [N+] ( = O ) [O-],23,19
+262152,C C Br . N # C c 1 c c c c c 1 O . O = C ( [O-] ) [O-] > A_[K+] A_CC(C)=O,C C C O c 1 c c c c c 1 C # N,27,15
+45159,C O C ( = O ) C N / C ( C ) = C ( / C ) C ( = O ) O C > A_CO A_[Na],C O C ( = O ) c 1 [nH] c ( C ) c ( C ) c 1 O,30,21
+157945,C O C ( = O ) C N = C c 1 c c c c c 1 . [Li] C C C C > A_O A_C1CCOC1 A_CCCCCC,C = C C C C ( N = C c 1 c c c c c 1 ) C ( = O ) O C,29,26
+520672,C O C C C I . C O c 1 c ( O ) c c ( I ) n c 1 I > A_O A_[Na+] A_CN(C)C=O A_CCOC(C)=O A_[OH-],C O C C C O c 1 c c ( I ) n c ( I ) c 1 O C,30,22
+197281,C C ( C ) = C C ( = O ) C ( = O ) O > A_[Na+] A_Cl A_CCOC(C)=O,C C ( C ) = C [C@H] ( O ) C ( = O ) O,22,17
+684053,C O c 1 c c ( N 2 C C O C C 2 ) c c c 1 [N+] ( = O ) [O-] > A_CO,C O c 1 c c ( N 2 C C O C C 2 ) c c c 1 N,28,21
+59935,C O C ( = O ) C ( F ) ( F ) C ( F ) ( F ) O C > A_O A_[Na+] A_Cl A_[OH-],C O C ( F ) ( F ) C ( F ) ( F ) C ( = O ) O,28,22
+864845,C N O C . O = C ( O ) c 1 c s c n 1 > A_O A_ClCCl,C O N ( C ) C ( = O ) c 1 c s c n 1,21,18
+775090,Br C c 1 c c c c c 1 . [O-] [n+] 1 c c c c c 1 O > A_[K+] A_CN(C)C=O A_O=C([O-])[O-],O = c 1 c c c c n 1 O C c 1 c c c c c 1,25,20
+632806,C C # N . O = C c 1 c c c c ( I ) c 1 >,N # C C C ( O ) c 1 c c c c ( I ) c 1,20,19
+200116,O C 1 ( C 2 = C O c 3 c c c c c 3 O 2 ) C C C C C 1 > A_ClCCl A_CCN(CC)CC,C 1 = C ( C 2 = C O c 3 c c c c c 3 O 2 ) C C C C 1,29,26
+359769,C C ( C ) ( C ) O . N n 1 c c c 2 c c c c c 2 1 > A_O A_CCCCCCC,C C C = N n 1 c c c 2 c c c c c 2 1,27,18
+685832,C C c 1 c c ( C C ) c c ( C C ) c 1 . C O C Cl > A_O A_CC(=O)O,C C c 1 c c ( C C ) c ( C Cl ) c ( C C ) c 1,26,22
+571759,C S C ( = N C # N ) S C . N C C N C c 1 c c c c c 1 > A_ClCCl A_C1COCCO1,N # C N = C 1 N C C N 1 C c 1 c c c c c 1,29,21
+403236,C C C C C / C = C \ C C C C C C C O > A_ClCCl,C C C C C / C = C \ C C C C C C C = O,20,19
+34854,C N N . N # C c 1 s c 2 n c c c c 2 c 1 Cl > A_O A_CS(C)=O,C n 1 n c ( N ) c 2 s c 3 n c c c c 3 c 2 1,24,22
+622333,C O c 1 c c c c c 1 C 1 = N C C c 2 c c c c c 2 1 > A_O=C(O)C(F)(F)F A_CCOCC,C O c 1 c c c c c 1 C 1 N C C c 2 c c c c c 2 1,28,24
+395369,C C N ( C C ) C C Cl . N c 1 c c c ( S ) c c 1 > A_CN(C)C=O A_O=C([O-])[O-] A_Cl A_[Cs+],C C N ( C C ) C C S c 1 c c c ( N ) c c 1,28,21
+806948,C C O C ( = O ) C 1 C ( C ) = C C C C 1 2 C C C C 2 > A_ClCCl A_CCOCC,C C O C ( = O ) C 1 = C ( C ) C C C C 1 2 C C C C 2,29,26
+483691,C O c 1 c c c ( C C C ( = O ) O ) c c 1 O C > A_C1CCOC1 A_[Cl-] A_[NH4+] A_CCOCC,C O c 1 c c c ( C C C O ) c c 1 O C,27,18
+110074,C C N ( C C ) C C . O = C C C c 1 c c c c c 1 > A_Cl,C = C ( C = O ) C c 1 c c c c c 1,25,17
+82318,[N-] = [N+] = N C C C c 1 c c ( F ) c c ( F ) c 1 > A_CO,N C C C c 1 c c ( F ) c c ( F ) c 1,24,18
+324889,C 1 = C C 2 C C C 1 C 2 . C [SiH] ( C ) Cl > A_Cc1ccccc1,C [Si] ( C ) ( Cl ) C 1 C C 2 C C C 1 C 2,21,19
+115985,C C ( C ) = C C ( C ) ( C ) C C ( C ) ( C ) C . P >,C C ( C P ( C C ( C ) C C ( C ) ( C ) C C ( C ) ( C ) C ) C C ( C ) C C ( C ) ( C ) C C ( C ) ( C ) C ) C C ( C ) ( C ) C C ( C ) ( C ) C,26,69
+725604,C C 1 O C 2 ( C C N ( C ) C C 2 ) C C 1 = N O > A_[Na+],C C 1 O C 2 ( C C N ( C ) C C 2 ) C 2 N C 1 2,25,23
+317514,O = C ( [O-] ) [O-] . O C C C c 1 c c c ( O ) c c 1 > A_O A_[K+] A_CC(C)=O,C O c 1 c c c ( C C C O ) c c 1,27,16
+130222,N # C c 1 [nH] c ( Br ) c ( Br ) c 1 Br . O = C ( [O-] ) [O-] > A_O A_[K+] A_CC(C)=O A_COCCOC,C n 1 c ( Br ) c ( Br ) c ( Br ) c 1 C # N,30,20
+654202,C C ( = O ) Cl . C c 1 c c s c 1 Br > A_ClCCl A_[Cl-],C C ( = O ) c 1 c c ( C ) c ( Br ) s 1,20,19
+333272,C O C ( = O ) C 1 ( C ( = O ) [O-] ) C C 1 > A_[Na+] A_CO A_[OH-],C O C ( = O ) C 1 ( C ( = O ) O ) C C 1,24,20
+153613,C C C C C C C C Br . O c 1 c c c ( Br ) c c 1 > A_[K+] A_O=C([O-])[O-] A_Cl,C C C C C C C C O c 1 c c c ( Br ) c c 1,26,20
+567582,C N C . Cl c 1 n c ( Cl ) c 2 s c c c 2 n 1 > A_CCO,C N ( C ) c 1 n c ( Cl ) n c 2 c c s c 1 2,23,21
+46035,C C C n 1 c ( N ) c ( N = O ) c ( = O ) [nH] c 1 = O > A_CN(C)C=O,C C C n 1 c ( N ) c ( N ) c ( = O ) [nH] c 1 = O,27,23
+43270,C C O C ( = O ) C ( = N O C C Cl ) C ( C ) = O . [Cl-] > A_CC(=O)O,C C O C ( = O ) C ( = N O C C Cl ) C ( = O ) C Cl,27,24
+340960,C C # N . C O c 1 c c c 2 [nH] c ( C ) c c 2 c 1 > A_O A_CN(C)C=O,C O c 1 c c c 2 [nH] c ( C ) c ( C # N ) c 2 c 1,26,23
+398073,C c 1 c c c ( [N+] ( = O ) [O-] ) c c 1 Br > A_O A_CO A_[Cl-] A_[NH4+],C c 1 c c c ( N ) c c 1 Br,23,13
+6278,C C O . O = C ( O ) c 1 n c c c c 1 Cl >,C C O C ( = O ) c 1 n c c c c 1 Cl,20,17
+821759,O = S ( Cl ) Cl . O C c 1 c c c ( Br ) c n 1 > A_[Na+] A_ClCCl A_O=C([O-])O,Cl C c 1 c c c ( Br ) c n 1,25,13
+314372,O = [N+] ( [O-] ) c 1 c c n c ( Cl ) c 1 . O c 1 c c c c c 1 >,Cl c 1 c c ( O c 2 c c c c c 2 ) c c n 1,28,20
+111786,C = C ( C ) C N ( C C ( O C ) O C ) C ( = O ) O C C > A_O A_CC(C)=O,C = C ( C ) C N ( C C = O ) C ( = O ) O C C,29,22
+233681,C 1 C N C C N 1 . N C ( = O ) C O C C Cl > A_O A_Cc1ccccc1,N C ( = O ) C O C C N 1 C C N C C 1,23,18
+528227,C = C ( C ) C ( = O ) O C . O C C N ( C C O ) C C O > A_[Na+] A_C[O-],C = C ( C ) C ( = O ) O C C N ( C C O ) C C O,29,23
+323146,N # C [S-] . N c 1 c c c c ( Br ) c 1 > A_[Na+] A_Cl A_[NH4+] A_ClC(Cl)Cl,N C ( = S ) N c 1 c c c c ( Br ) c 1,22,18
+32301,C C C C O C ( = O ) c 1 c c c ( C N ( C C ) C C ) o 1 . N >,C C N ( C C ) C c 1 c c c ( C ( N ) = O ) o 1,30,23
+864525,N c 1 n c c c ( Cl ) n 1 . O [C@H] 1 C C O C 1 > A_C1CCOC1 A_[K+],N c 1 n c c c ( O [C@H] 2 C C O C 2 ) n 1,24,19
+695512,O = C c 1 c c c c ( Br ) c 1 . O = [N+] ( [O-] ) O >,O = C c 1 c c ( Br ) c c c 1 [N+] ( = O ) [O-],23,20
+648396,C C C C O . O = C c 1 c c c ( O ) c ( Br ) c 1 > A_CN(C)C=O A_Cl A_[Na],C C C C O c 1 c c ( C = O ) c c c 1 O,27,19
+45082,C = C C O C ( C ) Cl . c 1 n c [nH] n 1 > A_CC#N,C = C C O C ( C ) n 1 c n c n 1,20,16
+782185,C C O B ( O C C ) O C C . C C c 1 c c c ( Br ) c n 1 > A_C1CCOC1 A_[Li]CCCC,C C c 1 c c c ( B ( O ) O ) c n 1,29,17
+339734,C C 1 ( C ) C C C ( = O ) c 2 c c c c c 2 C 1 > A_O A_[Na+] A_CO,C C 1 ( C ) C C C ( O ) c 2 c c c c c 2 C 1,27,22
+822577,C C C ( C ) ( C ) [O-] . C C C C C C > A_O A_C1CCOC1 A_[K+] A_[Br-],c 1 c c c 2 c c c c c 2 c 1,22,14
+559558,C C N . C O C ( = O ) C c 1 c c c ( O C ) c c 1 > A_[Na+] A_[H-] A_CS(C)=O,C C N C ( = O ) C c 1 c c c ( O C ) c c 1,28,21
+213281,O = C ( O ) c 1 c n c c ( Br ) c 1 > A_[Na+] A_CCO A_O=S(=O)(O)O,O C c 1 c n c c ( Br ) c 1,21,13
+266098,C O . N C 1 ( C ( = O ) O ) C C C C C 1 > A_O=S(Cl)Cl,C O C ( = O ) C 1 ( N ) C C C C C 1,22,18
+616533,N c 1 c c c ( Br ) c c 1 C ( F ) ( F ) F . O = N [O-] > A_O A_[Na+] A_Cl,N N c 1 c c c ( Br ) c c 1 C ( F ) ( F ) F,29,21
+464488,C O c 1 c c c 2 c ( c 1 ) C C C C 2 = O >,O = C 1 C C C c 2 c c ( O C c 3 c c c c c 3 ) c c c 2 1,21,28
+178233,N # C c 1 c c c ( C Br ) c c 1 . O = C 1 N C C N 1 > A_O A_[Na+] A_CN(C)C=O A_[H-],N # C c 1 c c c ( C N 2 C C N ( C c 3 c c c ( C # N ) c c 3 ) C 2 = O ) c c 1,30,39
+473034,N # C c 1 c c c ( O ) c ( F ) c 1 . O C C C Br > A_[K+] A_O=C([O-])[O-] A_CC(C)=O,N # C c 1 c c c ( O C C C O ) c ( F ) c 1,27,21
+266185,C C C C Br . C C O c 1 c c c c c 1 O > A_O A_[Na+] A_[OH-],C C C C O c 1 c c c c c 1 O C C,22,16
+527569,C N . C c 1 c ( C = O ) s c 2 c c c ( Cl ) c c 1 2 > A_[Na+] A_CO,C N C c 1 s c 2 c c c ( Cl ) c c 2 c 1 C,28,20
+88879,C C ( = O ) O . O c 1 c c c c ( O ) c 1 > A_O,C C ( = O ) c 1 c c c ( O ) c c 1 O,22,18
+729532,C I . O = C 1 N C C c 2 c c ( F ) c c c 2 1 > A_C1CCOC1 A_[Na+] A_[H-],C N 1 C C c 2 c c ( F ) c c c 2 C 1 = O,26,20
+654215,C C O C ( = O ) C S . Cl C O c 1 c c c ( Cl ) c c 1 Cl > A_[Na+] A_CN(C)C=O A_[H-],O = C ( O ) C S C O c 1 c c c ( Cl ) c c 1 Cl,30,22
+251528,C C ( = O ) N c 1 c c c ( I ) c 2 c 1 O C O 2 > A_CO A_[Pd] A_[K],C O C ( = O ) c 1 c c c ( N C ( C ) = O ) c 2 c 1 O C O 2,27,29
+160401,C O C ( = O ) [C@@H] ( C ) N . O = C c 1 c c c c c 1 > A_[Na+] A_CO A_Cl,C O C ( = O ) [C@@H] ( C ) N C c 1 c c c c c 1,28,21
+389012,C O . O = C ( O ) c 1 c c ( Br ) c c ( [N+] ( = O ) [O-] ) c 1 > A_O=S(Cl)Cl,C O C ( = O ) c 1 c c ( Br ) c c ( [N+] ( = O ) [O-] ) c 1,30,26
+103116,C C # N . O = C ( Cl ) c 1 c c c c c 1 Br > A_[Na+],N # C C ( = O ) c 1 c c c c c 1 Br,22,17
+121709,Br Br . O = c 1 [nH] c 2 n c c c c 2 o 1 > A_CN(C)C=O,O = c 1 [nH] c 2 n c c ( Br ) c c 2 o 1,20,18
+43538,N . O = c 1 c ( Cl ) c ( Cl ) c n n 1 - c 1 c c c c c 1 >,N c 1 c n n ( - c 2 c c c c c 2 ) c ( = O ) c 1 Cl,28,25
+56749,C C 1 = C ( C O ) C ( C ) ( C ) C C C 1 . I C I > A_O A_CC(=O)O,C C 1 ( C ) C C C C 2 ( C ) C C 1 2 C O,27,20
+47329,O = C ( N C C c 1 c c c c c 1 Cl ) C 1 C C C C C 1 >,Cl c 1 c c c c 2 c 1 C C N = C 2 C 1 C C C C C 1,26,24
+695867,C O C ( = O ) c 1 c c ( I ) c c n 1 > A_[Na+] A_ClCCl A_CO,O C c 1 c c ( I ) c c n 1,22,13
+891138,C = C 1 C C ( = O ) O 1 . C C ( C ) N > A_C1CCOC1,C C ( = O ) C C ( = O ) N C ( C ) C,21,18
+20605,C N ( C ) C ( N ) = C ( C # N ) C # N . S > A_CN(C)C=O A_CCN(CC)CC,C N ( C ) C ( N ) = C ( C # N ) C ( N ) = S,24,22
+184912,F c 1 c c c ( C 2 = C C 3 C C C ( C 2 ) N 3 ) c c 1 > A_CC(=O)O A_[H][H],F c 1 c c c ( C 2 C C 3 C C C ( C 2 ) N 3 ) c c 1,29,25
+883347,Br C c 1 c c c c c 1 . C [C@@H] ( O ) [C@@H] ( C ) O > A_C1CCOC1 A_[Na+] A_[K+] A_[Cl-] A_CC(C)(C)[O-],C [C@@H] ( O ) [C@@H] ( C ) O C c 1 c c c c c 1,27,19
+899973,C C ( = O ) C = O . C [C@H] ( N ) C ( = O ) N O > A_O A_[Na+] A_CO A_[OH-],C c 1 c [n+] ( [O-] ) c ( O ) c ( C ) n 1,27,18
+819800,C C ( = O ) O c 1 c c c ( C ( C ) = O ) c c 1 . C [Mg] Cl > A_C1CCOC1,C C ( C ) ( O ) c 1 c c c ( O ) c c 1,29,19
+590091,F c 1 c c c ( Br ) c ( Cl ) c 1 C Br . [C-] # N > A_O A_[K+] A_CCO,N # C C c 1 c ( F ) c c c ( Br ) c 1 Cl,25,19
+901485,C O C [C@@H] ( N C ( C ) = O ) C ( = O ) N C c 1 c c c c c 1 >,C C ( = O ) N C ( C O ) C ( = O ) N C c 1 c c c c c 1,29,27
+482598,C N ( C ) C = O . Cl c 1 c c c ( Br ) n c 1 > A_O A_C1CCOC1 A_[Na+] A_Cc1ccccc1 A_[Li]CCCC A_CCCCCC,O C c 1 c c c ( Cl ) c n 1,28,13
+700606,C C ( C ) = C c 1 c ( C ) c c c c 1 C ( = O ) O > A_CO A_[Pd],C c 1 c c c c ( C ( = O ) O ) c 1 C C ( C ) C,27,23
+116400,N C = O . N c 1 c c c n c 1 C ( = O ) O > A_O,O = c 1 [nH] c n c 2 c c c n c 1 2,22,16
+305839,N c 1 c c c c ( Cl ) c 1 S C C C Cl . O = N [O-] > A_O A_[Na+] A_ClCCl A_CO A_Cl A_O=C(O)C(F)(F)F,N N c 1 c c c c ( Cl ) c 1 S C C C Cl,29,18
+551965,C O C ( = O ) [C@@H] 1 C C [C@@H] ( C ) C [C@@H] 1 O > A_[Na+] A_CO A_[OH-],C [C@@H] 1 C C [C@@H] ( C ( = O ) O ) [C@@H] ( O ) C 1,23,20
+678900,C = C C O C ( = O ) C C C C . C O [SiH] ( O C ) O C >,C C C C C ( = O ) O C C C [Si] ( O C ) ( O C ) O C,25,24
+126895,C = C C ( = O ) O . C C C C C C C C C C C C C C C O >,C = C C ( = O ) O C C C C C C C C C C C C C C C,27,24
+56189,N # C C C ( = O ) O . N c 1 c c c c n 1 > A_CC#N,N # C C C ( = O ) N c 1 c c c c n 1,22,18
+482496,C O C c 1 c c c ( C O ) c ( N ) n 1 > A_ClCCl,C O C c 1 c c c ( C = O ) c ( N ) n 1,20,19
+636517,C O c 1 c c c ( Cl ) c c 1 F . O = C = O > A_C1CCOC1 A_[Li]CCCC,C O c 1 c c c ( Cl ) c ( C ( = O ) O ) c 1 F,23,22
+438941,C O . C c 1 c c c 2 n c ( C ) c c c 2 c 1 > A_O A_[NH4+] A_O=S(=O)(O)O,C c 1 c c c 2 n c ( C ) c c ( C O ) c 2 c 1,25,22
+16633,C = C C C C C C ( C ) C . C = C C C C C C C C C C C >,C C C C C C C C C C C = C C C C C C ( C ) C,27,22
+147135,O = C ( Cl ) Cl . c 1 c c c 2 c ( c 1 ) C C C N 2 >,O = C ( Cl ) N 1 C C C c 2 c c c c c 2 1,25,20
+514050,C c 1 n s c ( N ) c 1 C # N . O = N [O-] > A_O A_[Na+] A_O=CO,C c 1 n s c ( N N = O ) c 1 C # N,23,17
+497327,C C O C ( = O ) [C@@H] 1 C [C@H] 1 C ( = O ) O C C > A_O A_[Na+] A_CCO A_[OH-] A_CC(C)=O,C C O C ( = O ) [C@@H] 1 C [C@H] 1 C ( = O ) O,27,19
+223144,O c 1 c c c ( - c 2 c c c ( O ) c c 2 ) c c 1 >,C = C C c 1 c c c ( O ) c c 1,24,15
+812519,C I . O = c 1 [nH] c c ( Br ) c 2 o c c c 1 2 > A_CN(C)C=O A_[Cl-] A_[NH4+],C n 1 c c ( Br ) c 2 o c c c 2 c 1 = O,25,19
+748329,N C C ( = O ) N C 1 C C 1 . O = C 1 N C ( = S ) C S 1 > A_CCO,O = C ( C N C 1 = N C ( = O ) S C 1 ) N C 1 C C 1,29,25
+630588,I C C C C C I . O c 1 c c c ( Br ) c c 1 >,C C C C C ( I ) O c 1 c c c ( Br ) c c 1,21,20
+159009,C = C C O . C C O C ( = O ) c 1 c c c ( N ) c c 1 > A_CCCCCC A_[Na],C = C C O C ( = O ) c 1 c c c ( N ) c c 1,28,21
+695477,N C ( = S ) c 1 c c ( F ) c c c 1 F . N N > A_CCO,N = C ( N N ) c 1 c c ( F ) c c c 1 F,23,19
+829422,O = P ( Cl ) ( Cl ) Cl . [O-] [n+] 1 c c c c 2 n c c c c 2 1 >,Cl c 1 c c n c 2 c c c n c 1 2,27,15
+815346,N # C c 1 c ( N ) c c c c 1 Br . O = C ( [O-] ) [O-] > A_[K+] A_C1COCCO1,C O c 1 c c c c ( - c 2 c c c c ( N ) c 2 C # N ) c 1,26,27
+861544,C N c 1 c c ( Br ) c c c 1 N . N S ( N ) ( = O ) = O > A_ClCCl A_Cl A_c1ccncc1,C N 1 c 2 c c ( Br ) c c c 2 N S 1 ( = O ) = O,30,23
+179690,O = C ( C Br ) c 1 c c c ( Cl ) c n 1 . c 1 c [nH] c n 1 > A_ClCCl,O = C ( C n 1 c c n c 1 ) c 1 c c c ( Cl ) c n 1,28,24
+85206,C C C C ( = O ) C C ( = O ) N c 1 c c c c c 1 > A_Cc1ccccc1,C C C c 1 o c ( C ) c c ( = O ) c 1 C ( = O ) N c 1 c c c c c 1,25,32
+449611,C c 1 c c c ( O ) c ( C ( O ) c 2 c c c c c 2 ) n 1 > A_ClCCl A_CO,C c 1 c c c ( O ) c ( C ( = O ) c 2 c c c c c 2 ) n 1,29,27
+704597,Br c 1 c c c n c 1 . C [Sn] ( C ) ( C ) Cl > A_C1CCOC1 A_N#N,C [Sn] ( C ) ( C ) c 1 c c c n c 1,22,16
+323616,C O . C O C ( = O ) c 1 c c ( Cl ) c c n 1 > A_Cl,C O C ( = O ) c 1 c c ( O C ) c c n 1,23,19
+112190,C O C ( = O ) c 1 c c c ( C = O ) c c 1 . [Li] C C C C > A_C1CCOC1,C O C ( = O ) c 1 c c c ( / C = C / C c 2 c c 3 c ( c c 2 C ) C C C ( C ) ( C ) C C 3 ) c c 1,28,47
+718568,C = C C N ( C C = C ) C ( = O ) O C > A_ClCCl,C O C ( = O ) N 1 C = C C C 1,20,15
+227645,C O C ( = O ) c 1 c c c ( O ) c c 1 . Cl C C Cl > A_O=C([O-])[O-] A_CS(C)=O A_[Li+],C O C ( = O ) c 1 c c c ( O C C Cl ) c c 1,27,21
+699092,C c 1 c c ( F ) c ( Br ) c c 1 N . N # C [Cu] > A_CN1CCCC1=O,C c 1 c c ( F ) c ( C # N ) c c 1 N,23,18
+53451,C c 1 c [nH] c ( = O ) [nH] 1 . O = C ( Cl ) c 1 c c n c c 1 > A_Cl A_[Cl-],C c 1 [nH] c ( = O ) [nH] c 1 C ( = O ) c 1 c c n c c 1,30,25
+141557,O = C ( Cl ) c 1 c c c c 2 n n s c 1 2 > A_C1CCOC1 A_CCOC(C)=O A_[Pd],O = C c 1 c c c c 2 n n s c 1 2,23,16
+898197,C [Mg] Br . Cl . N # C c 1 n c c ( Cl ) c c 1 Cl . O > A_C1CCOC1,C C ( = O ) c 1 n c c ( Cl ) c c 1 Cl,25,18
+93153,C O c 1 c c c ( C ( O C ) O C ) c c 1 C ( C ) ( C ) C > A_O,C O c 1 c c c ( C = O ) c c 1 C ( C ) ( C ) C,29,23
+243037,C = C c 1 c c c c c 1 . N c 1 c c c c c 1 > A_CCOC(C)=O A_CCCCCC,c 1 c c c ( C C N c 2 c c c c c 2 ) c c 1,24,21
+31671,C N S ( = O ) ( = O ) c 1 s c c c 1 C O . O = S ( Cl ) Cl >,C N S ( = O ) ( = O ) c 1 s c c c 1 C Cl,29,20
+75074,N C 1 C C C ( N 2 C C N C 2 = O ) C C 1 . [O-] Cl > A_[K+] A_CCOC(C)=O A_[Cl-],O = C 1 C C C ( N 2 C C N C 2 = O ) C C 1,27,21
+561302,N # C C c 1 c 2 c c c c c 2 c c 2 c c c c c 1 2 > A_CCO A_[OH-] A_[NH4+] A_N,N C C c 1 c 2 c c c c c 2 c c 2 c c c c c 1 2,29,23
+251299,C C C C C ( C C ) C C C ( O ) C C ( C ) C > A_[Na+] A_[OH-],C C C C C ( C = C C ( = O ) C C ( C ) C ) C C,24,23
+837326,C n 1 n c ( C ( F ) F ) c ( C = O ) c 1 Cl > A_CCO A_CCN(CC)CC A_[Pd],C n 1 c c ( C = O ) c ( C ( F ) F ) n 1,25,20
+712464,C = C c 1 c c c c c 1 . C C O C ( = O ) C [N+] ( = O ) [O-] > A_CCO,C C O C ( = O ) C 1 = N O C ( c 2 c c c c c 2 ) C 1,29,26
+22665,C S ( = O ) ( = O ) Cl . N N C ( = O ) N N > A_[Na+] A_CO A_O=C([O-])O A_[Cl-],C S ( = O ) ( = O ) N N C ( = O ) N N S ( C ) ( = O ) = O,26,29
+190424,O = C C c 1 c c c ( Br ) c c 1 . O C C O > A_O A_Cc1ccccc1 A_Cc1ccc(S(=O)(=O)O)cc1,Br c 1 c c c ( C C 2 O C C O 2 ) c c 1,24,19
+45831,O = C = N c 1 c c c c c 1 . O = [N+] ( [O-] ) c 1 c c c c c 1 > A_[Pd],c 1 c c c ( N = N c 2 c c c c c 2 ) c c 1,30,21
+289804,C c 1 c c [n+] ( [O-] ) c ( Cl ) c 1 . N C C C O > A_[Na+] A_ClCCl A_Cl A_O=C([O-])O,C c 1 c c [n+] ( [O-] ) c ( N C C C O ) c 1,26,19
+192720,F C ( F ) = C C C Br . S c 1 n c 2 c c c c c 2 s 1 > A_ClCCl A_[K+] A_O=C([O-])[O-],F C ( F ) = C C C S c 1 n c 2 c c c c c 2 s 1,29,23
+105643,C = C ( C ) C ( = O ) N = C = O . C N ( C ) C C O > A_ClC(Cl)Cl A_ClCCCl,C = C ( C ) C ( = O ) N C ( = O ) O C C N ( C ) C,28,25
+787624,C N ( C ) C c 1 c c ( Br ) c c ( C O ) c 1 > A_Cc1ccccc1,C N ( C ) C c 1 c c ( Br ) c c ( C = O ) c 1,23,22
+524929,C = C C O . N c 1 c c ( Br ) c c c 1 [N+] ( = O ) [O-] > A_CN(C)C=O A_CCN(C(C)C)C(C)C A_CC(C)=O,N c 1 c c ( C C C = O ) c c c 1 [N+] ( = O ) [O-],28,22
+69991,C = C ( C ( = O ) O ) C ( F ) ( F ) F . N C ( N ) = O > A_CC(=O)OC(C)=O,O = C 1 N C C ( C ( F ) ( F ) F ) C ( = O ) N 1,29,24
+771214,C 1 C C O C 1 . N [C@H] 1 c 2 c c c c c 2 C [C@H] 1 O > A_O A_[K+] A_CCOC(C)=O A_[OH-],O = C 1 N [C@H] 2 c 3 c c c c c 3 C [C@H] 2 O 1,28,20
+864557,C C ( C ) O . N # C c 1 c n c ( N ) c c 1 F > A_C1CCOC1 A_[K+],C C ( C ) O c 1 c c ( N ) n c c 1 C # N,25,20
+505287,Cl c 1 n c c c n 1 . c 1 c c c ( C c 2 c c c s 2 ) c c 1 >,Cl c 1 n c c c ( - c 2 c c c ( C c 3 c c c c c 3 ) s 2 ) n 1,29,30
+205575,N c 1 c c ( Cl ) n c ( Cl ) c 1 . O = [N+] ( [O-] ) O > A_[Na+] A_[OH-] A_O=S(=O)(O)O,N c 1 c c ( Cl ) n c ( Cl ) c 1 [N+] ( = O ) [O-],27,21
+529378,N # C c 1 c c c ( F ) c c 1 Cl . O C C C S >,N # C c 1 c c c ( S C C C O ) c c 1 Cl,22,19
+696834,O = [N+] ( [O-] ) c 1 c c ( Br ) c c ( [N+] ( = O ) [O-] ) c 1 > A_O A_CCO A_[Cl-] A_[NH4+],N c 1 c c ( N ) c c ( Br ) c 1,30,15
+675027,C C O C ( = O ) C ( = O ) C Br . N C C c 1 c [nH] c n 1 > A_Cl A_CCO A_CCN(CC)CC,C C O C ( = O ) C 1 = C N C C c 2 n c [nH] c 2 1,30,23
+256211,O C ( C c 1 c c c c n 1 ) c 1 c c c ( Br ) c c 1 > A_[Na+] A_[OH-] A_CC(=O)O,O C ( C C 1 C C C C N 1 ) c 1 c c c ( Br ) c c 1,28,24
+668350,O = C ( N c 1 c c c c c 1 ) c 1 c c c c c 1 Br > A_O A_[Na+] A_O=C([O-])[O-] A_CC(=O)[O-] A_CC(=O)N(C)C,O = c 1 [nH] c 2 c c c c c 2 c 2 c c c c c 1 2,29,22
+155783,C c 1 c c 2 n c [nH] c 2 c c 1 C . O C C C Cl > A_O A_[Na+] A_CN(C)C=O A_[H-],C c 1 c c 2 n c n ( C C C O ) c 2 c c 1 C,26,21
+380921,C n 1 c ( C = O ) c n c 1 C 1 C C 1 . N C C ( F ) ( F ) F >,O = C c 1 c n c ( C 2 C C 2 ) n 1 C C ( F ) ( F ) F,30,26
+755881,C O C C N . N # C c 1 c c c ( C Br ) c c 1 > A_CC#N,C O C C N C c 1 c c c ( C # N ) c c 1,23,19
+133006,C C ( C ) ( C ) O C ( = O ) N C c 1 c c c c n 1 > A_CCO A_CC(=O)O,C C ( C ) ( C ) O C ( = O ) N C C 1 C C C C N 1,27,24
+565616,C C O C ( = O ) c 1 c c ( C ) n [nH] 1 . C O C C Br > A_[Na+] A_CN(C)C=O A_[H-],C C O C ( = O ) c 1 c c ( C ) n n 1 C C O C,28,22
+880066,C C C ( C ) ( O ) C C c 1 c c c c c 1 > A_C1CCOC1,C C C ( C ) ( O ) C C C 1 C C C C C 1,21,19
+90875,C S ( = O ) ( = O ) Cl . N c 1 c c c ( C C O ) c c 1 > A_ClCCl A_Cl A_c1ccncc1,C S ( = O ) ( = O ) N c 1 c c c ( C C O S ( C ) ( = O ) = O ) c c 1,30,34
+64837,C C ( = O ) C O c 1 c c c ( [N+] ( = O ) [O-] ) c c 1 > A_CCO A_[Cl-] A_[NH4+] A_[Na],C C ( O ) C O c 1 c c c ( [N+] ( = O ) [O-] ) c c 1,29,23
+489113,C C ( = O ) O C c 1 s c ( Br ) c c 1 C > A_[K+] A_CO A_O=C([O-])[O-],C c 1 c c ( Br ) s c 1 C O,23,13
+533335,Br C c 1 c c c c c 1 . N [C@H] ( C O ) C ( = O ) O > A_O A_[K+] A_O=C([O-])[O-] A_CC#N,O = C ( O C c 1 c c c c c 1 ) [C@@H] ( C O ) N ( C c 1 c c c c c 1 ) C c 1 c c c c c 1,28,41
+13859,C O C ( = O ) [C@H] ( C ) C C C [C@H] ( C ) C C C C ( C ) C > A_[H-] A_CCOCC A_[Li+],C C ( C ) C C C [C@@H] ( C ) C C C [C@@H] ( C ) C O,30,21
+58502,O = C 1 N O C C ( = S ) N 1 . c 1 c [nH] c n 1 > A_C1COCCO1,O = C 1 N = C ( n 2 c c n c 2 ) C O N 1,24,20
+891841,C I . C c 1 n c 2 c c c c ( Br ) c 2 n c 1 Cl > A_O A_C1CCOC1,C C c 1 n c 2 c c c c ( Br ) c 2 n c 1 Cl,25,20
+566021,C c 1 n c n n 1 - c 1 c c ( F ) c c c 1 Br . N # C [Cu] > A_CN1CCCC1=O,C c 1 n c n n 1 - c 1 c c ( F ) c c c 1 C # N,28,23
+1687,N N C = O . S = C = N c 1 c c c c c 1 Cl > A_O A_[Na+] A_CN(C)C=O A_[H-],c 1 c c c 2 c ( c 1 ) s c 1 n n c n 1 2,25,20
+14438,O = C ( O ) C C C C C C C C ( = O ) O > A_ClCCl,C = C ( C ) O C ( = O ) C C C C C C C C ( = O ) O C ( = C ) C,21,31
+184678,C C O C ( = O ) c 1 c c c ( [N+] ( = O ) [O-] ) c c 1 F > A_CCOC(C)=O A_[Pd],C C O C ( = O ) c 1 c c c ( N ) c c 1 F,28,20
+750357,N C C C O . O = C ( Cl ) O C c 1 c c c c c 1 > A_O A_ClCCl A_CCN(CC)CC A_CCOCC,O = C ( N C C C O ) O C c 1 c c c c c 1,27,20
+850106,C O C ( = O ) C C C C c 1 c c c ( O ) c c 1 Cl > A_[Na+] A_CO A_Cl A_[OH-],O = C ( O ) C C C C c 1 c c c ( O ) c c 1 Cl,28,22
+377794,Br Br . N C 1 C C O c 2 c c c c c 2 1 > A_CC(=O)O,N C 1 C C O c 2 c c c ( Br ) c c 2 1,20,18
+398799,C 1 C C O C 1 . Cl c 1 c n 2 n c ( Cl ) c c c 2 n 1 > A_O A_Cl,C C C c 1 c c c 2 n c ( Cl ) c n 2 n 1,28,19
+715804,C 1 C C O C 1 . C C C ( C O ) ( C O ) C O > A_[K+] A_CCOC(C)=O A_[OH-] A_[Br-] A_CCCC[N+](CCCC)(CCCC)CCCC,C = C C O C C ( C C ) ( C O ) C O,27,17
+117557,C C C C C C C C C C C C N . N C ( N ) = O >,C C C C C C C C C C C C N C ( N ) = O,22,19
+249418,O = [N+] ( [O-] ) c 1 c c c c 2 n c c c c 1 2 > A_CN(C)C=O A_Cl A_CCOC(C)=O,c 1 c c c 2 n c c c c 2 c 1,24,14
+179458,O = C ( O ) C c 1 c s c ( - c 2 c c c c c 2 O ) n 1 . [OH-] > A_[Li+],O = C ( O ) C c 1 c s c ( - c 2 c c c c ( O ) c 2 ) n 1,30,28
+632734,O = C C 1 C C C 2 ( C C C = C C C 2 ) C 1 > A_[Na+] A_CO A_Cl,O C C 1 C C C 2 ( C C C = C C C 2 ) C 1,25,20
+484887,N # C Br . N N c 1 c c ( Br ) c c n 1 > A_CC(C)O,N c 1 n n c 2 c c ( Br ) c c n 1 2,20,17
+1539,C c 1 n c c ( C O ) c c 1 O . Cl C c 1 c c c c c 1 > A_[Na+] A_CN(C)C=O A_Cl A_[H-],C c 1 n c c ( C O ) c c 1 O C c 1 c c c c c 1,30,23
+13869,C C C 1 C O 1 . C C c 1 c c c ( O ) c c 1 > A_[Na+] A_[OH-],C C c 1 c c c ( O C C ( O ) C C ) c c 1,24,20
+165359,C 1 C C O C 1 . O = C ( O ) C [C@H] ( O ) C ( = O ) O > A_Cc1ccc(S(=O)(=O)O)cc1,C C 1 ( C ) O C ( = O ) [C@H] ( C C O ) O 1,27,20
+137511,C C N ( C C ) C C . O = C ( Cl ) c 1 c c c c ( C Cl ) c 1 > A_ClCCl,C N C ( = O ) c 1 c c c c ( C Cl ) c 1,30,19
+421849,C O c 1 c c c ( C N ) c c 1 O C . O = C = N C C Cl > A_C1CCOC1,C O c 1 c c c ( C N C ( = O ) N C C Cl ) c c 1 O C,27,25
+853173,N C ( = O ) c 1 c c c ( Cl ) n c 1 . O C 1 C C N C 1 > A_[K+] A_CN(C)C=O A_O=C([O-])[O-],N C ( = O ) c 1 c c c ( N 2 C C C ( O ) C 2 ) n c 1,30,26
+852183,C C ( C ) ( C ) C ( = O ) Cl . N c 1 c c c ( Br ) n n 1 > A_O A_c1ccncc1,C C ( C ) ( C ) C ( = O ) N c 1 c c c ( Br ) n n 1,30,25
+98979,C O c 1 c c c ( S ( = O ) ( = O ) Cl ) c c 1 . [NH4+] > A_[OH-],C O c 1 c c c ( S ( N ) ( = O ) = O ) c c 1,26,22
+414366,C O C ( = O ) C 1 C c 2 c c c ( O C ) c c 2 C 1 = O > A_CCOC(C)=O A_CC(=O)O A_[Pd],C O C ( = O ) C 1 C c 2 c c c ( O C ) c c 2 C 1,30,24
+611502,C O C Br . O = c 1 [nH] n c c ( Cl ) c 1 Cl > A_O A_ClCCl A_CCN(C(C)C)C(C)C,C O C n 1 n c c ( Cl ) c ( Cl ) c 1 = O,23,19
+487290,O = C ( N N c 1 n c c ( Br ) n c 1 Cl ) C ( F ) ( F ) F > A_Cl A_CCO,N N c 1 n c c ( Br ) n c 1 Cl,30,14
+675485,C C C C Br . C C O C ( = O ) c 1 c c c c ( O ) c 1 > A_[K+] A_O=C([O-])[O-],C C C C O c 1 c c c c ( C ( = O ) O ) c 1,28,21
+556623,C C [O-] . C O c 1 c c c ( I ) n c 1 Br > A_[Na+] A_CN(C)C=O,C C O c 1 n c ( I ) c c c 1 O C,21,16
+823426,N # C c 1 c c c ( F ) c c 1 . O [C@@H] 1 C C N C 1 > A_O A_[K+] A_O=C([O-])[O-] A_CS(C)=O,N # C c 1 c c c ( N 2 C C [C@@H] ( O ) C 2 ) c c 1,28,23
+554391,N c 1 c c c ( C ( F ) ( F ) F ) c c 1 [N+] ( = O ) [O-] > A_O A_CCO,N c 1 c c c ( C ( F ) ( F ) F ) c c 1 N,28,20
+119939,O = C ( c 1 c c c c c 1 ) C ( O ) O C 1 C C O C C 1 > A_CO,C C ( = O ) c 1 c c c c c 1,28,14
+241218,C C O c 1 c c c c ( F ) c 1 F . O = C c 1 c c c c c 1 > A_C1CCOC1 A_CCCCCC,C C O c 1 c c c ( C ( O ) c 2 c c c c c 2 ) c ( F ) c 1 F,30,29
+48311,C # C C ( C ) ( O ) C C C ( C ) C C > A_CO A_[Pd] A_[H][H],C = C C ( C ) ( O ) C C C ( C ) C C,22,18
+64516,O = C ( Cl ) O C C Br . O = [N+] ( [O-] ) C = C 1 N C C C S 1 > A_ClCCl A_CCN(CC)CC,O = C ( O C C Br ) N 1 C C C S C 1 = C [N+] ( = O ) [O-],30,25
+204606,Cl . N c 1 c c c ( Br ) c ( C ( F ) ( F ) F ) c 1 F > A_O A_[Na+] A_CC(=O)O A_O=S(=O)(O)O,F c 1 c ( Cl ) c c c ( Br ) c 1 C ( F ) ( F ) F,30,23
+14414,C C O C ( = O ) N = C = S . O C c 1 c c c c c 1 > A_C1CCOC1 A_CCN(CC)CC,C C O C ( = O ) N C ( = S ) O C c 1 c c c c c 1,27,24
+71796,C C 1 = C ( C ) C C 2 C ( = O ) O C ( = O ) C 2 C 1 > A_C1CCOC1,C C 1 C C 2 = C ( C C 1 C ) C ( = O ) O C 2 = O,28,24
+517519,C C C # C C C ( C ) O C ( = O ) c 1 c c c c c 1 O > A_CCO A_[Pd],C C / C = C \ C C ( C ) O C ( = O ) c 1 c c c c c 1 O,28,27
+605462,N c 1 c c c c c 1 N . O = C ( O ) C C C ( = O ) O > A_Cl,c 1 c c c 2 [nH] c ( C C c 3 n c 4 c c c c c 4 [nH] 3 ) n c 2 c 1,27,30
+281317,O = [N+] ( [O-] ) O . O = c 1 [nH] c 2 c c ( Cl ) c c c 2 o 1 > A_O A_[Na+] A_CC(=O)O,O = c 1 [nH] c 2 c c ( Cl ) c ( [N+] ( = O ) [O-] ) c c 2 o 1,30,26
+169210,C C O C ( = O ) C 1 = C c 2 c c s c 2 S N 1 C > A_C1CCOC1 A_CO,C N 1 S c 2 s c c c 2 C = C 1 C O,26,17
+505290,Cl c 1 n c c c n 1 . c 1 c c c ( C C c 2 c c c s 2 ) c c 1 >,Cl c 1 n c c c ( - c 2 c c c ( C C c 3 c c c c c 3 ) s 2 ) n 1,30,31
+21142,C C O C ( = O ) C Br . O = C 1 C C C C N 1 > A_O A_[Na+] A_ClCCl A_CN(C)C=O A_[H-],C C O C ( = O ) C N 1 C C C C C 1 = O,27,19
+63047,C C C c 1 c ( O ) c c c ( C ( C ) = O ) c 1 O . Cl Cl > A_ClC(Cl)Cl,C C C c 1 c ( O ) c ( Cl ) c c ( C ( C ) = O ) c 1 O,28,26
+23777,O = C ( O ) C C C C = C 1 C C C 2 C C C 1 C 2 > A_CCO A_[H][H],O = C ( O ) C C C C C 1 C C C 2 C C C 1 C 2,26,22
+815459,C C I . F c 1 c c c ( S ) c c 1 Br > A_[Na+] A_CO A_[OH-],C C S c 1 c c c ( F ) c ( Br ) c 1,21,17
+403309,C = C c 1 c c n c c 1 . N C 1 C C 1 > A_O A_[Na+] A_CC(=O)O A_O=C([O-])O A_CCOCC,c 1 c c ( C C N C 2 C C 2 ) c c n 1,24,18
+35149,N C = O . N c 1 c c 2 [nH] n c c 2 c c 1 C ( = O ) O >,O = c 1 n c n c 2 c c 3 [nH] [nH] c c 3 c c 1 2,26,21
+136011,C C C C ( = O ) O C [C@@H] 1 O [C@@H] 1 C C C C C ( C ) C > A_[K+] A_CO A_[OH-],C C ( C ) C C C C [C@H] 1 O [C@H] 1 C O,28,16
+188802,N # C c 1 c c c ( O C C C C N 2 C C O C C 2 ) c c 1 > A_[H-] A_[Li+],N C c 1 c c c ( O C C C C N 2 C C O C C 2 ) c c 1,29,25
+694569,O = S ( = O ) ( Cl ) c 1 c n c ( Cl ) c ( Cl ) c 1 . [NH4+] > A_[OH-] A_CC(C)O,N S ( = O ) ( = O ) c 1 c n c ( Cl ) c ( Cl ) c 1,29,24
+151196,N # C C 1 C c 2 c c c ( [N+] ( = O ) [O-] ) c c 2 C 1 > A_ClCCl A_CO A_[Pd],N # C C 1 C c 2 c c c ( N ) c c 2 C 1,28,19
+134360,C c 1 n s c c 1 C ( = O ) O . N C 1 C C 1 > A_ClCCl A_CCOC(C)=O A_CN1CCOCC1,C c 1 n s c c 1 C ( = O ) N C 1 C C 1,25,19
+619682,N c 1 c ( - c 2 c c c c c 2 ) c c c c 1 [N+] ( = O ) [O-] > A_CC(=O)O,N c 1 c c c c ( - c 2 c c c c c 2 ) c 1 N,28,21
+277581,C C ( = O ) C C ( = O ) C ( F ) ( F ) F . N N > A_O A_CO A_Cl,C c 1 c c ( C ( F ) ( F ) F ) n [nH] 1,27,18
+294772,F c 1 c c c 2 c c [nH] c 2 c 1 . O = C 1 C C N C C 1 > A_[K+] A_CO A_[OH-],F c 1 c c c 2 c ( C 3 = C C N C C 3 ) c [nH] c 2 c 1,29,25
+831287,N # C c 1 c c c c c 1 . N c 1 c c ( Br ) c c n 1 > A_O,Br c 1 c c n 2 n c ( - c 3 c c c c c 3 ) n c 2 c 1,26,25
+167494,C C C ( = O ) C ( Cl ) C ( = O ) O C . N . N C = O >,C C c 1 n c n c ( O ) c 1 Cl,26,14
+370735,C C O C ( = O ) c 1 n c ( C ( C ) ( C ) C ) c s 1 > A_[Na+] A_CO A_Cl A_[OH-],C C ( C ) ( C ) c 1 c s c ( C ( = O ) O ) n 1,30,23
+16058,C C ( C ) C ( Cl ) = C ( C # N ) C # N . [NH4+] > A_CCO A_[OH-],C C ( C ) C ( N ) = C ( C # N ) C # N,24,19
+99990,C C C C C C O . O = C 1 C = C C ( O ) N 1 >,C C C C C C O C 1 C = C C ( = O ) N 1,22,19
+347312,C c 1 c [nH] c 2 c c c c c 1 2 . Cl c 1 c c c c 2 c c [nH] c 1 2 >,C n 1 c c c 2 c c c c ( Cl ) c 2 1,30,17
+12540,C C C c 1 c c c c c 1 O . Cl C C 1 C O 1 > A_O A_[K+] A_CCO A_[OH-],C C C c 1 c c c c c 1 O C C 1 C O 1,25,18
+763568,O C 1 C C C [C@H] ( N c 2 n c ( Cl ) n c c 2 F ) C 1 > A_ClCCl,O = C 1 C C C [C@H] ( N c 2 n c ( Cl ) n c c 2 F ) C 1,26,25
+79560,O = C ( O ) C C C 1 C c 2 c c c c c 2 N C 1 = O > A_CC(=O)OC(C)=O,O = C 1 C C c 2 c c c c 3 c 2 N 1 C ( = O ) C C 3,26,25
+303084,O = C 1 C C C C C O 1 . S c 1 c c c s 1 >,O = C ( O ) C C C C C S c 1 c c c s 1,21,19
+539528,C c 1 c c c ( C c 2 c c c ( C = O ) s 2 ) s 1 > A_O A_C1CCOC1 A_CCOC(C)=O A_[H-] A_[Li+],C c 1 c c c ( C c 2 c c c ( C O ) s 2 ) s 1,29,22
+404336,C O C ( = O ) C C C ( = O ) C Br . Cl Cl >,C O C ( = O ) C C C ( = O ) C Cl,20,16
+801824,C O C ( = O ) c 1 c c c c ( N 2 C C O C C 2 ) c 1 . N N > A_CO,N N C ( = O ) c 1 c c c c ( N 2 C C O C C 2 ) c 1,30,25
+276383,C O c 1 c c c ( - c 2 c c c ( C ) c c 2 ) c c 1 > A_ClCCl,C c 1 c c c ( - c 2 c c c ( O ) c c 2 ) c c 1,26,23
+308086,C C ( = O ) c 1 c c c c ( O ) c 1 . Cl C C C C C Br >,C C ( = O ) c 1 c c c c ( O C C C C C Cl ) c 1,26,23
+539954,C C C C C C I . O c 1 c c c c 2 c c c c c 1 2 > A_O A_[K+] A_O=C([O-])[O-] A_CC#N,C C C C C C O c 1 c c c c 2 c c c c c 1 2,28,21
+836591,C O C ( = O ) C c 1 c c c s 1 . C O C ( Cl ) Cl > A_O A_ClCCl A_Cl A_[Cl-],C O C ( = O ) C c 1 c c c ( C = O ) s 1,28,20
+792392,C C ( O ) c 1 c c n c ( N N ) n 1 . C C O > A_CO,C C ( O ) c 1 c c n c ( N ) c 1,23,16
+259092,C c 1 c c c ( F ) c c 1 Br . O = C 1 C C C ( = O ) N 1 Br > A_CCOC(C)=O,O = C c 1 c c c ( F ) c c 1 Br,30,15
+7705,C C ( C ) O P ( O ) O C ( C ) C . C N c 1 c c c c c 1 >,C C ( = O ) N ( C ) c 1 c c c c c 1,28,18
+649130,Cl c 1 c c c c 2 n n c n 1 2 . N c 1 n c c ( Br ) c c 1 O >,N c 1 n c c ( Br ) c c 1 O c 1 c c c c 2 n n c n 1 2,29,26
+722502,C C 1 ( C ) O C C ( C O ) O 1 . C S ( = O ) ( = O ) Cl > A_ClCCl A_CCN(CC)CC,C C 1 ( C ) O C C ( C O S ( C ) ( = O ) = O ) O 1,30,25
+714437,O = [N+] ( [O-] ) c 1 c c c c ( Br ) c 1 O > A_C1CCOC1 A_CO,N c 1 c c c c ( Br ) c 1 O,21,13
+410495,C C O c 1 c c c ( Br ) c ( F ) c 1 O C C . N # C [Cu] > A_CN(C)C=O A_CCOC(C)=O A_N,C C O c 1 c c c ( C # N ) c ( F ) c 1 O C C,29,22
+85748,C = C C O C C O C ( = O ) C ( = C ) C . C C O [SiH] ( C ) C >,C = C ( C ) C ( = O ) O C C O C C C [Si] ( C ) ( C ) O C C,29,28
+476434,C C N 1 C C C ( = O ) C C 1 . [C-] # N . [NH4+] > A_O A_[Na+] A_CO A_[Cl-] A_N,C C N 1 C C C ( N ) ( C # N ) C C 1,26,18
+640156,N c 1 n c n s 1 . O = C ( Cl ) C Cl > A_ClCCl A_CCN(CC)CC,O = C ( C Cl ) N c 1 n c n s 1,20,15
+219385,Br C C Br . O = C 1 N C ( = O ) c 2 c c c c c 2 1 > A_CN(C)C=O A_[K],O = C 1 c 2 c c c c c 2 C ( = O ) N 1 C C Br,27,22
+295166,C = C c 1 n c c c c 1 [N+] ( = O ) [O-] > A_CCO A_[Pd] A_[H][H],C C c 1 n c c c c 1 N,21,11
+667792,C C ( C ) O . O = C ( O ) c 1 c [nH] c n 1 > A_O=S(Cl)Cl,C C ( C ) O C ( = O ) c 1 c [nH] c n 1,22,18
+19459,C C O . Cl C C 1 C O 1 . O c 1 c c c c 2 c c c n c 1 2 > A_[Na],O C C ( O ) C O c 1 c c c c 2 c c c n c 1 2,29,22
+628248,O = C 1 C ( = N O ) C c 2 c c ( F ) c ( F ) c c 2 1 > A_CC(=O)O A_[Pd],N C 1 C c 2 c c ( F ) c ( F ) c c 2 C 1 = O,29,22
+15830,C C 1 = C C C ( C ( C ) C C = O ) C C 1 . C N C C O >,C C 1 = C C C ( C ( C ) C C N ( C ) C C O ) C C 1,27,25
+210510,C [Si] ( C ) ( C ) C C # C C [C@@H] ( O ) C Cl > A_CCO A_[Pd] A_CC(=O)[O-],C [Si] ( C ) ( C ) C / C = C \ C [C@@H] ( O ) C Cl,23,21
+79381,O C ( c 1 c c c c c 1 ) c 1 c c c c c 1 . O C C C Cl > A_O=S(=O)(O)O A_c1ccccc1,Cl C C C O C ( c 1 c c c c c 1 ) c 1 c c c c c 1,29,24
+550713,C C [S-] . N # C c 1 c c ( F ) c c c 1 Br > A_[Na+] A_Cl A_Cc1ccccc1 A_CCN(C(C)C)C(C)C A_[Pd],C C S c 1 c c c ( F ) c c 1 C # N,25,17
+21565,C C ( C ) ( C ) C ( = O ) C = O . C C ( C ) = N O >,C C ( C ) ( C ) C ( C = O ) = N O,26,17
+368682,C C ( C ) ( C ) O C ( = O ) C C ( O ) C C ( O ) C O >,C C ( C ) ( C ) O C ( = O ) C [C@H] ( O ) C [C@H] ( O ) C O,27,26
+111799,C C = C C Br . C C O C ( = O ) N C C ( O C ) O C > A_O A_[Na+] A_Cc1ccccc1 A_[H-],C C = C C N ( C C ( O C ) O C ) C ( = O ) O C C,29,24
+362654,N c 1 c ( Cl ) n c n c 1 Cl . N c 1 c c c ( Cl ) c c 1 > A_O A_Cl A_CCO,N c 1 c ( Cl ) n c n c 1 N c 1 c c c ( Cl ) c c 1,30,24
+104419,C C ( Br ) = C N ( C ) C ( C ) ( C ) c 1 c c c c c 1 > A_[K+] A_[OH-],C C # C N ( C ) C ( C ) ( C ) c 1 c c c c c 1,29,23
+172806,C 1 C C O C 1 . C O C C O C . [Li] C C C C > A_O A_[Cl-] A_[NH4+] A_CCOCC A_CCCCCC A_[Br-],C = C ( c 1 c c o c 1 ) c 1 c c o c 1,27,19
+709557,C C O C ( = O ) C Br . O C 1 C C C C 1 > A_C1CCOC1 A_[Na+] A_[H-],C C O C ( = O ) C O C 1 C C C C 1,23,17
+336042,O = C ( O ) C = C c 1 c c c ( F ) c c 1 F > A_C1CCOC1 A_[Pd] A_[H][H],O = C ( O ) C C c 1 c c c ( F ) c c 1 F,25,20
+229597,O = [N+] ( [O-] ) c 1 c n c 2 c c c n c 2 c 1 O > A_CO A_[OH-] A_[NH4+],N c 1 c n c 2 c c c n c 2 c 1 O,25,16
+495440,C C ( = O ) c 1 c c c c ( Br ) c 1 . N C = O > A_O=CO,C C ( N ) c 1 c c c c ( Br ) c 1,24,16
+851857,C [Mg] Br . O = C c 1 c c c ( Br ) c c 1 F > A_C1CCOC1,C C ( O ) c 1 c c c ( Br ) c c 1 F,21,17
+224796,O = C ( [O-] ) C C C Cl . O C C C 1 C C C C N 1 > A_CN(C)C=O,O = C ( C C C Cl ) C 1 C C N C ( C C O ) C 1,24,22
+565281,N # C c 1 c c c n c 1 Cl . N C c 1 c c c ( F ) c c 1 > A_CCN(C(C)C)C(C)C A_CC(C)O,N # C c 1 c c c n c 1 N C c 1 c c c ( F ) c c 1,29,24
+173831,Cl c 1 c c c 2 c c [nH] c 2 c 1 . O = C 1 C C N C C 1 > A_O A_Cl,Cl c 1 c c c 2 c ( C 3 = C C N C C 3 ) c [nH] c 2 c 1,28,25
+750793,C C O C ( = O ) C ( C ) = C 1 C O C 1 > A_CCO A_[Pd],C C O C ( = O ) C ( C ) C 1 C O C 1,22,18
+367695,O = [N+] ( [O-] ) c 1 c n n 2 c c c c c 1 2 > A_O A_CCO A_[Cl-],N c 1 c n n 2 c c c c c 1 2,23,14
+28231,C O c 1 c c ( = O ) n ( C ) c ( C ( C ) C ) n 1 > A_Cl A_CCOCC A_CC(C)=O,C C ( C ) c 1 n c ( O ) c c ( = O ) n 1 C,28,21
+253737,C O . O = C ( O ) C c 1 c c c ( F ) c c 1 > A_CCOC(C)=O A_CCOCC A_O=S(=O)(O)O,C O C ( = O ) C c 1 c c c ( F ) c c 1,25,19
+40422,N c 1 c ( S ) c c c c 1 Cl . O = C ( Cl ) C Cl > A_c1ccncc1 A_c1ccccc1,O = C ( C Cl ) N c 1 c ( S ) c c c c 1 Cl,25,20
+190093,C C C C N ( C ) C ( = O ) C Br . O C C C C C S > A_C1CCOC1 A_[Na+] A_[H-] A_[Cl-] A_[NH4+],C C C C N ( C ) C ( = O ) C S C C C C C O,29,21
+157726,O = C ( O ) C = C c 1 c c c ( O ) c c 1 > A_[K+] A_Cl A_[OH-] A_CS(C)=O A_N#N,O = C ( O ) C = C c 1 c c c c c 1,26,17
+308167,I c 1 c c c c c 1 . c 1 c c c 2 [nH] c c c 2 c 1 >,c 1 c c c ( - n 2 c c c 3 c c c c c 3 2 ) c c 1,24,24
+67136,C O C ( = N ) C Cl . N c 1 c c c c c 1 S > A_ClCCl,Cl C c 1 n c 2 c c c c c 2 s 1,22,15
+76090,Br Br . C C ( = O ) C ( = O ) c 1 c c c c c 1 > A_ClC(Cl)Cl,O = C ( C Br ) C ( = O ) c 1 c c c c c 1,24,20
+463112,O = C 1 C c 2 c c ( C C Cl ) c ( Cl ) c c 2 N 1 > A_O A_[Na+] A_O=C([O-])[O-] A_CS(C)=O A_CC(C)O,O = C 1 C c 2 c c c ( Cl ) c c 2 N 1,29,18
+488296,C O c 1 c c ( C ( = O ) O ) c ( Cl ) c c 1 [N+] ( = O ) [O-] > A_CCO,C O c 1 c c ( C ( = O ) O ) c ( Cl ) c c 1 N,29,22
+353499,C C ( C ) ( C ) [O-] . c 1 c c c 2 [nH] c c c 2 c 1 > A_[K+] A_CN(C)C=O,C n 1 c c c 2 c c c c c 2 1,26,14
+722970,C C 1 ( O ) C C C C 1 . C [Si] ( C ) ( C ) N = [N+] = [N-] > A_Cc1ccccc1 A_CCOCC,C C 1 ( N = [N+] = [N-] ) C C C C 1,28,15
+465979,C N c 1 c c c c c 1 . Cl c 1 n c ( Cl ) c 2 c c c c c 2 n 1 >,C N ( c 1 c c c c c 1 ) c 1 n c ( N ( C ) c 2 c c c c c 2 ) c 2 c c c c c 2 n 1,30,40
+365804,N . O = C 1 O [C@@H] 2 C [C@H] 1 C C [C@@H] 2 Br > A_C1CCOC1 A_CO,N C ( = O ) [C@@H] 1 C C [C@H] ( Br ) [C@H] ( O ) C 1,20,20
+120547,C C O [Si] ( C C C ( Cl ) C Cl ) ( O C C ) O C C > A_Cc1ccccc1 A_[Na],C = C C C [Si] ( O C C ) ( O C C ) O C C,25,19
+480324,C O . O = C ( O ) c 1 c c c c ( S ) c 1 > A_Cl,C O C ( = O ) c 1 c c c c ( S ) c 1,22,18
+90483,O = C ( O ) C = C c 1 c c c c c 1 [N+] ( = O ) [O-] > A_CCO A_[Pd],O = C 1 C C c 2 c c c c c 2 N 1,26,16
+147012,C O C ( = O ) c 1 c c c c c 1 Br . C O C C O C > A_[Na+] A_O=C([O-])[O-] A_CCOCC,C O C ( = O ) c 1 c c c c c 1 - c 1 c c 2 c c ( C ) c c c 2 o 1,27,32
+841535,Cl c 1 c c ( Cl ) n c n 1 . I . O B ( O ) c 1 c c c n c 1 F >,F c 1 n c c c c 1 - c 1 c c ( I ) n c n 1,30,21
+164623,C C ( C ) ( C ) c 1 c c c ( N ) c ( Cl ) c 1 . C S C > A_ClCCl A_CCN(CC)CC,C S C c 1 c c ( C ( C ) ( C ) C ) c c ( Cl ) c 1 N,29,25
+505122,C C = O . N c 1 c c c 2 n c ( S ) s c 2 c 1 > A_O A_C1CCOC1 A_[Na+] A_CC(=O)O,C C N c 1 c c c 2 n c ( S ) s c 2 c 1,27,19
+806764,C = C ( C C ( = O ) O ) C ( = O ) O > A_C1CCOC1 A_CCO A_[H][H],C [C@@H] ( C C ( = O ) O ) C ( = O ) O,22,17
+427369,C # C C O . F C ( F ) ( F ) c 1 c n c ( Cl ) n c 1 Cl > A_O=C(O)C(F)(F)F,C # C C O c 1 n c ( Cl ) n c c 1 C ( F ) ( F ) F,28,24
+821395,N c 1 c c c ( Cl ) n c 1 . [N-] = [N+] = [N-] > A_O A_[Na+] A_O=C(O)C(F)(F)F,[N-] = [N+] = N c 1 c c c ( Cl ) n c 1,22,16
+741548,C = C C # N . C C N ( C C ) C C . C c 1 c c c c c 1 >,N # C c 1 c c n 2 c c c c c 1 2,27,16
+163040,C O . O = C ( O ) c 1 c c c ( Cl ) c c 1 O > A_Cl,C O C ( = O ) c 1 c c c ( Cl ) c c 1 O,23,19
+645086,N C ( = O ) c 1 c c ( [N+] ( = O ) [O-] ) n [nH] 1 > A_c1ccncc1,N # C c 1 c c ( [N+] ( = O ) [O-] ) n [nH] 1,23,18
+174233,Br C C 1 C O 1 . O C C C C C C c 1 c c c c c 1 > A_[Na+] A_CN(C)C=O A_[H-],c 1 c c c ( C C C C C C O C C 2 C O 2 ) c c 1,27,23
+713609,O = C ( O ) C C ( = O ) N c 1 c c c c c 1 C ( = O ) O > A_Cc1ccccc1,O = C ( O ) c 1 c c c c c 1,29,14
+52659,C C 1 ( C Br ) O C C O 1 . C C N > A_[Na+] A_[OH-] A_CCOCC,C C N C C 1 ( C ) O C C O 1,20,14
+14077,C N = C = O . C S C ( = N ) N C ( N ) = O > A_ClCCl,C N C ( = O ) N C ( = N C ( N ) = O ) S C,23,21
+895927,C O C ( = O ) C C c 1 c c c c c 1 > A_C1CCOC1 A_CCCC[N+](CCCC)(CCCC)CCCC,O C C C c 1 c c c c c 1,20,12
+196627,C C ( = O ) C C ( = O ) C ( F ) ( F ) F . C C N N > A_ClCCl A_CCO,C C n 1 n c ( C ( F ) ( F ) F ) c c 1 C,28,20
+418621,C C C ( C ) C N . O = S 1 ( = O ) C C C O 1 > A_C1CCOC1,C C C ( C ) C N C C C S ( = O ) ( = O ) O,24,21
+725041,N # C C ( O ) C 1 ( F ) C C O C C 1 > A_O A_[Na+] A_CC(C)=O A_CC(C)(C)O,O C C 1 ( F ) C C O C C 1,23,13
+260302,C C ( = O ) C = C c 1 c c ( F ) c c c 1 C . C C [O-] > A_[Na+] A_CCO,C c 1 c c c ( F ) c c 1 C 1 C C ( = O ) C C ( = O ) C 1,28,28
+684043,F C ( F ) ( F ) c 1 c n c ( Cl ) c c 1 I . N > A_CO,N c 1 c c ( Cl ) n c c 1 C ( F ) ( F ) F,24,20
+686986,C C O C ( = O ) c 1 c c c ( I ) c c 1 . O = C C 1 C C C 1 >,C C O C ( = O ) c 1 c c c ( C ( O ) C 2 C C C 2 ) c c 1,30,28
+801223,C 1 C O C C N 1 . O = C c 1 c c c c ( Br ) n 1 > A_[Na+] A_O=C([O-])O A_ClCCCl,Br c 1 c c c c ( C N 2 C C O C C 2 ) n 1,27,20
+121581,N c 1 c c c c c 1 C Cl . S c 1 n c c [nH] 1 > A_Cl A_CCO,N c 1 c c c c c 1 C S c 1 n c c [nH] 1,23,18
+284383,C O C ( = O ) C C C 1 ( C ( C ) = O ) C C 1 > A_C1CCOC1 A_[Na+] A_CN(C)C=O A_[H-],O = C 1 C C C 2 ( C C 2 ) C ( = O ) C 1,27,20
+40489,C O C ( = O ) c 1 n s c ( Cl ) n 1 . N C ( N ) = S > A_O A_C1CCOC1,C O C ( = O ) c 1 n s c ( S ) n 1,28,17
+78668,C C [O-] . Cl C n 1 c ( Br ) n c ( Cl ) c 1 Cl > A_[Na+] A_CCO,C C O C n 1 c ( Br ) n c ( Cl ) c 1 Cl,23,18
+266498,C O c 1 c c ( C ( = O ) O ) c 2 c c c c c 2 c 1 O C > A_CC(=O)O A_[Pd],C O c 1 c c ( C ( = O ) O ) c 2 c ( c 1 O C ) C C C C 2,29,28
+568139,C O C ( = O ) c 1 c c c c c 1 S C 1 C C C 1 > A_C1CCOC1 A_[OH-] A_[Li+],O = C ( O ) c 1 c c c c c 1 S C 1 C C C 1,26,21
+11150,C C 1 C C C ( C ) N 1 . O = C ( Cl ) C Cl > A_CCN(CC)CC A_c1ccccc1,C C 1 C C C ( C ) N 1 C ( = O ) C Cl,23,18
+83328,C C ( C C ( = O ) O ) N c 1 c c c ( F ) c ( Cl ) c 1 > A_O A_[Na+] A_[OH-],C C 1 C C ( = O ) c 2 c ( c c c ( F ) c 2 Cl ) N 1,30,25
+631689,C C O C ( = O ) c 1 c s c ( - c 2 c c n c c 2 ) c 1 > A_[Na+] A_[OH-],O = C ( O ) c 1 c s c ( - c 2 c c n c c 2 ) c 1,29,24
+14860,C C C C C C C 1 C O 1 . N C C C C C C N > A_CO,C C C C C C C ( O ) C N C C C C C C N C C ( O ) C C C C C C,22,30
+409554,C c 1 c c ( Cl ) c c n 1 . N c 1 c c c ( O ) c c 1 > A_O A_[K+] A_CC(C)(C)[O-],C c 1 c c ( O c 2 c c c ( N ) c c 2 ) c c n 1,29,23
+853981,C O c 1 c c c 2 c ( c 1 ) C C C C 2 = O . N O > A_[Na+] A_CO A_Cl A_CC(=O)[O-],C O c 1 c c c 2 c ( c 1 ) C C C C 2 = N O,28,21
+479033,C C ( = O ) O . C C C C C C C C = O > A_O,C = C ( C = O ) C C C C C C,20,14
+237855,Br C C 1 C O 1 . C C C C C C C C C C C C S > A_CCO A_CCOCC A_[Na],C C C C C C C C C C C C S C C ( O ) C S C C C C C C C C C C C C,25,32
+146666,Br C C 1 C C C C 1 . S c 1 n c [nH] n 1 > A_[Na+] A_CO A_C[O-],c 1 n c ( S C C 2 C C C C 2 ) n [nH] 1,22,18
+262861,N c 1 c c c ( S ( N ) ( = O ) = O ) c c 1 > A_CC(=O)O,N S ( = O ) ( = O ) c 1 c c c c c 1,23,18
+623380,N [C@@H] ( C O ) C O C c 1 c c c c c 1 . O = C ( Cl ) C Cl > A_ClCCl A_Cl A_CCN(CC)CC,O = C ( C Cl ) N [C@@H] ( C O ) C O C c 1 c c c c c 1,30,24
+769937,C C O . F c 1 c c ( C ( Br ) Br ) c n c 1 Cl > A_O,O = C c 1 c n c ( Cl ) c ( F ) c 1,23,17
+674598,C N ( C ) C c 1 c c ( [N+] ( = O ) [O-] ) c c c 1 F > A_CCO A_[Cl-] A_[NH4+],C N ( C ) C c 1 c c ( N ) c c c 1 F,27,18
+888427,O = C ( O ) C c 1 c c c c c 1 Cl . O = S ( Cl ) Cl > A_CCOC(C)=O,O = C ( Cl ) C c 1 c c c c c 1 Cl,26,16
+267931,C = C c 1 c c c ( O C ( C ) ( C ) C ) c c 1 > A_CO,C # C c 1 c c c ( O ) c c 1,24,14
+638164,C # C C ( = O ) O C . S c 1 c c c c c 1 S > A_C1CCOC1,O = C ( O ) C C 1 S c 2 c c c c c 2 S 1,23,20
+366150,C = C C O c 1 c c c ( S C ) c ( O C ) c 1 > A_O A_C1CCOC1 A_[Na+] A_Cl A_CCOC(C)=O,C O c 1 c c ( O ) c c c 1 S C,27,15
+214317,C C O C ( = O ) C = C 1 C C C C C 1 > A_[H-] A_CCOCC A_[Li+],O C C = C 1 C C C C C 1,22,12
+206158,C = C C C C C Br . C n 1 c c c ( = O ) [nH] c 1 = O > A_O A_[Na+] A_[H-] A_CS(C)=O,C C C C C = C n 1 c ( = O ) c c n ( C ) c 1 = O,29,24
+562246,C O C ( = O ) c 1 c c c c c 1 C C # N > A_[Na+] A_Cl A_[OH-],N # C C c 1 c c c c c 1 C ( = O ) O,23,18
+196268,C C ( C ) = C C C ( C ) ( C ) C ( = O ) C ( C ) C > A_[Na+],C C ( C ) = C C C ( C ) ( C ) C ( O ) C ( C ) C,27,24
+404899,C N C ( C ) ( C ) C . Cl C c 1 c c c ( Cl ) n c 1 > A_[K+] A_O=C([O-])[O-] A_CC#N,C N ( C c 1 c c c ( Cl ) n c 1 ) C ( C ) ( C ) C,28,24
+805084,C C ( = O ) C Cl . S c 1 c c c c ( Br ) c 1 > A_C1CCOC1 A_CCN(C(C)C)C(C)C,C C ( = O ) C S c 1 c c c c ( Br ) c 1,24,19
+512345,O = C 1 C C C c 2 s c c c 2 1 . O = [N+] ( [O-] ) O > A_O=S(=O)(O)O,O = C 1 C C C c 2 s c ( [N+] ( = O ) [O-] ) c c 2 1,25,23
+699072,C = C C [Mg] Cl . O = C C O C c 1 c c c c c 1 > A_C1CCOC1,C = C C C ( O ) C O C c 1 c c c c c 1,23,19
+8871,C c 1 c c c ( C = O ) c c 1 . N O > A_O A_[Na+] A_Cl A_CCO A_[OH-],C c 1 c c c ( C = N O ) c c 1,23,15
+729190,[N-] = [N+] = N C [C@@H] ( O ) C O c 1 c c c ( F ) c c 1 > A_Cl A_CC(C)O,N C [C@@H] ( O ) C O c 1 c c c ( F ) c c 1,26,19
+117902,C O [C@@H] 1 C [C@H] ( O C c 2 c c c c c 2 ) [C@H] 2 C O [C@@H] 1 O 2 > A_CCO A_[Pd] A_[H][H],C O [C@@H] 1 C [C@H] ( O ) [C@H] 2 C O [C@@H] 1 O 2,30,17
+158904,C c 1 c c 2 c c c n c 2 [nH] 1 . O = S ( = O ) ( Cl ) Cl > A_CC(=O)O,C c 1 [nH] c 2 n c c c c 2 c 1 Cl,28,15
+384745,C C ( C ) ( C ) C ( = O ) N c 1 c n c c c 1 I > A_[Na+] A_CN(C)C=O A_O=C([O-])[O-],C C ( C ) N ( C ( = O ) c 1 c c c c c 1 ) C ( C ) C,27,26
+621408,C C C N . O = C ( Cl ) c 1 c c c c c 1 > A_ClCCl,C C C N C ( = O ) c 1 c c c c c 1,21,17
+467130,C C O c 1 c c ( Br ) c c c 1 F . C O B ( O C ) O C > A_C1CCOC1 A_[Li]CCCC,C C O c 1 c c ( B ( O ) O ) c c c 1 F,28,19
+770205,C c 1 c c [n+] ( C ) c ( C ) c 1 . Cl [Mg] C c 1 c c c c c 1 > A_CCOCC,C C 1 = C C ( C c 2 c c c c c 2 ) N ( C ) C ( C ) = C 1,29,28
+3322,C C O C ( = O ) C C ( = N ) N . C c 1 c c c c c 1 C = O > A_CCO,C C O C ( = O ) C 1 = C ( N ) N C ( N ) = C ( C ( = O ) O C C ) C 1 c 1 c c c c c 1 C,30,43
+275284,C # C C C C ( = O ) O C . Cl c 1 c c c ( I ) c c 1 >,C O C ( = O ) C C C # C c 1 c c c ( Cl ) c c 1,26,23
+809367,C O C ( = O ) C ( = O ) Cl . C O C C C / C ( N ) = N / O >,C O C C C c 1 n o c ( C ( = O ) O C ) n 1,29,21
+115478,C C ( C C O ) O c 1 c c c c c 1 . N S ( = O ) ( = O ) Cl >,C C ( C C O S ( N ) ( = O ) = O ) O c 1 c c c c c 1,29,26
+478499,C O c 1 c c c ( - n 2 n c 3 c c c c c 3 c 2 Cl ) c c 1 > A_ClCCl,O c 1 c c c ( - n 2 n c 3 c c c c c 3 c 2 Cl ) c c 1,29,26
+675333,N . N # C c 1 c c c ( C ( F ) ( F ) F ) c ( F ) c 1 >,N # C c 1 c c c ( C ( F ) ( F ) F ) c ( N ) c 1,27,24
+262494,Br C ( Br ) Br . C = C ( Br ) C O C C C C C C > A_ClCCl A_[K+] A_[OH-],C C C C C C O C C 1 ( Br ) C C 1 ( Br ) Br,25,20
+231737,C = C C Br . C c 1 n c 2 c c c c ( O ) c 2 s 1 > A_O A_[K+] A_CN(C)C=O A_O=C([O-])[O-],C = C C O c 1 c c c c 2 n c ( C ) s c 1 2,28,21
+422062,C c 1 c c c c ( C = O ) c 1 . N C 1 C C 1 >,C c 1 c c c c ( C N C 2 C C 2 ) c 1,22,18
+139561,C C N ( C C ) C C O . C C O C ( = O ) C N 1 C C C C 1 >,C C N ( C C ) C C O C ( = O ) C N 1 C C C C 1,28,23
+167611,C = C 1 C N ( c 2 c c c c c 2 ) C 1 = O . O = [O+] [O-] > A_O A_CCOC(C)=O,O = C 1 C N ( c 2 c c c c c 2 ) C 1 = O,28,20
+138824,C C C C C C C C C C C # C C O > A_[Na+] A_[K+] A_[H-] A_CCOCC A_[Li+],C C C C C C C C C C / C = C / C O,21,17
+501608,C S ( = O ) ( = O ) Cl . O C 1 C C O C 1 > A_ClCCl A_CCN(CC)CC,C S ( = O ) ( = O ) O C 1 C C O C 1,23,18
+95788,N C C N . O = [N+] ( [O-] ) c 1 c ( Cl ) c c ( Cl ) c c 1 Cl > A_C1COCCO1,N C C N c 1 c c ( Cl ) c c ( N C C N ) c 1 [N+] ( = O ) [O-],28,27
+206312,Br C C C Br . C = C C c 1 c c ( C = O ) c c c 1 O > A_[K+] A_O=C([O-])[O-] A_CC(C)=O,C = C C c 1 c c ( C = O ) c c c 1 O C C C Br,28,22
+244842,Br c 1 c c c c c 1 . C O C ( = O ) C C # N > A_[Cl-] A_[NH4+] A_CCOCC,C O C ( = O ) C = C ( N ) c 1 c c c c c 1,25,21
+328391,N [C@H] ( C S ) C ( = O ) O . O = C ( O ) c 1 c c c c c 1 >,O = C ( O ) C 1 C S C ( c 2 c c c c c 2 ) = N 1,28,24
+823986,C = C C ( F ) ( F ) F . C O C ( = O ) C C S > A_Cc1ccccc1,C O C ( = O ) C C S C C C ( F ) ( F ) F,24,20
+510994,C C c 1 c c c ( C ( = O ) O ) c c 1 O C C C O C > A_ClCCl,C C c 1 c c c ( C ( = O ) O ) c c 1 O,26,19
+105992,Br C c 1 c c c c c 1 . C 1 C C O C 1 . C = C C C C C O > A_[Na+] A_[H-],C = C C C C ( C ) O C c 1 c c c c c 1,30,19
+892540,Br c 1 c c c 2 [nH] n n c 2 c 1 . C 1 = C O C C C 1 > A_ClCCl A_N#N,Br c 1 c c c 2 c ( c 1 ) n n n 2 C 1 C C C C O 1,27,24
+387485,C O c 1 c c c ( C = O ) c ( O ) c 1 > A_CC(=O)O A_[Pd] A_[NH4+],C O c 1 c c c ( C ) c ( O ) c 1,22,16
+660628,C C C [Zn+] . O = C c 1 c c ( Br ) c c ( C ( = O ) O ) c 1 > A_[Br-],C C C c 1 c c ( C = O ) c c ( C ( = O ) O ) c 1,29,24
+909,C C ( C ) ( C ) C ( = O ) C S C ( F ) F . N O > A_O A_[Na+] A_O=C([O-])[O-] A_Cl A_CCO,C C ( C ) ( C ) C ( C S C ( F ) F ) = N O,29,21
+754616,C N O C . C O C ( = O ) c 1 c s c ( C ) c 1 C > A_C1CCOC1 A_Cl,C O N ( C ) C ( = O ) c 1 c s c ( C ) c 1 C,26,22
+680090,C C ( = O ) c 1 c c c ( N ) c c 1 . C O N > A_Cl A_CCO,C O N = C ( C ) c 1 c c c ( N ) c c 1,24,19
+56704,Cl C c 1 c c c c c 1 . O c 1 c c c n c 1 Cl > A_[Na+] A_CCO A_CS(C)=O,Cl c 1 n c c c c 1 O C c 1 c c c c c 1,25,19
+25781,C O c 1 c c c ( C C # N ) c c 1 . [Li] C C C C > A_C1CCOC1 A_CCOCC,C = C C C ( C # N ) c 1 c c c ( O C ) c c 1,25,22
+122343,O = C 1 C C S c 2 s c c c 2 1 . O = S ( [O-] ) [O-] > A_O A_[Na+] A_CCOC(C)=O A_Cc1ccccc1 A_CC#N,O = C 1 C C S ( = O ) ( = O ) c 2 s c c c 2 1,29,23
+352768,Cl C 1 = C C ( Br ) = C N 2 C C N = C 1 2 > A_CC(C)=O,Cl c 1 c c ( Br ) c n 2 c c n c 1 2,22,17
+755391,F c 1 c n c ( Cl ) n c 1 Cl . O C C ( F ) ( F ) F > A_[K+] A_O=C([O-])[O-],F c 1 c n c ( Cl ) n c 1 O C C ( F ) ( F ) F,27,22
+510995,C C c 1 c c c ( C ( = O ) O ) c c 1 O . C O > A_O=S(=O)(O)O,C C c 1 c c c ( C ( = O ) O C ) c c 1 O,24,20
+576565,N N . O = C 1 C = C ( C ( F ) ( F ) F ) C ( = O ) O 1 > A_O A_Cl,O = c 1 c c ( C ( F ) ( F ) F ) c ( = O ) [nH] [nH] 1,30,24
+678519,C N / N = C / c 1 c ( Br ) c n c c 1 Br > A_C1CCOC1 A_[Na+] A_[H-],C n 1 n c c 2 c ( Br ) c n c c 2 1,23,17
+26159,C C C N ( C Cl ) S ( = O ) ( = O ) Cl . C [O-] > A_[Na+] A_CO A_C1CCCCC1,C C C N ( C O C ) S ( = O ) ( = O ) Cl,25,19
+802524,Br c 1 c c c 2 c n [nH] c 2 c 1 . C O N ( C ) C ( C ) = O > A_C1CCOC1 A_[Li]CCCC,C C ( = O ) c 1 c c c 2 c n [nH] c 2 c 1,30,19
+599977,O = [N+] ( [O-] ) c 1 c c c c ( O c 2 c n c c ( Cl ) c 2 ) c 1 > A_CCOC(C)=O,N c 1 c c c c ( O c 2 c n c c ( Cl ) c 2 ) c 1,30,23
+296612,C C ( C ) O c 1 c n c c ( Br ) c 1 . [NH4+] > A_CO A_[OH-],C C ( C ) O c 1 c n c c ( N ) c 1,22,17
+114659,O = C 1 C C [C@@H] ( C O ) N 1 C c 1 c c c c c 1 >,O = C 1 C C C ( C O ) N 1 C c 1 c c c c c 1,23,22
+60809,C c 1 c c c ( C ) n 1 C C O C C O > A_CCO A_[Pd],C C 1 C C C ( C ) N 1 C C O C C O,20,17
+545339,C C C N . C S c 1 n c c ( C # N ) c ( Cl ) n 1 > A_C1CCOC1 A_ClC(Cl)Cl,C C C N c 1 n c ( S C ) n c c 1 C # N,26,19
+246086,C O c 1 c c c c 2 c 1 O C C C 2 = O > A_O A_[Cl-] A_Cc1ccccc1C,O = C 1 C C O c 2 c ( O ) c c c c 2 1,22,19
+739857,N N c 1 c c c c c 1 Br . O = C 1 C C C C C 1 = C O > A_Cl A_CCO,Br c 1 c c c c c 1 - n 1 n c c 2 c 1 C C C C 2,28,23
+362264,C c 1 c c c ( N ) c c 1 I . O = C ( O ) c 1 c c o c 1 > A_CN(C)C=O A_CCN(C(C)C)C(C)C,C c 1 c c c ( N C ( = O ) c 2 c c o c 2 ) c c 1 I,30,25
+51785,C = C 1 C C ( = O ) O 1 . C C O P ( [O-] ) c 1 c c c c c 1 >,C C O P ( = O ) ( C C 1 C C ( = O ) O 1 ) c 1 c c c c c 1,29,29
+660613,O = C ( O ) c 1 c c c ( C ( = O ) O ) c ( Br ) c 1 >,O = C ( O ) c 1 c c c ( C O ) c ( Br ) c 1,26,21
+674895,O = C ( Cl ) C ( = O ) Cl . O = C ( O ) C 1 C C O C C 1 > A_ClCCl A_CN(C)C=O,O = C ( Cl ) C 1 C C O C C 1,30,14
+43588,C C O C ( = O ) C ( = N O C ) C 1 ( C ) O C C O 1 > A_[Na+] A_CCO A_[OH-],C O N = C ( C ( = O ) O ) C 1 ( C ) O C C O 1,29,23
+138373,C C C C C C C ( = O ) O . C O c 1 c c c c c 1 > A_CC(Cl)Cl,C C C C C C C ( = O ) c 1 c c c ( O C ) c c 1,25,23
+470785,C C ( C ) ( C ) O C ( = O ) C Br . N C C C O > A_ClCCl,C C ( C ) ( C ) O C ( = O ) C N C C C O,24,20
+110127,C N ( C ) C C C N . O = [N+] ( [O-] ) c 1 c c c ( F ) c c 1 > A_[K+] A_O=C([O-])[O-],C N ( C ) C C C N c 1 c c c ( [N+] ( = O ) [O-] ) c c 1,30,25
+641327,C c 1 n c ( I ) c ( C ) [nH] 1 . F c 1 c c ( F ) n c n 1 >,C c 1 n c ( I ) c ( C ) n 1 - c 1 c c ( F ) n c n 1,28,26
+62811,Br Br . C C ( = O ) N c 1 c c ( C ( C ) ( C ) C ) [nH] n 1 > A_O A_CC(=O)O,C C ( = O ) N c 1 n [nH] c ( C ( C ) ( C ) C ) c 1 Br,30,25
+806197,C O c 1 c c c ( C c 2 c c ( Br ) s c 2 C ) c c 1 . [I-] > A_[Na+] A_C1COCCO1,C O c 1 c c c ( C c 2 c c ( I ) s c 2 C ) c c 1,29,24
+704364,C O c 1 c c c ( C C = O ) c c 1 . O = C C ( = O ) O > A_O A_Cl A_C1COCCO1,C O c 1 c c c ( C 2 = C C ( = O ) O C 2 O ) c c 1,30,25
+542962,C C O C ( = O ) C C . I c 1 c n c c n 1 > A_C1CCOC1 A_CCN(CC)CC A_[Pd] A_CCOCC A_c1ccc(P(c2ccccc2)c2ccccc2)cc1 A_[Br-],C C O C ( = O ) C # C c 1 c n c c n 1,27,19
+604238,O = C C ( = O ) O . O = C C C C ( F ) ( F ) F > A_O A_Cl A_C1COCCO1 A_COC(C)(C)C,O = C 1 C = C ( C C ( F ) ( F ) F ) C ( O ) O 1,28,24
+375417,Cl C C C Br . O c 1 c c c ( I ) c c 1 > A_[K+] A_O=C([O-])[O-] A_CC(C)=O,Cl C C C O c 1 c c c ( I ) c c 1,22,16
+549554,O = C ( Cl ) C 1 C C C C C C 1 . O c 1 c c c c ( F ) c 1 >,O = C ( c 1 c c c ( O ) c c 1 F ) C 1 C C C C C C 1,29,26
+8060,Br Br . C C C C O c 1 c c c ( C ( C ) = O ) c c 1 >,C C C C O c 1 c c c ( C ( = O ) C Br ) c c 1,25,22
+275297,C # C c 1 c c c ( F ) c c 1 . N c 1 c c ( Cl ) c c c 1 I > A_O=C([O-])[O-],F c 1 c c c ( - c 2 c c 3 c c c ( Cl ) c c 3 [nH] 2 ) c c 1,30,28
+524058,C C C C O c 1 c c ( C O ) c c c 1 I > A_ClCCl,C C C C O c 1 c c ( C = O ) c c c 1 I,20,19
+12903,O C 1 c 2 c c c c c 2 C 2 N C 1 c 1 c c c c c 1 2 > A_c1ccccc1,O = C 1 c 2 c c c c c 2 C 2 N C 1 c 1 c c c c c 1 2,27,26
+500396,C = O . C O C ( = O ) C C C C C ( = O ) Cl . Cl C Cl >,C O C ( = O ) C C C C C ( = O ) O C Cl,26,19
+525911,C C C ( C # N ) c 1 c c ( F ) c c c 1 F . N C C N >,C C C ( C 1 = N C C N 1 ) c 1 c c ( F ) c c c 1 F,26,25
+115700,C C O c 1 c c c ( C 2 = C C C n 3 c 2 c n c 3 C ) c c 1 > A_ClCCl,C C O c 1 c c c ( - c 2 c c c n 3 c ( C ) n c c 2 3 ) c c 1,30,30
+783174,C C O C ( = O ) c 1 n c ( C C ) c s 1 > A_[Na+] A_CO,C C c 1 c s c ( C O ) n 1,22,13
+355865,O = C c 1 c c c ( Br ) c c 1 . O B ( O ) c 1 n c c s 1 >,O = C c 1 c c c ( - c 2 n c c s 2 ) c c 1,28,21
+252199,C C O C ( = O ) C C 1 ( C # N ) C = C C C = C 1 > A_CO A_[Pd],C C O C ( = O ) C C 1 ( C # N ) C C C C C 1,27,22
+58795,Cl c 1 c ( Cl ) c ( Cl ) c ( Cl ) c ( Cl ) c 1 Cl . [SH-] > A_O A_[Na+] A_CN(C)C=O A_Cl A_[OH-],S c 1 c ( Cl ) c ( Cl ) c ( Cl ) c ( Cl ) c 1 Cl,30,22
+675588,N c 1 n c 2 c c c c c 2 c 2 c c c ( Cl ) n c 1 2 >,C C C C N c 1 c c c 2 c ( n 1 ) c ( N ) n c 1 c c c c c 1 2,25,30
+870889,C I . S = c 1 [nH] c 2 c n c ( Cl ) n c 2 [nH] 1 > A_[K+] A_CCO A_[OH-],C S c 1 n c 2 n c ( Cl ) n c c 2 [nH] 1,25,18
+22307,Cl c 1 c c c ( - c 2 c c c ( Cl ) n n 2 ) c c 1 . N N > A_O A_CCCCO,N N c 1 c c c ( - c 2 c c c ( Cl ) c c 2 ) n n 1,29,24
+410487,C c 1 c c c c ( C 2 = N C C N 2 ) c 1 [N+] ( = O ) [O-] > A_CN(C)C=O A_CCOC(C)=O,C c 1 c c c c ( - c 2 n c c [nH] 2 ) c 1 [N+] ( = O ) [O-],28,25
+542064,Br c 1 c c c c c 1 . Cl c 1 c c c c 2 o c n c 1 2 > A_C1CCOC1 A_[Pd] A_[Cl-],c 1 c c c ( - c 2 c c c c 3 o c n c 2 3 ) c c 1,28,24
+892952,N # C c 1 c c c n c 1 F . O C 1 C C C 1 > A_[Na+] A_CN(C)C=O A_[H-],N # C c 1 c c c n c 1 O C 1 C C C 1,24,18
+22666,C C S ( = O ) ( = O ) Cl . N N C ( = O ) N N > A_[Na+] A_CO A_O=C([O-])O,C C S ( = O ) ( = O ) N N C ( = O ) N N S ( = O ) ( = O ) C C,26,31
+697069,C O c 1 c c c c ( C ( N ) = O ) n 1 > A_C1CCOC1 A_CCN(CC)CC,C O c 1 c c c c ( C # N ) n 1,21,15
+686798,C C O C ( = O ) c 1 c c ( C ) [nH] c 1 N . C N ( C ) C = O > A_O=CO,C c 1 c c 2 c ( O ) n c n c 2 [nH] 1,30,17
+77929,O = C ( O ) C C C c 1 c c c c c 1 > A_CC(=O)O A_[H][H],O = C ( O ) C C C C 1 C C C C C 1,20,17
+99193,C # C C C C O . C = O . C C N C C > A_[K+] A_[OH-] A_C1COCCO1 A_CC(=O)[O-],C C N ( C C ) C C # C C C C O,22,15
+437868,C c 1 n c 2 c 3 c c ( Cl ) c c c 3 [nH] c ( = O ) n 2 n 1 >,C c 1 n [nH] c ( - c 2 c c ( Cl ) c c c 2 N ) n 1,28,23
+50251,N # C [S-] . N c 1 c c c ( O C ( F ) ( F ) F ) c c 1 > A_O A_[K+] A_CC(=O)O A_N,N c 1 n c 2 c c c ( O C ( F ) ( F ) F ) c c 2 s 1,30,25
+605307,C O C ( = O ) C ( O C ) O C . N C c 1 c c c c ( F ) c 1 >,C O C ( O C ) C ( = O ) N C c 1 c c c c ( F ) c 1,29,25
+246465,N [C@@H] ( C C 1 C C 1 ) C ( = O ) O . O = N [O-] > A_O A_[Na+] A_[Cl-] A_O=S(=O)(O)O,O = C ( O ) [C@@H] ( O ) C C 1 C C 1,26,16
+87515,O = c 1 c c c ( C c 2 c c c n c 2 ) c [nH] 1 > A_O A_[Na+] A_Cl A_[OH-],O = c 1 c c c ( C c 2 c c c n c 2 ) c [nH] 1,26,21
+801819,C O . O = C ( O ) c 1 c n c c ( Cl ) c 1 > A_O=S(=O)(O)O,C O C ( = O ) c 1 c n c c ( Cl ) c 1,22,18
+611631,C C ( C ) ( C ) O C ( = O ) N N = C ( C O ) C O > A_C1CCOC1,C C ( C ) ( C ) O C ( = O ) N N C ( C O ) C O,26,23
+224806,N O . O = C c 1 c c c ( Cl ) c ( Cl ) c 1 > A_Cl A_c1ccncc1,O N = C c 1 c c c ( Cl ) c ( Cl ) c 1,23,18
+184668,C = C ( C ) O C . O N = C c 1 c c n c c 1 > A_ClCCl,C O C ( C ) ( C ) O N = C c 1 c c n c c 1,23,21
+35180,O = C ( O ) c 1 c c 2 c c c c c 2 c ( Br ) c 1 O >,O = C ( O ) c 1 c c 2 c c c c c 2 c c 1 O,25,21
+313135,C C ( C ) = C C ( = O ) O . N c 1 c c c ( F ) c c 1 > A_O A_C1CCOC1 A_CCN(CC)CC,C C ( C ) = C C ( = O ) N c 1 c c c ( F ) c c 1,30,24
+400129,C 1 = C C 2 C 3 C = C C ( C 3 ) C 2 C 1 . Cl [SiH] ( Cl ) Cl >,Cl [Si] ( Cl ) ( Cl ) C 1 C = C C C 1,28,16
+199967,C C ( C ) c 1 c c c c ( C ( C ) C ) c 1 Br . O = C = O > A_Cl A_[Li]CCCC,C C ( C ) c 1 c c c c ( C ( C ) C ) c 1 C ( = O ) O,30,26
+260667,O = C C [C@@H] ( O ) [C@H] ( O ) [C@H] ( O ) C O . O C c 1 c c c c c 1 >,O C [C@H] 1 O [C@@H] ( O C c 2 c c c c c 2 ) C [C@@H] ( O ) [C@@H] 1 O,30,26
+262303,C O . O = C ( O ) C c 1 c c 2 c c c c c 2 o 1 > A_O=S(=O)(O)O,C O C ( = O ) C c 1 c c 2 c c c c c 2 o 1,25,21
+15106,C C ( C ) C N = C = S . N c 1 c c c c ( N ) c 1 > A_ClCCl,C C ( C ) C N C ( = S ) N c 1 c c c c ( N ) c 1,26,24
+28500,N # C O [K] . N C 1 C C C ( = O ) c 2 c c s c 2 1 > A_O A_Cl,N C ( = O ) N C 1 C C C ( = O ) c 2 c c s c 2 1,27,24
+420674,O = [N+] ( [O-] ) c 1 c c c ( C n 2 c c n c 2 C O ) c c 1 > A_CCO A_[Pd],N c 1 c c c ( C n 2 c c n c 2 C O ) c c 1,29,21
+378557,C c 1 n c 2 c c c c n 2 c ( = O ) c 1 C C Cl > A_Cl A_[Pd],C c 1 n c 2 n ( c ( = O ) c 1 C C Cl ) C C C C 2,25,24
+689450,C O c 1 c c ( N C ( C ) = O ) c ( C ) c c 1 Br > A_[Na+] A_CO A_Cl A_[OH-],C O c 1 c c ( N ) c ( C ) c c 1 Br,28,17
+301805,Br Br . C C ( = O ) c 1 c c c c c 1 C > A_Cl A_CC(=O)O,C c 1 c c c c c 1 C ( = O ) C Br,21,16
+682322,C C C O c 1 c c c ( O ) c ( C ( = O ) O C ) c 1 > A_[Na+] A_[OH-] A_C1COCCO1 A_O=C(O)CC(O)(CC(=O)O)C(=O)O,C C C O c 1 c c c ( O ) c ( C ( = O ) O ) c 1,29,23
+645687,Cl C C C I . O = C ( O ) C c 1 c c c ( Cl ) c c 1 Cl > A_[Na+],O = C ( O ) C ( C C C Cl ) c 1 c c c ( Cl ) c c 1 Cl,27,25
+224077,C C ( = O ) O C ( C ) = O . N c 1 c c c ( Br ) c c 1 > A_CO,C C ( = O ) N c 1 c c c ( Br ) c c 1,28,18
+390125,Cl c 1 c c c c ( Cl ) n 1 . O = [N+] ( [O-] ) O > A_O=S(=O)(O)O,O = [N+] ( [O-] ) c 1 c c c ( Cl ) n c 1 Cl,22,18
+65814,O = C ( O ) c 1 o c c c 1 - c 1 c c c ( F ) c c 1 > A_[Cl-],O = C 1 c 2 c c ( F ) c c c 2 - c 2 c c o c 2 1,27,24
+240044,C C ( C ) ( C ) N O . C C O c 1 c c c c ( C = O ) c 1 O >,C C O c 1 c c c c ( C = [N+] ( [O-] ) C ( C ) ( C ) C ) c 1 O,29,28
+345495,C O C ( = O ) Cl . N C C c 1 c c c ( Br ) c c 1 > A_O A_[Na+] A_O=C([O-])[O-] A_CC(C)=O,C O C ( = O ) N C C c 1 c c c ( Br ) c c 1,28,21
+482087,O = [N+] ( [O-] ) O . O c 1 c c ( O ) n c ( C 2 C C 2 ) c 1 > A_CCOC(C)=O A_CC(=O)O,O = [N+] ( [O-] ) c 1 c ( O ) c c ( C 2 C C 2 ) n c 1 O,30,25
+487794,C C O C ( = O ) c 1 c c ( Br ) c ( C ) [nH] 1 > A_C1CCOC1 A_[OH-] A_[Li+],C c 1 [nH] c ( C ( = O ) O ) c c 1 Br,25,17
+681860,Br C C 1 C C C O 1 . N c 1 n n c ( C 2 C C 2 ) s 1 >,N = c 1 s c ( C 2 C C 2 ) n n 1 C C 1 C C C O 1,26,24
+713515,C c 1 c c c c c 1 N C ( = O ) C ( C ) ( C ) C > A_[Cl-] A_[NH4+] A_[Li]CCCC,C C ( C ) ( C ) c 1 c c 2 c c c c c 2 [nH] 1,27,21
+384287,C O c 1 c c ( C = O ) c c ( O C ) c 1 O > A_CC(=O)O A_[Pd],C O c 1 c c ( C ) c c ( O C ) c 1 O,23,18
+282628,C O c 1 c c ( N ) c c ( O C ) c 1 . [Br-] > A_ClCCl A_[Br-] A_CCCC[N+](CCCC)(CCCC)CCCC,C O c 1 c c ( N ) c c ( O C ) c 1 Br,23,18
+828418,N # C C c 1 c c c ( C ( F ) ( F ) F ) n c 1 . [Cl-] > A_[K+] A_O=S(Cl)Cl,N # C C c 1 c n c c ( Cl ) c 1,27,15
+276278,C C # N . N [C@@H] ( C C 1 C C C C C 1 ) C ( = O ) O . O >,O = C ( O ) [C@H] ( C C 1 C C C C C 1 ) N 1 C c 2 c c c c c 2 C 1 = O,27,33
+797341,C C [Mg+] . C O C ( = O ) c 1 c c c ( Cl ) c c 1 O C > A_C1CCOC1 A_CCOCC A_CN1CCCC1=O A_[Br-],C C c 1 c c c ( C ( = O ) O C ) c ( O C ) c 1,29,23
+280619,Cl c 1 c c ( Cl ) c c ( Cl ) c 1 . N N > A_O A_c1ccncc1,N N c 1 c c ( Cl ) c c ( Cl ) c 1,21,16
+80597,c 1 c c c 2 o c ( N C c 3 c c n c c 3 ) n c 2 c 1 > A_CO A_[H][H],c 1 c c c 2 o c ( N C C 3 C C N C C 3 ) n c 2 c 1,28,25
+440043,C C O C = O . N # C C C C C C C # N . N N > A_[Na+] A_Cl A_O=C([O-])O A_[H-] A_CCOCC,N # C C C C C c 1 c n [nH] c 1 N,27,15
+157268,O = C ( O ) C C C ( = O ) c 1 c c c c c 1 > A_[Na+] A_Cl A_CCO A_[OH-] A_[H][H],O = C 1 C C [C@@H] ( c 2 c c c c c 2 ) O 1,27,19
+409548,O = [N+] ( [O-] ) c 1 c c c ( C c 2 c c n c c 2 ) c c 1 > A_CCO A_[Pd],N c 1 c c c ( C c 2 c c n c c 2 ) c c 1,28,20
+13640,C S C ( = C [N+] ( = O ) [O-] ) S C . N C C C S c 1 n c c [nH] 1 >,C S C ( = C [N+] ( = O ) [O-] ) N C C C S c 1 n c c [nH] 1,29,25
+837181,O = C 1 c 2 c c c c c 2 C ( = O ) N 1 C C C C Br > A_[Na+] A_CO,O = C 1 N C ( = O ) c 2 c c c c c 2 1,27,19
+382945,O [C@@H] ( C # C Br ) C O c 1 c c c ( F ) c c 1 > A_O A_[Na+] A_[OH-] A_[H-] A_[Cl-] A_CCOCC A_[Li+],O [C@@H] ( / C = C / Br ) C O c 1 c c c ( F ) c c 1,29,23
+67328,C C ( = O ) N C C C C C C C c 1 c c c n c 1 > A_[Na+] A_Cl A_[OH-],N C C C C C C C c 1 c c c n c 1,26,16
+116711,Cl . N c 1 c c c c 2 c n c c ( Br ) c 1 2 . O = S = O > A_O A_[Na+] A_CC(=O)O,O = S ( = O ) ( Cl ) c 1 c c c c 2 c n c c ( Br ) c 1 2,30,27
+69942,C C C C C C C Br . C c 1 n c ( C ) c ( C ) [nH] 1 > A_O A_[Na+] A_CN(C)C=O A_Cl A_[H-],C C C C C C C n 1 c ( C ) n c ( C ) c 1 C,29,21
+631292,C O c 1 c c ( Br ) c c ( O C ) c 1 . O = [N+] ( [O-] ) O > A_CC(=O)OC(C)=O,C O c 1 c c ( Br ) c c ( O C ) c 1 [N+] ( = O ) [O-],27,23
+709970,C N C C N C . C c 1 c c s c 1 C = O > A_Cc1ccccc1,C c 1 c c s c 1 C 1 N ( C ) C C N 1 C,20,19
+236607,Br c 1 c c c c ( Br ) n 1 . C N ( C ) C = O > A_C1CCOC1 A_[Cl-] A_[NH4+] A_[Li]CCCC,O = C c 1 c c c c ( Br ) n 1,26,14
+817228,C O C ( = O ) C c 1 c c c c ( - n 2 c n n n 2 ) n 1 > A_C1CCOC1 A_[OH-] A_[Li+],O = C ( O ) C c 1 c c c c ( - n 2 c n n n 2 ) n 1,30,25
